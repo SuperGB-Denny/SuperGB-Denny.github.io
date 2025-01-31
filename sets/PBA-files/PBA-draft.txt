@@ -1,0 +1,2904 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "UM01 Laboratory Assignment",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/229_UM01 Laboratory Assignment.png"
+			}
+		},
+		{
+			"name": "UM02 Young Yarnweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/230_UM02 Young Yarnweaver.png"
+			}
+		},
+		{
+			"name": "UM03 Unpleasant Break",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/231_UM03 Unpleasant Break.png"
+			}
+		},
+		{
+			"name": "UM04 Arabelle, Guided by the Fae",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Druid ",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/232_UM04 Arabelle, Guided by the Fae.png"
+			}
+		},
+		{
+			"name": "UM05 Curious Arcanist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/233_UM05 Curious Arcanist.png"
+			}
+		},
+		{
+			"name": "UM06 Study Group",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/234_UM06 Study Group.png"
+			}
+		},
+		{
+			"name": "UM08 Unwanted Knowledge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/236_UM08 Unwanted Knowledge.png"
+			}
+		},
+		{
+			"name": "UM09 Malevolent Practitioner",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/237_UM09 Malevolent Practitioner.png"
+			}
+		},
+		{
+			"name": "UM10 Devoted Herbalist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/238_UM10 Devoted Herbalist.png"
+			}
+		},
+		{
+			"name": "UM07 Mechanical Exemplar",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/235_UM07 Mechanical Exemplar.png"
+			}
+		},
+		{
+			"name": "CW01 Optimistic First-Year",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/3_CW01 Optimistic First-Year.png"
+			}
+		},
+		{
+			"name": "CW02 Diligent Researcher",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/4_CW02 Diligent Researcher.png"
+			}
+		},
+		{
+			"name": "CW03 Hall Monitors",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Tiefling Wizard ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/5_CW03 Hall Monitors.png"
+			}
+		},
+		{
+			"name": "CW04 Glaudia's Veteran",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/6_CW04 Glaudia's Veteran.png"
+			}
+		},
+		{
+			"name": "CW05 Empathic Nurse",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/7_CW05 Empathic Nurse.png"
+			}
+		},
+		{
+			"name": "CW06 Krystel's Wingballer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/8_CW06 Krystel's Wingballer.png"
+			}
+		},
+		{
+			"name": "CW07 Blade-Dancer Prodigy",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Warrior ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/9_CW07 Blade-Dancer Prodigy.png"
+			}
+		},
+		{
+			"name": "CW08 Artificer's Plaything",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/10_CW08 Artificer's Plaything.png"
+			}
+		},
+		{
+			"name": "CW09 Cheerful Mentor",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/11_CW09 Cheerful Mentor.png"
+			}
+		},
+		{
+			"name": "CW10 Mia's Student",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/12_CW10 Mia's Student.png"
+			}
+		},
+		{
+			"name": "CW11 Serene Educator",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/13_CW11 Serene Educator.png"
+			}
+		},
+		{
+			"name": "CW12 Paper Dragon",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact Creature — Dragon Construct ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/14_CW12 Paper Dragon.png"
+			}
+		},
+		{
+			"name": "CW13 Krystel's Intervention",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/15_CW13 Krystel's Intervention.png"
+			}
+		},
+		{
+			"name": "CW14 Analysis Paralysis",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/16_CW14 Analysis Paralysis.png"
+			}
+		},
+		{
+			"name": "CW15 Overwhelming Workload",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/17_CW15 Overwhelming Workload.png"
+			}
+		},
+		{
+			"name": "CW16 Words of Encouragement",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/18_CW16 Words of Encouragement.png"
+			}
+		},
+		{
+			"name": "CW17 Peaceful Studies",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/19_CW17 Peaceful Studies.png"
+			}
+		},
+		{
+			"name": "CW18 Second Attempt",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/20_CW18 Second Attempt.png"
+			}
+		},
+		{
+			"name": "CW19 Disenchant",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/21_CW19 Disenchant.png"
+			}
+		},
+		{
+			"name": "CU01 Library Familiar",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Cat ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/47_CU01 Library Familiar.png"
+			}
+		},
+		{
+			"name": "CU02 Obsessive Bookworm",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/48_CU02 Obsessive Bookworm.png"
+			}
+		},
+		{
+			"name": "CU03 Truesight Prophet",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Cat Shaman ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/49_CU03 Truesight Prophet.png"
+			}
+		},
+		{
+			"name": "CU04 Functional Researcher",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/50_CU04 Functional Researcher.png"
+			}
+		},
+		{
+			"name": "CU05 Tireless Tinkerer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/51_CU05 Tireless Tinkerer.png"
+			}
+		},
+		{
+			"name": "CU06 Intish's Student",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Tiefling Wizard ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/52_CU06 Intish's Student.png"
+			}
+		},
+		{
+			"name": "CU07 Spectacular Orrery",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/53_CU07 Spectacular Orrery.png"
+			}
+		},
+		{
+			"name": "CU08 Snapcaster Professor",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/54_CU08 Snapcaster Professor.png"
+			}
+		},
+		{
+			"name": "CU09 Inactive Creation",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact Creature — Giant Construct ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/55_CU09 Inactive Creation.png"
+			}
+		},
+		{
+			"name": "CU10 Curriculum Inspector",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/56_CU10 Curriculum Inspector.png"
+			}
+		},
+		{
+			"name": "CU11 Exam Grading",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/57_CU11 Exam Grading.png"
+			}
+		},
+		{
+			"name": "CU12 Cooperative Flunking",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/58_CU12 Cooperative Flunking.png"
+			}
+		},
+		{
+			"name": "CU13 Inconceivable Boredom",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/59_CU13 Inconceivable Boredom.png"
+			}
+		},
+		{
+			"name": "CU14 Consult the Professor",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/60_CU14 Consult the Professor.png"
+			}
+		},
+		{
+			"name": "CU15 Divinating Snoop",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/61_CU15 Divinating Snoop.png"
+			}
+		},
+		{
+			"name": "CU16 Unstable Dismissal",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/62_CU16 Unstable Dismissal.png"
+			}
+		},
+		{
+			"name": "CU17 Unsatiable Curiosity",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/63_CU17 Unsatiable Curiosity.png"
+			}
+		},
+		{
+			"name": "CU18 Overwhelming Distractions",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/64_CU18 Overwhelming Distractions.png"
+			}
+		},
+		{
+			"name": "CU19 Faulty Flight",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/65_CU19 Faulty Flight.png"
+			}
+		},
+		{
+			"name": "CB01 Expendable Component",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Frog ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/90_CB01 Expendable Component.png"
+			}
+		},
+		{
+			"name": "CB02 Careless Cultist",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/91_CB02 Careless Cultist.png"
+			}
+		},
+		{
+			"name": "CB03 Earworm Bard",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Bard ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/92_CB03 Earworm Bard.png"
+			}
+		},
+		{
+			"name": "CB04 Lonely Practitioner",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/93_CB04 Lonely Practitioner.png"
+			}
+		},
+		{
+			"name": "CB05 Corrupted Scholar",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/94_CB05 Corrupted Scholar.png"
+			}
+		},
+		{
+			"name": "CB06 Desperate Sophomore",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/95_CB06 Desperate Sophomore.png"
+			}
+		},
+		{
+			"name": "CB07 Cruel Essayist",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/96_CB07 Cruel Essayist.png"
+			}
+		},
+		{
+			"name": "CB08 Jaux's Student",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/97_CB08 Jaux's Student.png"
+			}
+		},
+		{
+			"name": "CB09 ALDA's Overseer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Artifact Creature — Demon Construct ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/98_CB09 ALDA's Overseer.png"
+			}
+		},
+		{
+			"name": "CB10 Improvised Golem",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/99_CB10 Improvised Golem.png"
+			}
+		},
+		{
+			"name": "CB11 Deadly Duel",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/100_CB11 Deadly Duel.png"
+			}
+		},
+		{
+			"name": "CB12 Break from the Pressure",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/101_CB12 Break from the Pressure.png"
+			}
+		},
+		{
+			"name": "CB13 Cursed Companion",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Cat ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/102_CB13 Cursed Companion.png"
+			}
+		},
+		{
+			"name": "CB14 Reverse Summoning",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/103_CB14 Reverse Summoning.png"
+			}
+		},
+		{
+			"name": "CB15 Unexpected Success",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/104_CB15 Unexpected Success.png"
+			}
+		},
+		{
+			"name": "CB16 Maria's Tales",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/105_CB16 Maria's Tales.png"
+			}
+		},
+		{
+			"name": "CB17 Academic Exhaustion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/106_CB17 Academic Exhaustion.png"
+			}
+		},
+		{
+			"name": "CB18 Soul Preservation",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/107_CB18 Soul Preservation.png"
+			}
+		},
+		{
+			"name": "CB19 Hunt for Ingredients",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/108_CB19 Hunt for Ingredients.png"
+			}
+		},
+		{
+			"name": "CR01 Eager Freshman",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/133_CR01 Eager Freshman.png"
+			}
+		},
+		{
+			"name": "CR02 Mischievous Alchemist",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/134_CR02 Mischievous Alchemist.png"
+			}
+		},
+		{
+			"name": "CR03 Practical Mentor",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/135_CR03 Practical Mentor.png"
+			}
+		},
+		{
+			"name": "CR04 Combustive Creation",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/136_CR04 Combustive Creation.png"
+			}
+		},
+		{
+			"name": "CR05 Volatile Prankster",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/137_CR05 Volatile Prankster.png"
+			}
+		},
+		{
+			"name": "CR06 Curious Flameweaver",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/138_CR06 Curious Flameweaver.png"
+			}
+		},
+		{
+			"name": "CR07 Alvamar's Student",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Gnome Bard ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/139_CR07 Alvamar's Student.png"
+			}
+		},
+		{
+			"name": "CR08 Lightfoot Elementalist",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/140_CR08 Lightfoot Elementalist.png"
+			}
+		},
+		{
+			"name": "CR09 Metallic Aggressor",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact Creature — Lizard Construct ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/141_CR09 Metallic Aggressor.png"
+			}
+		},
+		{
+			"name": "CR10 Cauldron Savant",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Gnome Wizard ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/142_CR10 Cauldron Savant.png"
+			}
+		},
+		{
+			"name": "CR11 Corrupted Sigils",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/143_CR11 Corrupted Sigils.png"
+			}
+		},
+		{
+			"name": "CR12 Explosive Backfire",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/144_CR12 Explosive Backfire.png"
+			}
+		},
+		{
+			"name": "CR13 Fireheart Construct",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/145_CR13 Fireheart Construct.png"
+			}
+		},
+		{
+			"name": "CR14 Glaudia's Prodigy",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/146_CR14 Glaudia's Prodigy.png"
+			}
+		},
+		{
+			"name": "CR15 Midnight Cramming",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/147_CR15 Midnight Cramming.png"
+			}
+		},
+		{
+			"name": "CR16 Phyko's Mentorship",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/148_CR16 Phyko's Mentorship.png"
+			}
+		},
+		{
+			"name": "CR17 Studied Strike",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/149_CR17 Studied Strike.png"
+			}
+		},
+		{
+			"name": "CR18 Library Conundrum",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/150_CR18 Library Conundrum.png"
+			}
+		},
+		{
+			"name": "CR19 Hyperfixation",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/151_CR19 Hyperfixation.png"
+			}
+		},
+		{
+			"name": "CG01 Inspiring Classmate",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/176_CG01 Inspiring Classmate.png"
+			}
+		},
+		{
+			"name": "CG02 Wandering Scholar",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/177_CG02 Wandering Scholar.png"
+			}
+		},
+		{
+			"name": "CG03 Diligent Herbalist",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/178_CG03 Diligent Herbalist.png"
+			}
+		},
+		{
+			"name": "CG04 Ecstatic Zoologist",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/179_CG04 Ecstatic Zoologist.png"
+			}
+		},
+		{
+			"name": "CG05 Pure-Power Scholar",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/180_CG05 Pure-Power Scholar.png"
+			}
+		},
+		{
+			"name": "CG06 Confused Cartographer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/181_CG06 Confused Cartographer.png"
+			}
+		},
+		{
+			"name": "CG07 Blade Construct",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/182_CG07 Blade Construct.png"
+			}
+		},
+		{
+			"name": "CG08 Rinnie's Student",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/183_CG08 Rinnie's Student.png"
+			}
+		},
+		{
+			"name": "CG09 Mutated Owl",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Owl Mutant ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/184_CG09 Mutated Owl.png"
+			}
+		},
+		{
+			"name": "CG10 Mechanized Monstrosity",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Artifact Creature — Dinosaur Construct ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/185_CG10 Mechanized Monstrosity.png"
+			}
+		},
+		{
+			"name": "CG11 Fearless Alchemist",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/186_CG11 Fearless Alchemist.png"
+			}
+		},
+		{
+			"name": "CG12 Scholarly Dispute",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/187_CG12 Scholarly Dispute.png"
+			}
+		},
+		{
+			"name": "CG13 Sudden Mutation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/188_CG13 Sudden Mutation.png"
+			}
+		},
+		{
+			"name": "CG14 Incidental Summoning",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/189_CG14 Incidental Summoning.png"
+			}
+		},
+		{
+			"name": "CG15 Enjoyer of Nature",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/190_CG15 Enjoyer of Nature.png"
+			}
+		},
+		{
+			"name": "CG16 Field Studies",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/191_CG16 Field Studies.png"
+			}
+		},
+		{
+			"name": "CG17 Aspiring Specialist",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Ranger ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/192_CG17 Aspiring Specialist.png"
+			}
+		},
+		{
+			"name": "CG18 Cultivate",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/193_CG18 Cultivate.png"
+			}
+		},
+		{
+			"name": "CG19 Changing Seasons",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/194_CG19 Changing Seasons.png"
+			}
+		},
+		{
+			"name": "CA01 Damaged Dorms Maid",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/240_CA01 Damaged Dorms Maid.png"
+			}
+		},
+		{
+			"name": "CA02 Teacher's Assistant",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/241_CA02 Teacher's Assistant.png"
+			}
+		},
+		{
+			"name": "CA03 Student Project",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/242_CA03 Student Project.png"
+			}
+		},
+		{
+			"name": "CA04 Practitioner's Blade",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/243_CA04 Practitioner's Blade.png"
+			}
+		},
+		{
+			"name": "CA05 Skittering Surveyor",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/244_CA05 Skittering Surveyor.png"
+			}
+		},
+		{
+			"name": "CA06 Class Notes",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/245_CA06 Class Notes.png"
+			}
+		},
+		{
+			"name": "UW01 Thrilled Archaeomancer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/35_UW01 Thrilled Archaeomancer.png"
+			}
+		},
+		{
+			"name": "UW02 Passionate Mentee",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/36_UW02 Passionate Mentee.png"
+			}
+		},
+		{
+			"name": "UW03 Seasoned Librarian",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/37_UW03 Seasoned Librarian.png"
+			}
+		},
+		{
+			"name": "UW04 Heartfelt Zoologist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/38_UW04 Heartfelt Zoologist.png"
+			}
+		},
+		{
+			"name": "UW05 Invoker of the Waning Star",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/39_UW05 Invoker of the Waning Star.png"
+			}
+		},
+		{
+			"name": "UW06 Book-Worm Faerie",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Faerie Wizard ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/40_UW06 Book-Worm Faerie.png"
+			}
+		},
+		{
+			"name": "UW07 Stressful Experimentalist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/41_UW07 Stressful Experimentalist.png"
+			}
+		},
+		{
+			"name": "UW08 Reader of Wonders",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/42_UW08 Reader of Wonders.png"
+			}
+		},
+		{
+			"name": "UW09 Momentary Detention",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/43_UW09 Momentary Detention.png"
+			}
+		},
+		{
+			"name": "UW10 Krystel's Guile",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/44_UW10 Krystel's Guile.png"
+			}
+		},
+		{
+			"name": "UW11 Prom Night",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/45_UW11 Prom Night.png"
+			}
+		},
+		{
+			"name": "UU01 Sly Upgrader",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/78_UU01 Sly Upgrader.png"
+			}
+		},
+		{
+			"name": "UU02 Progressive Observer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/79_UU02 Progressive Observer.png"
+			}
+		},
+		{
+			"name": "UU03 Gleeful Researcher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/80_UU03 Gleeful Researcher.png"
+			}
+		},
+		{
+			"name": "UU04 Ghir, Adept Transmutor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/81_UU04 Ghir, Adept Transmutor.png"
+			}
+		},
+		{
+			"name": "UU05 Summoner of Frost",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/82_UU05 Summoner of Frost.png"
+			}
+		},
+		{
+			"name": "UU06 Cautious Laborant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/83_UU06 Cautious Laborant.png"
+			}
+		},
+		{
+			"name": "UU07 Enthusiatic Lab Partner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/84_UU07 Enthusiatic Lab Partner.png"
+			}
+		},
+		{
+			"name": "UU08 Investigate the Core",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/85_UU08 Investigate the Core.png"
+			}
+		},
+		{
+			"name": "UU09 Heartbreaking Failure",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/86_UU09 Heartbreaking Failure.png"
+			}
+		},
+		{
+			"name": "UU10 Introduction to Artifice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Class ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/87_UU10 Introduction to Artifice.png"
+			}
+		},
+		{
+			"name": "UU11 Private Lesson",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/88_UU11 Private Lesson.png"
+			}
+		},
+		{
+			"name": "UB01 Librarian's Assistant",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/121_UB01 Librarian's Assistant.png"
+			}
+		},
+		{
+			"name": "UB02 Conjurer of the Unreal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/122_UB02 Conjurer of the Unreal.png"
+			}
+		},
+		{
+			"name": "UB03 Sophia's Starcaller",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Tiefling Wizard ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/123_UB03 Sophia's Starcaller.png"
+			}
+		},
+		{
+			"name": "UB04 Heartless Innovator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Dwarf Artificer ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/124_UB04 Heartless Innovator.png"
+			}
+		},
+		{
+			"name": "UB05 Scholar of Childish Wonder",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature — Wizard Construct ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/125_UB05 Scholar of Childish Wonder.png"
+			}
+		},
+		{
+			"name": "UB06 Student-Made Abomination",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Artifact Creature — Horror Construct ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/126_UB06 Student-Made Abomination.png"
+			}
+		},
+		{
+			"name": "UB07 Jhurmi, Eternal Librarian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/127_UB07 Jhurmi, Eternal Librarian.png"
+			}
+		},
+		{
+			"name": "UB08 Knowledge Drain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/128_UB08 Knowledge Drain.png"
+			}
+		},
+		{
+			"name": "UB09 Introduction to Necromancy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Class ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/129_UB09 Introduction to Necromancy.png"
+			}
+		},
+		{
+			"name": "UB10 Eldritch Consultation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/130_UB10 Eldritch Consultation.png"
+			}
+		},
+		{
+			"name": "UB11 Diligent Research",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/131_UB11 Diligent Research.png"
+			}
+		},
+		{
+			"name": "UR01 Pentaga Star",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/164_UR01 Pentaga Star.png"
+			}
+		},
+		{
+			"name": "UR02 Conjuration-Track Savant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/165_UR02 Conjuration-Track Savant.png"
+			}
+		},
+		{
+			"name": "UR03 Flaming Practitioner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Orc Shaman ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/166_UR03 Flaming Practitioner.png"
+			}
+		},
+		{
+			"name": "UR04 Herald of Catastrophe",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elf Shaman ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/167_UR04 Herald of Catastrophe.png"
+			}
+		},
+		{
+			"name": "UR05 Unstable Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/168_UR05 Unstable Elemental.png"
+			}
+		},
+		{
+			"name": "UR06 Impulsive Havoceer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Shaman ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/169_UR06 Impulsive Havoceer.png"
+			}
+		},
+		{
+			"name": "UR07 Passionate Soothsayer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Tiefling Bard ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/170_UR07 Passionate Soothsayer.png"
+			}
+		},
+		{
+			"name": "UR08 Viki's Guile",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/171_UR08 Viki's Guile.png"
+			}
+		},
+		{
+			"name": "UR09 Lab Accident",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/172_UR09 Lab Accident.png"
+			}
+		},
+		{
+			"name": "UR10 Chaotic Meddling",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/173_UR10 Chaotic Meddling.png"
+			}
+		},
+		{
+			"name": "UR11 Introduction to Pyromancy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment — Class ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/174_UR11 Introduction to Pyromancy.png"
+			}
+		},
+		{
+			"name": "UG01 Acute Sculptor",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/208_UG01 Acute Sculptor.png"
+			}
+		},
+		{
+			"name": "UG02 Lakeside Naturalist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Tiefling Druid ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/209_UG02 Lakeside Naturalist.png"
+			}
+		},
+		{
+			"name": "UG03 Phyko's Trailplanner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human  Wizard ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/210_UG03 Phyko's Trailplanner.png"
+			}
+		},
+		{
+			"name": "UG04 Distracted Botanist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/211_UG04 Distracted Botanist.png"
+			}
+		},
+		{
+			"name": "UG05 Seasoned Naturalist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/212_UG05 Seasoned Naturalist.png"
+			}
+		},
+		{
+			"name": "UG06 Artificial Witness",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/213_UG06 Artificial Witness.png"
+			}
+		},
+		{
+			"name": "UG07 Field Engineer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Artificer Scout ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/214_UG07 Field Engineer.png"
+			}
+		},
+		{
+			"name": "UG08 Wildlife Cartographer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Tiefling Druid ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/215_UG08 Wildlife Cartographer.png"
+			}
+		},
+		{
+			"name": "UG09 Class Trip",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/216_UG09 Class Trip.png"
+			}
+		},
+		{
+			"name": "UG10 Introduction to Animism",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment — Class ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/217_UG10 Introduction to Animism.png"
+			}
+		},
+		{
+			"name": "UG11 Fevizia's Awakening",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/218_UG11 Fevizia's Awakening.png"
+			}
+		},
+		{
+			"name": "Introduction to Abjuration",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Class ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/22_Introduction to Abjuration.png"
+			}
+		},
+		{
+			"name": "UU12 Rainy Day",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/89_UU12 Rainy Day.png"
+			}
+		},
+		{
+			"name": "UB12 Lifeless Studies",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/132_UB12 Lifeless Studies.png"
+			}
+		},
+		{
+			"name": "UR12 Late for Class",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/175_UR12 Late for Class.png"
+			}
+		},
+		{
+			"name": "UG12 Natural Tutor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/219_UG12 Natural Tutor.png"
+			}
+		},
+		{
+			"name": "UA06 Cackling Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/34_UA06 Cackling Guardian.png"
+			}
+		},
+		{
+			"name": "UA07 Mountainwide Colossus",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}",
+			"type": "Artifact Creature — Giant Construct ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/77_UA07 Mountainwide Colossus.png"
+			}
+		},
+		{
+			"name": "UA08 Perilous Journey",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/120_UA08 Perilous Journey.png"
+			}
+		},
+		{
+			"name": "UA09 Spell-Charged Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/163_UA09 Spell-Charged Sentinel.png"
+			}
+		},
+		{
+			"name": "UA10 Fossil Processor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/207_UA10 Fossil Processor.png"
+			}
+		},
+		{
+			"name": "UA01 Scholar's Workbench",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/256_UA01 Scholar's Workbench.png"
+			}
+		},
+		{
+			"name": "UA02 Bloodline Analyzer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/257_UA02 Bloodline Analyzer.png"
+			}
+		},
+		{
+			"name": "UA03 Crystalline Behemoth",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/258_UA03 Crystalline Behemoth.png"
+			}
+		},
+		{
+			"name": "UA04 Course Selection",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/1_UA04 Course Selection.png"
+			}
+		},
+		{
+			"name": "UA05 Shard of the Anchor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/259_UA05 Shard of the Anchor.png"
+			}
+		},
+		{
+			"name": "RW01 ALDA Reconstructed",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Artifact Creature — Angel  ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/25_RW01 ALDA Reconstructed.png"
+			}
+		},
+		{
+			"name": "RW02 Annoyed Justiceer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/26_RW02 Annoyed Justiceer.png"
+			}
+		},
+		{
+			"name": "RW03 Think Outside the Box",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/27_RW03 Think Outside the Box.png"
+			}
+		},
+		{
+			"name": "RW04 Mesmerized Bookworm",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/28_RW04 Mesmerized Bookworm.png"
+			}
+		},
+		{
+			"name": "RW05 Rooftop Friends",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/29_RW05 Rooftop Friends.png"
+			}
+		},
+		{
+			"name": "RW06 Peaceful Morning",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/30_RW06 Peaceful Morning.png"
+			}
+		},
+		{
+			"name": "RW07 Arrogant Astronomer",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/31_RW07 Arrogant Astronomer.png"
+			}
+		},
+		{
+			"name": "RU01 Paradoxical Mastery",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/68_RU01 Paradoxical Mastery.png"
+			}
+		},
+		{
+			"name": "Advanced Paradoxical Magic",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Class ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/46_Advanced Paradoxical Magic.png"
+			}
+		},
+		{
+			"name": "RU03 Rookie Spellthief",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Human Elf Rogue ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/69_RU03 Rookie Spellthief.png"
+			}
+		},
+		{
+			"name": "RU04 Plagiarism",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/70_RU04 Plagiarism.png"
+			}
+		},
+		{
+			"name": "RU05 Fevizia's Cannoneer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elf Artificer ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/71_RU05 Fevizia's Cannoneer.png"
+			}
+		},
+		{
+			"name": "RU06 Potentiomancer",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/72_RU06 Potentiomancer.png"
+			}
+		},
+		{
+			"name": "RU07 Beloved Mentor",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/73_RU07 Beloved Mentor.png"
+			}
+		},
+		{
+			"name": "RB01 Dauntless Theorist",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/111_RB01 Dauntless Theorist.png"
+			}
+		},
+		{
+			"name": "RB02 Sophia's Foresight",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/113_RB02 Sophia's Foresight.png"
+			}
+		},
+		{
+			"name": "RB03 Avid Arcanist",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/114_RB03 Avid Arcanist.png"
+			}
+		},
+		{
+			"name": "RB04 Brightstar Aspirant",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/115_RB04 Brightstar Aspirant.png"
+			}
+		},
+		{
+			"name": "RB05 Hexomancer",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/116_RB05 Hexomancer.png"
+			}
+		},
+		{
+			"name": "Deadly Curses & You Vol. II",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Class ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/109_Deadly Curses & You Vol. II.png"
+			}
+		},
+		{
+			"name": "RB07 Observatory Assistant",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/117_RB07 Observatory Assistant.png"
+			}
+		},
+		{
+			"name": "RR01 Final Project",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/154_RR01 Final Project.png"
+			}
+		},
+		{
+			"name": "RR02 Practical Pyromancy",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Class ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/155_RR02 Practical Pyromancy.png"
+			}
+		},
+		{
+			"name": "RR03 Fairah, Honor Student",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Elf Wizard ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/156_RR03 Fairah, Honor Student.png"
+			}
+		},
+		{
+			"name": "RR04 Graduated Protege",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/157_RR04 Graduated Protege.png"
+			}
+		},
+		{
+			"name": "RR05 Cavern Mapper",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/158_RR05 Cavern Mapper.png"
+			}
+		},
+		{
+			"name": "RR06 Mass Destruction",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/159_RR06 Mass Destruction.png"
+			}
+		},
+		{
+			"name": "RR07 Strict Exemplar",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/160_RR07 Strict Exemplar.png"
+			}
+		},
+		{
+			"name": "RG01 Medicine & Herbology",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Class ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/198_RG01 Medicine & Herbology.png"
+			}
+		},
+		{
+			"name": "RG02 Korra's Observations",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/199_RG02 Korra's Observations.png"
+			}
+		},
+		{
+			"name": "RG03 Professor Rinnie",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Druid ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/200_RG03 Professor Rinnie.png"
+			}
+		},
+		{
+			"name": "RG04 Profane Theurgist",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/201_RG04 Profane Theurgist.png"
+			}
+		},
+		{
+			"name": "RG05 Overworked Topographer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Scout ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/202_RG05 Overworked Topographer.png"
+			}
+		},
+		{
+			"name": "RG06 Jaux's Laborant",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/203_RG06 Jaux's Laborant.png"
+			}
+		},
+		{
+			"name": "RG07 Vedalken Powermonger",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Vedalken Artificer ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/204_RG07 Vedalken Powermonger.png"
+			}
+		},
+		{
+			"name": "Advanced Combat Techniques",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Class ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/2_Advanced Combat Techniques.png"
+			}
+		},
+		{
+			"name": "RU08 Practice Automaton",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/74_RU08 Practice Automaton.png"
+			}
+		},
+		{
+			"name": "RB08 Gearworks Juggernaut",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/118_RB08 Gearworks Juggernaut.png"
+			}
+		},
+		{
+			"name": "RR08 Galvanizing Juggernaut",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact Creature — Juggernaut ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/161_RR08 Galvanizing Juggernaut.png"
+			}
+		},
+		{
+			"name": "RG08 Overgrown Construct",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/205_RG08 Overgrown Construct.png"
+			}
+		},
+		{
+			"name": "RA01 Krystel, Team Captain",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/227_RA01 Krystel, Team Captain.png"
+			}
+		},
+		{
+			"name": "RA02 Living Fleet",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Dragon Construct ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/250_RA02 Living Fleet.png"
+			}
+		},
+		{
+			"name": "RA03 Fevizia's Gatekeeper",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/251_RA03 Fevizia's Gatekeeper.png"
+			}
+		},
+		{
+			"name": "RA04 The Reality Anchor",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/252_RA04 The Reality Anchor.png"
+			}
+		},
+		{
+			"name": "RA05 Gemmisomancer's Tools",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/253_RA05 Gemmisomancer's Tools.png"
+			}
+		},
+		{
+			"name": "RA06 Door of Wonders",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/254_RA06 Door of Wonders.png"
+			}
+		},
+		{
+			"name": "RA08 Freshmen Trio",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/228_RA08 Freshmen Trio.png"
+			}
+		},
+		{
+			"name": "MW01 United Creativity",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/23_MW01 United Creativity.png"
+			}
+		},
+		{
+			"name": "MW02 Glaudia, Combat Mentor",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/24_MW02 Glaudia, Combat Mentor.png"
+			}
+		},
+		{
+			"name": "RU09 Ingenious Creativity",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/76_RU09 Ingenious Creativity.png"
+			}
+		},
+		{
+			"name": "MU02 Timewinder",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/66_MU02 Timewinder.png"
+			}
+		},
+		{
+			"name": "RB01 Eternal Creativity",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/112_RB01 Eternal Creativity.png"
+			}
+		},
+		{
+			"name": "MR01 Passionate Creativity",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/152_MR01 Passionate Creativity.png"
+			}
+		},
+		{
+			"name": "MR02 Intish's Prodigy",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Lizard Wizard ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/153_MR02 Intish's Prodigy.png"
+			}
+		},
+		{
+			"name": "MG01 Primal Creativity",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/196_MG01 Primal Creativity.png"
+			}
+		},
+		{
+			"name": "MG02 Diligent Animator",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Vedalken Artificer ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/197_MG02 Diligent Animator.png"
+			}
+		},
+		{
+			"name": "Viki, Student President",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/239_Viki, Student President.png"
+			}
+		},
+		{
+			"name": "Mia, Strict Mentor",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Planeswalker — Mia ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/225_Mia, Strict Mentor.png"
+			}
+		},
+		{
+			"name": "Silvia, Class Favorite",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Silvia ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/33_Silvia, Class Favorite.png"
+			}
+		},
+		{
+			"name": "Dylan, Amateur Spellcaster",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Planeswalker — Dylan ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/220_Dylan, Amateur Spellcaster.png"
+			}
+		},
+		{
+			"name": "GP01 Korra, Guest Presenter",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Planeswalker — Korra ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/195_GP01 Korra, Guest Presenter.png"
+			}
+		},
+		{
+			"name": "Fevizia, Creativity Unbound",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Vedalken Artificer ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/221_Fevizia, Creativity Unbound.png"
+			}
+		},
+		{
+			"name": "Jaux, Alchemist Supreme",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Elf Wizard ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/223_Jaux, Alchemist Supreme.png"
+			}
+		},
+		{
+			"name": "Maria, Herald of History",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/224_Maria, Herald of History.png"
+			}
+		},
+		{
+			"name": "Phyko, Field Scholar",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Human Druid ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/226_Phyko, Field Scholar.png"
+			}
+		},
+		{
+			"name": "Intish, Master of Elements",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Tiefling Wizard ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/222_Intish, Master of Elements.png"
+			}
+		},
+		{
+			"name": "Ramiera, Spying Apprentice",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Ramiera ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/67_Ramiera, Spying Apprentice.png"
+			}
+		},
+		{
+			"name": "Mia's Classroom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/267_Mia's Classroom.png"
+			}
+		},
+		{
+			"name": "Rinnie's Classroom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/269_Rinnie's Classroom.png"
+			}
+		},
+		{
+			"name": "Intish's Classroom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/263_Intish's Classroom.png"
+			}
+		},
+		{
+			"name": "Glaudia's Classroom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/262_Glaudia's Classroom.png"
+			}
+		},
+		{
+			"name": "Ghir's Classroom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/261_Ghir's Classroom.png"
+			}
+		},
+		{
+			"name": "Jaux's Classroom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/264_Jaux's Classroom.png"
+			}
+		},
+		{
+			"name": "Phyko's Classroom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/268_Phyko's Classroom.png"
+			}
+		},
+		{
+			"name": "Kharu's Classroom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/265_Kharu's Classroom.png"
+			}
+		},
+		{
+			"name": "Alvamar's Classroom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/260_Alvamar's Classroom.png"
+			}
+		},
+		{
+			"name": "Marie's Classroom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/266_Marie's Classroom.png"
+			}
+		},
+		{
+			"name": "AIGIS, Shadow Exterminator",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Artifact Creature — Angel ",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/0_AIGIS, Shadow Exterminator.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/3_Elemental.png"
+			}
+		},
+		{
+			"name": "Wizard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wizard ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/2_Wizard.png"
+			}
+		},
+		{
+			"name": "Cat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Cat ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/1_Cat.png"
+			}
+		},
+		{
+			"name": "Cell",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Cell ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/5_Cell.png"
+			}
+		},
+		{
+			"name": "Paradox",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Weird ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://denny.github.io/sets/PBA-files/img/4_Paradox.png"
+			}
+		}
+	]
+[RareSlot(1)]
+2 RW01 ALDA Reconstructed
+2 RW02 Annoyed Justiceer
+2 RW03 Think Outside the Box
+2 RW04 Mesmerized Bookworm
+2 RW05 Rooftop Friends
+2 RW06 Peaceful Morning
+2 RW07 Arrogant Astronomer
+2 RU01 Paradoxical Mastery
+2 Advanced Paradoxical Magic
+2 RU03 Rookie Spellthief
+2 RU04 Plagiarism
+2 RU05 Fevizia's Cannoneer
+2 RU06 Potentiomancer
+2 RU07 Beloved Mentor
+2 RB01 Dauntless Theorist
+2 RB02 Sophia's Foresight
+2 RB03 Avid Arcanist
+2 RB04 Brightstar Aspirant
+2 RB05 Hexomancer
+2 Deadly Curses & You Vol. II
+2 RB07 Observatory Assistant
+2 RR01 Final Project
+2 RR02 Practical Pyromancy
+2 RR03 Fairah, Honor Student
+2 RR04 Graduated Protege
+2 RR05 Cavern Mapper
+2 RR06 Mass Destruction
+2 RR07 Strict Exemplar
+2 RG01 Medicine & Herbology
+2 RG02 Korra's Observations
+2 RG03 Professor Rinnie
+2 RG04 Profane Theurgist
+2 RG05 Overworked Topographer
+2 RG06 Jaux's Laborant
+2 RG07 Vedalken Powermonger
+2 Advanced Combat Techniques
+2 RU08 Practice Automaton
+2 RB08 Gearworks Juggernaut
+2 RR08 Galvanizing Juggernaut
+2 RG08 Overgrown Construct
+2 RA01 Krystel, Team Captain
+2 RA02 Living Fleet
+2 RA03 Fevizia's Gatekeeper
+2 RA04 The Reality Anchor
+2 RA05 Gemmisomancer's Tools
+2 RA06 Door of Wonders
+2 RA08 Freshmen Trio
+2 MW01 United Creativity
+2 RU09 Ingenious Creativity
+2 RB01 Eternal Creativity
+2 MR01 Passionate Creativity
+2 MG01 Primal Creativity
+2 Fevizia, Creativity Unbound
+2 Jaux, Alchemist Supreme
+2 Maria, Herald of History
+2 Phyko, Field Scholar
+2 Intish, Master of Elements
+2 Ramiera, Spying Apprentice
+1 MW02 Glaudia, Combat Mentor
+1 MU02 Timewinder
+1 MR02 Intish's Prodigy
+1 MG02 Diligent Animator
+1 Viki, Student President
+1 Mia, Strict Mentor
+1 Silvia, Class Favorite
+1 Dylan, Amateur Spellcaster
+1 GP01 Korra, Guest Presenter
+[UncommonSlot(3)]
+9 UM01 Laboratory Assignment
+9 UM02 Young Yarnweaver
+9 UM03 Unpleasant Break
+9 UM04 Arabelle, Guided by the Fae
+9 UM05 Curious Arcanist
+9 UM06 Study Group
+9 UM08 Unwanted Knowledge
+9 UM09 Malevolent Practitioner
+9 UM10 Devoted Herbalist
+9 UM07 Mechanical Exemplar
+9 UW01 Thrilled Archaeomancer
+9 UW02 Passionate Mentee
+9 UW03 Seasoned Librarian
+9 UW04 Heartfelt Zoologist
+9 UW05 Invoker of the Waning Star
+9 UW06 Book-Worm Faerie
+9 UW07 Stressful Experimentalist
+9 UW08 Reader of Wonders
+9 UW09 Momentary Detention
+9 UW10 Krystel's Guile
+9 UW11 Prom Night
+9 UU01 Sly Upgrader
+9 UU02 Progressive Observer
+9 UU03 Gleeful Researcher
+9 UU04 Ghir, Adept Transmutor
+9 UU05 Summoner of Frost
+9 UU06 Cautious Laborant
+9 UU07 Enthusiatic Lab Partner
+9 UU08 Investigate the Core
+9 UU09 Heartbreaking Failure
+9 UU10 Introduction to Artifice
+9 UU11 Private Lesson
+9 UB01 Librarian's Assistant
+9 UB02 Conjurer of the Unreal
+9 UB03 Sophia's Starcaller
+9 UB04 Heartless Innovator
+9 UB05 Scholar of Childish Wonder
+9 UB06 Student-Made Abomination
+9 UB07 Jhurmi, Eternal Librarian
+9 UB08 Knowledge Drain
+9 UB09 Introduction to Necromancy
+9 UB10 Eldritch Consultation
+9 UB11 Diligent Research
+9 UR01 Pentaga Star
+9 UR02 Conjuration-Track Savant
+9 UR03 Flaming Practitioner
+9 UR04 Herald of Catastrophe
+9 UR05 Unstable Elemental
+9 UR06 Impulsive Havoceer
+9 UR07 Passionate Soothsayer
+9 UR08 Viki's Guile
+9 UR09 Lab Accident
+9 UR10 Chaotic Meddling
+9 UR11 Introduction to Pyromancy
+9 UG01 Acute Sculptor
+9 UG02 Lakeside Naturalist
+9 UG03 Phyko's Trailplanner
+9 UG04 Distracted Botanist
+9 UG05 Seasoned Naturalist
+9 UG06 Artificial Witness
+9 UG07 Field Engineer
+9 UG08 Wildlife Cartographer
+9 UG09 Class Trip
+9 UG10 Introduction to Animism
+9 UG11 Fevizia's Awakening
+9 Introduction to Abjuration
+9 UU12 Rainy Day
+9 UB12 Lifeless Studies
+9 UR12 Late for Class
+9 UG12 Natural Tutor
+9 UA06 Cackling Guardian
+9 UA07 Mountainwide Colossus
+9 UA08 Perilous Journey
+9 UA09 Spell-Charged Sentinel
+9 UA10 Fossil Processor
+9 UA01 Scholar's Workbench
+9 UA02 Bloodline Analyzer
+9 UA03 Crystalline Behemoth
+9 UA04 Course Selection
+9 UA05 Shard of the Anchor
+[CommonSlot(10)]
+30 CW01 Optimistic First-Year
+30 CW02 Diligent Researcher
+30 CW03 Hall Monitors
+30 CW04 Glaudia's Veteran
+30 CW05 Empathic Nurse
+30 CW06 Krystel's Wingballer
+30 CW07 Blade-Dancer Prodigy
+30 CW08 Artificer's Plaything
+30 CW09 Cheerful Mentor
+30 CW10 Mia's Student
+30 CW11 Serene Educator
+30 CW12 Paper Dragon
+30 CW13 Krystel's Intervention
+30 CW14 Analysis Paralysis
+30 CW15 Overwhelming Workload
+30 CW16 Words of Encouragement
+30 CW17 Peaceful Studies
+30 CW18 Second Attempt
+30 CW19 Disenchant
+30 CU01 Library Familiar
+30 CU02 Obsessive Bookworm
+30 CU03 Truesight Prophet
+30 CU04 Functional Researcher
+30 CU05 Tireless Tinkerer
+30 CU06 Intish's Student
+30 CU07 Spectacular Orrery
+30 CU08 Snapcaster Professor
+30 CU09 Inactive Creation
+30 CU10 Curriculum Inspector
+30 CU11 Exam Grading
+30 CU12 Cooperative Flunking
+30 CU13 Inconceivable Boredom
+30 CU14 Consult the Professor
+30 CU15 Divinating Snoop
+30 CU16 Unstable Dismissal
+30 CU17 Unsatiable Curiosity
+30 CU18 Overwhelming Distractions
+30 CU19 Faulty Flight
+30 CB01 Expendable Component
+30 CB02 Careless Cultist
+30 CB03 Earworm Bard
+30 CB04 Lonely Practitioner
+30 CB05 Corrupted Scholar
+30 CB06 Desperate Sophomore
+30 CB07 Cruel Essayist
+30 CB08 Jaux's Student
+30 CB09 ALDA's Overseer
+30 CB10 Improvised Golem
+30 CB11 Deadly Duel
+30 CB12 Break from the Pressure
+30 CB13 Cursed Companion
+30 CB14 Reverse Summoning
+30 CB15 Unexpected Success
+30 CB16 Maria's Tales
+30 CB17 Academic Exhaustion
+30 CB18 Soul Preservation
+30 CB19 Hunt for Ingredients
+30 CR01 Eager Freshman
+30 CR02 Mischievous Alchemist
+30 CR03 Practical Mentor
+30 CR04 Combustive Creation
+30 CR05 Volatile Prankster
+30 CR06 Curious Flameweaver
+30 CR07 Alvamar's Student
+30 CR08 Lightfoot Elementalist
+30 CR09 Metallic Aggressor
+30 CR10 Cauldron Savant
+30 CR11 Corrupted Sigils
+30 CR12 Explosive Backfire
+30 CR13 Fireheart Construct
+30 CR14 Glaudia's Prodigy
+30 CR15 Midnight Cramming
+30 CR16 Phyko's Mentorship
+30 CR17 Studied Strike
+30 CR18 Library Conundrum
+30 CR19 Hyperfixation
+30 CG01 Inspiring Classmate
+30 CG02 Wandering Scholar
+30 CG03 Diligent Herbalist
+30 CG04 Ecstatic Zoologist
+30 CG05 Pure-Power Scholar
+30 CG06 Confused Cartographer
+30 CG07 Blade Construct
+30 CG08 Rinnie's Student
+30 CG09 Mutated Owl
+30 CG10 Mechanized Monstrosity
+30 CG11 Fearless Alchemist
+30 CG12 Scholarly Dispute
+30 CG13 Sudden Mutation
+30 CG14 Incidental Summoning
+30 CG15 Enjoyer of Nature
+30 CG16 Field Studies
+30 CG17 Aspiring Specialist
+30 CG18 Cultivate
+30 CG19 Changing Seasons
+30 CA01 Damaged Dorms Maid
+30 CA02 Teacher's Assistant
+30 CA03 Student Project
+30 CA04 Practitioner's Blade
+30 CA05 Skittering Surveyor
+30 CA06 Class Notes
+30 Mia's Classroom
+30 Rinnie's Classroom
+30 Intish's Classroom
+30 Glaudia's Classroom
+30 Ghir's Classroom
+30 Jaux's Classroom
+30 Phyko's Classroom
+30 Kharu's Classroom
+30 Alvamar's Classroom
+30 Marie's Classroom
