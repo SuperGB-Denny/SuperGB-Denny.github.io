@@ -1,0 +1,769 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="sets/TZR-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>TZR visual spoiler</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 3%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/TZR-files/logo.png" />
+	<img class="preload-hidden" src="/sets/PBA-files/icon.png" />
+		<img class="preload-hidden" src="/sets/TZR-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="PBA-spoiler"><img src="sets/PBA-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="img/dot.png"></img></div>
+		<div class="icon"><a href="TZR-spoiler"><img src="sets/TZR-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="sets/TZR-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="sets\TZR-files\img\23_Shining-Star Brawler.png" id="23_Shining-Star Brawler" data-flag="@X" onclick="openSidebar('23_Shining-Star Brawler',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\36_As Foretold.png" id="36_As Foretold" data-flag="@X" onclick="openSidebar('36_As Foretold',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\66_Blade of Sightless Shadows.png" id="66_Blade of Sightless Shadows" data-flag="@X" onclick="openSidebar('66_Blade of Sightless Shadows',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\120_Warrior of the Setting Sun.png" id="120_Warrior of the Setting Sun" data-flag="@X" onclick="openSidebar('120_Warrior of the Setting Sun',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\129_Cityback Turtoise.png" id="129_Cityback Turtoise" data-flag="@X" onclick="openSidebar('129_Cityback Turtoise',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\30_Yan Lei, Benevolent Emperor.png" id="30_Yan Lei, Benevolent Emperor" data-flag="@X" onclick="openSidebar('30_Yan Lei, Benevolent Emperor',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\63_Xiao Hui's Servant.png" id="63_Xiao Huis Servant" data-flag="@X" onclick="openSidebar('63_Xiao Huis Servant',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\91_Will of the Mirror.png" id="91_Will of the Mirror" data-flag="@X" onclick="openSidebar('91_Will of the Mirror',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\122_Zhi-Qiang Battlecaller.png" id="122_Zhi-Qiang Battlecaller" data-flag="@X" onclick="openSidebar('122_Zhi-Qiang Battlecaller',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\135_Henmo Lightseeker.png" id="135_Henmo Lightseeker" data-flag="@X" onclick="openSidebar('135_Henmo Lightseeker',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\31_Yan Ren, Beautiful Hieress.png" id="31_Yan Ren, Beautiful Hieress" data-flag="@X" onclick="openSidebar('31_Yan Ren, Beautiful Hieress',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\48_It That Watches Over Us.png" id="48_It That Watches Over Us" data-flag="@X" onclick="openSidebar('48_It That Watches Over Us',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\64_Battlefield Desecrator.png" id="64_Battlefield Desecrator" data-flag="@X" onclick="openSidebar('64_Battlefield Desecrator',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\97_Brilliant Bladebearer.png" id="97_Brilliant Bladebearer" data-flag="@X" onclick="openSidebar('97_Brilliant Bladebearer',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\127_Awaken the Land.png" id="127_Awaken the Land" data-flag="@X" onclick="openSidebar('127_Awaken the Land',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\4_Charming Noble.png" id="4_Charming Noble" data-flag="@X" onclick="openSidebar('4_Charming Noble',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\52_Paradox of Mirrors.png" id="52_Paradox of Mirrors" data-flag="@X" onclick="openSidebar('52_Paradox of Mirrors',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\73_Henmo Battlemage.png" id="73_Henmo Battlemage" data-flag="@X" onclick="openSidebar('73_Henmo Battlemage',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\106_Hundred-Year Rage.png" id="106_Hundred-Year Rage" data-flag="@X" onclick="openSidebar('106_Hundred-Year Rage',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\131_Guardian of the Ancestors.png" id="131_Guardian of the Ancestors" data-flag="@X" onclick="openSidebar('131_Guardian of the Ancestors',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\12_Honorable Descendant.png" id="12_Honorable Descendant" data-flag="@X" onclick="openSidebar('12_Honorable Descendant',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\57_Royal Weatherwoman.png" id="57_Royal Weatherwoman" data-flag="@X" onclick="openSidebar('57_Royal Weatherwoman',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\80_Muyang Enslavement.png" id="80_Muyang Enslavement" data-flag="@X" onclick="openSidebar('80_Muyang Enslavement',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\108_Jia Yi, Impartial Executioner.png" id="108_Jia Yi, Impartial Executioner" data-flag="@X" onclick="openSidebar('108_Jia Yi, Impartial Executioner',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\133_Heartless Naturalist.png" id="133_Heartless Naturalist" data-flag="@X" onclick="openSidebar('133_Heartless Naturalist',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\14_Lady of Winds.png" id="14_Lady of Winds" data-flag="@X" onclick="openSidebar('14_Lady of Winds',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\60_Shatter the Heavens.png" id="60_Shatter the Heavens" data-flag="@X" onclick="openSidebar('60_Shatter the Heavens',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\82_Muyang Warmonger.png" id="82_Muyang Warmonger" data-flag="@X" onclick="openSidebar('82_Muyang Warmonger',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\112_Muyang Recruiter.png" id="112_Muyang Recruiter" data-flag="@X" onclick="openSidebar('112_Muyang Recruiter',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\142_Mistwoods Caretaker.png" id="142_Mistwoods Caretaker" data-flag="@X" onclick="openSidebar('142_Mistwoods Caretaker',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\19_Seal of Reality.png" id="19_Seal of Reality" data-flag="@X" onclick="openSidebar('19_Seal of Reality',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\61_Shuigui Invoker.png" id="61_Shuigui Invoker" data-flag="@X" onclick="openSidebar('61_Shuigui Invoker',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\83_Paradox of Annihilation.png" id="83_Paradox of Annihilation" data-flag="@X" onclick="openSidebar('83_Paradox of Annihilation',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\123_Zhi-Qiang Flagbearer.png" id="123_Zhi-Qiang Flagbearer" data-flag="@X" onclick="openSidebar('123_Zhi-Qiang Flagbearer',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\147_Paradox of Regeneration.png" id="147_Paradox of Regeneration" data-flag="@X" onclick="openSidebar('147_Paradox of Regeneration',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\32_Zhi-Qiang Arena.png" id="32_Zhi-Qiang Arena" data-flag="@X" onclick="openSidebar('32_Zhi-Qiang Arena',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\35_Anticipated Misstep.png" id="35_Anticipated Misstep" data-flag="@X" onclick="openSidebar('35_Anticipated Misstep',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\67_Charming Opportunist.png" id="67_Charming Opportunist" data-flag="@X" onclick="openSidebar('67_Charming Opportunist',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\95_Anger of the Winds.png" id="95_Anger of the Winds" data-flag="@X" onclick="openSidebar('95_Anger of the Winds',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\124_Alkadur, Paradox of Prosperity.png" id="124_Alkadur, Paradox of Prosperity" data-flag="@X" onclick="openSidebar('124_Alkadur, Paradox of Prosperity',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\5_Deadly Reprisal.png" id="5_Deadly Reprisal" data-flag="@X" onclick="openSidebar('5_Deadly Reprisal',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\39_Bonded Soothsayer.png" id="39_Bonded Soothsayer" data-flag="@X" onclick="openSidebar('39_Bonded Soothsayer',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\68_Doom Blade.png" id="68_Doom Blade" data-flag="@X" onclick="openSidebar('68_Doom Blade',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\99_Corrupted Wangshou.png" id="99_Corrupted Wangshou" data-flag="@X" onclick="openSidebar('99_Corrupted Wangshou',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\132_Guixiong Commemorator.png" id="132_Guixiong Commemorator" data-flag="@X" onclick="openSidebar('132_Guixiong Commemorator',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\6_Divine Opportunist.png" id="6_Divine Opportunist" data-flag="@X" onclick="openSidebar('6_Divine Opportunist',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\41_Callous Stormkin.png" id="41_Callous Stormkin" data-flag="@X" onclick="openSidebar('41_Callous Stormkin',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\69_Eyes of Muyang.png" id="69_Eyes of Muyang" data-flag="@X" onclick="openSidebar('69_Eyes of Muyang',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\105_Hostile Reunion.png" id="105_Hostile Reunion" data-flag="@X" onclick="openSidebar('105_Hostile Reunion',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\140_Midnight Combatant.png" id="140_Midnight Combatant" data-flag="@X" onclick="openSidebar('140_Midnight Combatant',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\9_Gentle Bodyguard.png" id="9_Gentle Bodyguard" data-flag="@X" onclick="openSidebar('9_Gentle Bodyguard',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\43_Dashi-Gui Summoner.png" id="43_Dashi-Gui Summoner" data-flag="@X" onclick="openSidebar('43_Dashi-Gui Summoner',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\74_Highland Marauder.png" id="74_Highland Marauder" data-flag="@X" onclick="openSidebar('74_Highland Marauder',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\107_Imperious Maiden.png" id="107_Imperious Maiden" data-flag="@X" onclick="openSidebar('107_Imperious Maiden',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\141_Mistress of the Pond.png" id="141_Mistress of the Pond" data-flag="@X" onclick="openSidebar('141_Mistress of the Pond',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\10_Guo Wei, Tranquil Strategist.png" id="10_Guo Wei, Tranquil Strategist" data-flag="@X" onclick="openSidebar('10_Guo Wei, Tranquil Strategist',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\51_Paint the Sky.png" id="51_Paint the Sky" data-flag="@X" onclick="openSidebar('51_Paint the Sky',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\76_Long Jing's Incursion.png" id="76_Long Jings Incursion" data-flag="@X" onclick="openSidebar('76_Long Jings Incursion',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\110_Muyang Conquerer.png" id="110_Muyang Conquerer" data-flag="@X" onclick="openSidebar('110_Muyang Conquerer',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\143_Mistwoods Reclaimer.png" id="143_Mistwoods Reclaimer" data-flag="@X" onclick="openSidebar('143_Mistwoods Reclaimer',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\11_Heavenly Scholar.png" id="11_Heavenly Scholar" data-flag="@X" onclick="openSidebar('11_Heavenly Scholar',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\54_Paradox of Uncertainty.png" id="54_Paradox of Uncertainty" data-flag="@X" onclick="openSidebar('54_Paradox of Uncertainty',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\85_Paradox of Finales.png" id="85_Paradox of Finales" data-flag="@X" onclick="openSidebar('85_Paradox of Finales',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\114_Pure-Squad Brawler.png" id="114_Pure-Squad Brawler" data-flag="@X" onclick="openSidebar('114_Pure-Squad Brawler',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\145_New Year Celebrations.png" id="145_New Year Celebrations" data-flag="@X" onclick="openSidebar('145_New Year Celebrations',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\13_Kali's Warning.png" id="13_Kalis Warning" data-flag="@X" onclick="openSidebar('13_Kalis Warning',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\58_Scourge of Shinri.png" id="58_Scourge of Shinri" data-flag="@X" onclick="openSidebar('58_Scourge of Shinri',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\87_Rite of Revival.png" id="87_Rite of Revival" data-flag="@X" onclick="openSidebar('87_Rite of Revival',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\118_Visit from Above.png" id="118_Visit from Above" data-flag="@X" onclick="openSidebar('118_Visit from Above',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\149_Prowling Dashi.png" id="149_Prowling Dashi" data-flag="@X" onclick="openSidebar('149_Prowling Dashi',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\24_Sorrowful Maiden.png" id="24_Sorrowful Maiden" data-flag="@X" onclick="openSidebar('24_Sorrowful Maiden',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\59_Seer of Destiny.png" id="59_Seer of Destiny" data-flag="@X" onclick="openSidebar('59_Seer of Destiny',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\88_Savage Martyr.png" id="88_Savage Martyr" data-flag="@X" onclick="openSidebar('88_Savage Martyr',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\121_Weishou Purifier.png" id="121_Weishou Purifier" data-flag="@X" onclick="openSidebar('121_Weishou Purifier',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\153_Will of the Ancients.png" id="153_Will of the Ancients" data-flag="@X" onclick="openSidebar('153_Will of the Ancients',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\29_Xianzhi Ponderer.png" id="29_Xianzhi Ponderer" data-flag="@X" onclick="openSidebar('29_Xianzhi Ponderer',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\34_Amalgamation.png" id="34_Amalgamation" data-flag="@X" onclick="openSidebar('34_Amalgamation',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\65_Bewitched General.png" id="65_Bewitched General" data-flag="@X" onclick="openSidebar('65_Bewitched General',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\94_Abrade.png" id="94_Abrade" data-flag="@X" onclick="openSidebar('94_Abrade',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\125_Almighty Qingwa.png" id="125_Almighty Qingwa" data-flag="@X" onclick="openSidebar('125_Almighty Qingwa',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\3_Ancestral Messenger.png" id="3_Ancestral Messenger" data-flag="@X" onclick="openSidebar('3_Ancestral Messenger',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\37_Bai Qiu's Watcher.png" id="37_Bai Qius Watcher" data-flag="@X" onclick="openSidebar('37_Bai Qius Watcher',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\70_Forced Tribute.png" id="70_Forced Tribute" data-flag="@X" onclick="openSidebar('70_Forced Tribute',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\96_Battle Sanctifier.png" id="96_Battle Sanctifier" data-flag="@X" onclick="openSidebar('96_Battle Sanctifier',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\126_Ancient's Guidance.png" id="126_Ancients Guidance" data-flag="@X" onclick="openSidebar('126_Ancients Guidance',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\7_Emperor's Forgiveness.png" id="7_Emperors Forgiveness" data-flag="@X" onclick="openSidebar('7_Emperors Forgiveness',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\38_Beguiling Spirit.png" id="38_Beguiling Spirit" data-flag="@X" onclick="openSidebar('38_Beguiling Spirit',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\71_Heartless Conquest.png" id="71_Heartless Conquest" data-flag="@X" onclick="openSidebar('71_Heartless Conquest',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\98_Collective Devotion.png" id="98_Collective Devotion" data-flag="@X" onclick="openSidebar('98_Collective Devotion',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\128_Brutal Courier.png" id="128_Brutal Courier" data-flag="@X" onclick="openSidebar('128_Brutal Courier',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\8_Friendly Skywatcher.png" id="8_Friendly Skywatcher" data-flag="@X" onclick="openSidebar('8_Friendly Skywatcher',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\40_Calculated Sabotage.png" id="40_Calculated Sabotage" data-flag="@X" onclick="openSidebar('40_Calculated Sabotage',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\72_Henmo Adversary.png" id="72_Henmo Adversary" data-flag="@X" onclick="openSidebar('72_Henmo Adversary',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\100_Cruel Campaigner.png" id="100_Cruel Campaigner" data-flag="@X" onclick="openSidebar('100_Cruel Campaigner',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\130_Disciple of Bai Qiu.png" id="130_Disciple of Bai Qiu" data-flag="@X" onclick="openSidebar('130_Disciple of Bai Qiu',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\15_Mungwon Sentinel.png" id="15_Mungwon Sentinel" data-flag="@X" onclick="openSidebar('15_Mungwon Sentinel',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\42_Channeler of Fate.png" id="42_Channeler of Fate" data-flag="@X" onclick="openSidebar('42_Channeler of Fate',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\75_Invoker of Shadows.png" id="75_Invoker of Shadows" data-flag="@X" onclick="openSidebar('75_Invoker of Shadows',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\101_Devoted Throne-Guard.png" id="101_Devoted Throne-Guard" data-flag="@X" onclick="openSidebar('101_Devoted Throne-Guard',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\134_Henmo Facilitator.png" id="134_Henmo Facilitator" data-flag="@X" onclick="openSidebar('134_Henmo Facilitator',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\16_Pure-Squad Leader.png" id="16_Pure-Squad Leader" data-flag="@X" onclick="openSidebar('16_Pure-Squad Leader',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\44_Expected Results.png" id="44_Expected Results" data-flag="@X" onclick="openSidebar('44_Expected Results',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\77_Long Jing's Servant.png" id="77_Long Jings Servant" data-flag="@X" onclick="openSidebar('77_Long Jings Servant',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\102_Fatal Encounter.png" id="102_Fatal Encounter" data-flag="@X" onclick="openSidebar('102_Fatal Encounter',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\136_Henmo Sentinel.png" id="136_Henmo Sentinel" data-flag="@X" onclick="openSidebar('136_Henmo Sentinel',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\17_Retaliating Slash.png" id="17_Retaliating Slash" data-flag="@X" onclick="openSidebar('17_Retaliating Slash',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\45_Graceful Spirit-Dancer.png" id="45_Graceful Spirit-Dancer" data-flag="@X" onclick="openSidebar('45_Graceful Spirit-Dancer',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\78_Long Jing's Verdict.png" id="78_Long Jings Verdict" data-flag="@X" onclick="openSidebar('78_Long Jings Verdict',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\103_Glory to Zhi-Qiang.png" id="103_Glory to Zhi-Qiang" data-flag="@X" onclick="openSidebar('103_Glory to Zhi-Qiang',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\137_Heretic Sharpshooter.png" id="137_Heretic Sharpshooter" data-flag="@X" onclick="openSidebar('137_Heretic Sharpshooter',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\18_Revitalize.png" id="18_Revitalize" data-flag="@X" onclick="openSidebar('18_Revitalize',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\46_Humble Offerings.png" id="46_Humble Offerings" data-flag="@X" onclick="openSidebar('46_Humble Offerings',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\79_Mungwon Bloodlord.png" id="79_Mungwon Bloodlord" data-flag="@X" onclick="openSidebar('79_Mungwon Bloodlord',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\104_Guardian of Weishou.png" id="104_Guardian of Weishou" data-flag="@X" onclick="openSidebar('104_Guardian of Weishou',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\138_Hunter's Guile.png" id="138_Hunters Guile" data-flag="@X" onclick="openSidebar('138_Hunters Guile',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\20_Seer of the Rising Sun.png" id="20_Seer of the Rising Sun" data-flag="@X" onclick="openSidebar('20_Seer of the Rising Sun',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\47_Incorporeal Savant.png" id="47_Incorporeal Savant" data-flag="@X" onclick="openSidebar('47_Incorporeal Savant',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\81_Muyang Scavanger.png" id="81_Muyang Scavanger" data-flag="@X" onclick="openSidebar('81_Muyang Scavanger',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\109_Mungwon Poet.png" id="109_Mungwon Poet" data-flag="@X" onclick="openSidebar('109_Mungwon Poet',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\139_Laogui's Pilgrim.png" id="139_Laoguis Pilgrim" data-flag="@X" onclick="openSidebar('139_Laoguis Pilgrim',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\21_Seer's Solitude.png" id="21_Seers Solitude" data-flag="@X" onclick="openSidebar('21_Seers Solitude',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\49_Laogui's Chosen.png" id="49_Laoguis Chosen" data-flag="@X" onclick="openSidebar('49_Laoguis Chosen',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\84_Paradox of Decay.png" id="84_Paradox of Decay" data-flag="@X" onclick="openSidebar('84_Paradox of Decay',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\111_Muyang Messenger.png" id="111_Muyang Messenger" data-flag="@X" onclick="openSidebar('111_Muyang Messenger',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\144_Mungwon Naturalist.png" id="144_Mungwon Naturalist" data-flag="@X" onclick="openSidebar('144_Mungwon Naturalist',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\22_Servant of the Winds.png" id="22_Servant of the Winds" data-flag="@X" onclick="openSidebar('22_Servant of the Winds',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\50_Mantle of Auguries.png" id="50_Mantle of Auguries" data-flag="@X" onclick="openSidebar('50_Mantle of Auguries',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\86_Prophecies of Doom.png" id="86_Prophecies of Doom" data-flag="@X" onclick="openSidebar('86_Prophecies of Doom',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\113_Paradox of Pain.png" id="113_Paradox of Pain" data-flag="@X" onclick="openSidebar('113_Paradox of Pain',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\146_Paradox of Loss.png" id="146_Paradox of Loss" data-flag="@X" onclick="openSidebar('146_Paradox of Loss',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\25_Spirit's Company.png" id="25_Spirits Company" data-flag="@X" onclick="openSidebar('25_Spirits Company',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\53_Paradox of Tempests.png" id="53_Paradox of Tempests" data-flag="@X" onclick="openSidebar('53_Paradox of Tempests',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\89_Spirit's Whispers.png" id="89_Spirits Whispers" data-flag="@X" onclick="openSidebar('89_Spirits Whispers',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\115_Taken by the Muyang.png" id="115_Taken by the Muyang" data-flag="@X" onclick="openSidebar('115_Taken by the Muyang',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\148_Path to Enlightenment.png" id="148_Path to Enlightenment" data-flag="@X" onclick="openSidebar('148_Path to Enlightenment',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\26_Tuanzhi Guide.png" id="26_Tuanzhi Guide" data-flag="@X" onclick="openSidebar('26_Tuanzhi Guide',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\55_Puzzling Visions.png" id="55_Puzzling Visions" data-flag="@X" onclick="openSidebar('55_Puzzling Visions',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\90_Traitorous Xisigui.png" id="90_Traitorous Xisigui" data-flag="@X" onclick="openSidebar('90_Traitorous Xisigui',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\116_Tireless Haymaker.png" id="116_Tireless Haymaker" data-flag="@X" onclick="openSidebar('116_Tireless Haymaker',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\150_Qilin of Bad Omens.png" id="150_Qilin of Bad Omens" data-flag="@X" onclick="openSidebar('150_Qilin of Bad Omens',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\27_Weathered Strategist.png" id="27_Weathered Strategist" data-flag="@X" onclick="openSidebar('27_Weathered Strategist',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\56_Return to Nothingness.png" id="56_Return to Nothingness" data-flag="@X" onclick="openSidebar('56_Return to Nothingness',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\92_Yangui's Haunting.png" id="92_Yanguis Haunting" data-flag="@X" onclick="openSidebar('92_Yanguis Haunting',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\117_Visions of Glory.png" id="117_Visions of Glory" data-flag="@X" onclick="openSidebar('117_Visions of Glory',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\151_Return to Nature.png" id="151_Return to Nature" data-flag="@X" onclick="openSidebar('151_Return to Nature',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\28_Xianzhi Disruptor.png" id="28_Xianzhi Disruptor" data-flag="@X" onclick="openSidebar('28_Xianzhi Disruptor',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\62_Xianzhi Fortune-Bringer.png" id="62_Xianzhi Fortune-Bringer" data-flag="@X" onclick="openSidebar('62_Xianzhi Fortune-Bringer',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\93_Zhi-Qiang Poisoner.png" id="93_Zhi-Qiang Poisoner" data-flag="@X" onclick="openSidebar('93_Zhi-Qiang Poisoner',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\119_Wangshou's Armaments.png" id="119_Wangshous Armaments" data-flag="@X" onclick="openSidebar('119_Wangshous Armaments',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\152_Spirit's Wake.png" id="152_Spirits Wake" data-flag="@X" onclick="openSidebar('152_Spirits Wake',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\33_Zhi-Qiang Devotee.png" id="33_Zhi-Qiang Devotee" data-flag="@X" onclick="openSidebar('33_Zhi-Qiang Devotee',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\213_Shield of Destiny.png" id="213_Shield of Destiny" data-flag="@X" onclick="openSidebar('213_Shield of Destiny',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\205_Paradox of Sophistication.png" id="205_Paradox of Sophistication" data-flag="@X" onclick="openSidebar('205_Paradox of Sophistication',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\160_Muyang, Heartless Conquerer.png" id="160_Muyang, Heartless Conquerer" data-flag="@X" onclick="openSidebar('160_Muyang, Heartless Conquerer',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\171_Cheerful Practitioner.png" id="171_Cheerful Practitioner" data-flag="@X" onclick="openSidebar('171_Cheerful Practitioner',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\178_Defy Fate.png" id="178_Defy Fate" data-flag="@X" onclick="openSidebar('178_Defy Fate',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\222_Xianzhi Summoner.png" id="222_Xianzhi Summoner" data-flag="@X" onclick="openSidebar('222_Xianzhi Summoner',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\217_Tempting Offer.png" id="217_Tempting Offer" data-flag="@X" onclick="openSidebar('217_Tempting Offer',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\179_Demonhand Ravager.png" id="179_Demonhand Ravager" data-flag="@X" onclick="openSidebar('179_Demonhand Ravager',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\199_Mistress of Wilds.png" id="199_Mistress of Wilds" data-flag="@X" onclick="openSidebar('199_Mistress of Wilds',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\192_Jun De, the Uniter.png" id="192_Jun De, the Uniter" data-flag="@X" onclick="openSidebar('192_Jun De, the Uniter',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\167_Ascendant Prophet.png" id="167_Ascendant Prophet" data-flag="@X" onclick="openSidebar('167_Ascendant Prophet',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\216_Spiteful Soothsayer.png" id="216_Spiteful Soothsayer" data-flag="@X" onclick="openSidebar('216_Spiteful Soothsayer',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\185_Good Fortunes.png" id="185_Good Fortunes" data-flag="@X" onclick="openSidebar('185_Good Fortunes',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\172_Conspicious Trailblazer.png" id="172_Conspicious Trailblazer" data-flag="@X" onclick="openSidebar('172_Conspicious Trailblazer',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\206_Peer into the Future.png" id="206_Peer into the Future" data-flag="@X" onclick="openSidebar('206_Peer into the Future',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\174_Cursed Conquest.png" id="174_Cursed Conquest" data-flag="@X" onclick="openSidebar('174_Cursed Conquest',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\223_Xiao Hui, Truth Seer.png" id="223_Xiao Hui, Truth Seer" data-flag="@X" onclick="openSidebar('223_Xiao Hui, Truth Seer',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\191_Jin Guang, Son of Muyang.png" id="191_Jin Guang, Son of Muyang" data-flag="@X" onclick="openSidebar('191_Jin Guang, Son of Muyang',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\184_Full-Moon Dashi.png" id="184_Full-Moon Dashi" data-flag="@X" onclick="openSidebar('184_Full-Moon Dashi',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\202_Muyang's Onslaught.png" id="202_Muyangs Onslaught" data-flag="@X" onclick="openSidebar('202_Muyangs Onslaught',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\209_Prophet of Currents.png" id="209_Prophet of Currents" data-flag="@X" onclick="openSidebar('209_Prophet of Currents',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\180_Emo-Touched Berserker.png" id="180_Emo-Touched Berserker" data-flag="@X" onclick="openSidebar('180_Emo-Touched Berserker',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\212_Repel the Intruders.png" id="212_Repel the Intruders" data-flag="@X" onclick="openSidebar('212_Repel the Intruders',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\181_Entranced Xianzhi.png" id="181_Entranced Xianzhi" data-flag="@X" onclick="openSidebar('181_Entranced Xianzhi',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\224_Yan Ren's Divinator.png" id="224_Yan Rens Divinator" data-flag="@X" onclick="openSidebar('224_Yan Rens Divinator',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\201_Muyang Hellhound.png" id="201_Muyang Hellhound" data-flag="@X" onclick="openSidebar('201_Muyang Hellhound',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\211_Relentless Rage.png" id="211_Relentless Rage" data-flag="@X" onclick="openSidebar('211_Relentless Rage',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\182_Extraordinary Rebirth.png" id="182_Extraordinary Rebirth" data-flag="@X" onclick="openSidebar('182_Extraordinary Rebirth',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\154_Arkeo Khalimos.png" id="154_Arkeo Khalimos" data-flag="@X" onclick="openSidebar('154_Arkeo Khalimos',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\155_Era, Arbiter of History.png" id="155_Era, Arbiter of History" data-flag="@X" onclick="openSidebar('155_Era, Arbiter of History',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\165_Accursed Mystic.png" id="165_Accursed Mystic" data-flag="@X" onclick="openSidebar('165_Accursed Mystic',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\164_Yong Lin, Blade of Weishou.png" id="164_Yong Lin, Blade of Weishou" data-flag="@X" onclick="openSidebar('164_Yong Lin, Blade of Weishou',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\208_Prophet of Blood.png" id="208_Prophet of Blood" data-flag="@X" onclick="openSidebar('208_Prophet of Blood',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\161_Pact of the Blade.png" id="161_Pact of the Blade" data-flag="@X" onclick="openSidebar('161_Pact of the Blade',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\158_Laogui, Father of Spirits.png" id="158_Laogui, Father of Spirits" data-flag="@X" onclick="openSidebar('158_Laogui, Father of Spirits',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\183_Festive Lights.png" id="183_Festive Lights" data-flag="@X" onclick="openSidebar('183_Festive Lights',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\189_Inspiring Anthem.png" id="189_Inspiring Anthem" data-flag="@X" onclick="openSidebar('189_Inspiring Anthem',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\157_Kali of the Eternal Mirror.png" id="157_Kali of the Eternal Mirror" data-flag="@X" onclick="openSidebar('157_Kali of the Eternal Mirror',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\162_Penroth, Ad-Infinitum.png" id="162_Penroth, Ad-Infinitum" data-flag="@X" onclick="openSidebar('162_Penroth, Ad-Infinitum',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\221_Xianzhi Enlister.png" id="221_Xianzhi Enlister" data-flag="@X" onclick="openSidebar('221_Xianzhi Enlister',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\170_Bloodthirsty Huntress.png" id="170_Bloodthirsty Huntress" data-flag="@X" onclick="openSidebar('170_Bloodthirsty Huntress',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\193_Laogui Taleteller.png" id="193_Laogui Taleteller" data-flag="@X" onclick="openSidebar('193_Laogui Taleteller',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\163_Wangshou Enforcer.png" id="163_Wangshou Enforcer" data-flag="@X" onclick="openSidebar('163_Wangshou Enforcer',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\203_One With the Swamps.png" id="203_One With the Swamps" data-flag="@X" onclick="openSidebar('203_One With the Swamps',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\215_Spiral of Creation.png" id="215_Spiral of Creation" data-flag="@X" onclick="openSidebar('215_Spiral of Creation',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\175_Dan Xiao, Royal Tactician.png" id="175_Dan Xiao, Royal Tactician" data-flag="@X" onclick="openSidebar('175_Dan Xiao, Royal Tactician',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\188_Henmo's Wake.png" id="188_Henmos Wake" data-flag="@X" onclick="openSidebar('188_Henmos Wake',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\168_Bai Qiu, Call of the Past.png" id="168_Bai Qiu, Call of the Past" data-flag="@X" onclick="openSidebar('168_Bai Qiu, Call of the Past',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\190_Inspiring Warlord.png" id="190_Inspiring Warlord" data-flag="@X" onclick="openSidebar('190_Inspiring Warlord',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\195_Long Jing, the Tireless.png" id="195_Long Jing, the Tireless" data-flag="@X" onclick="openSidebar('195_Long Jing, the Tireless',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\173_Consult the Ancients.png" id="173_Consult the Ancients" data-flag="@X" onclick="openSidebar('173_Consult the Ancients',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\198_Military Prowess.png" id="198_Military Prowess" data-flag="@X" onclick="openSidebar('198_Military Prowess',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\196_Long Jing's Restless Hunt.png" id="196_Long Jings Restless Hunt" data-flag="@X" onclick="openSidebar('196_Long Jings Restless Hunt',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\186_Guardian of Shinri.png" id="186_Guardian of Shinri" data-flag="@X" onclick="openSidebar('186_Guardian of Shinri',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\218_Total War.png" id="218_Total War" data-flag="@X" onclick="openSidebar('218_Total War',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\200_Mistwoods Monstrosity.png" id="200_Mistwoods Monstrosity" data-flag="@X" onclick="openSidebar('200_Mistwoods Monstrosity',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\194_Laogui's Greatness.png" id="194_Laoguis Greatness" data-flag="@X" onclick="openSidebar('194_Laoguis Greatness',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\166_Alluring Recruiter.png" id="166_Alluring Recruiter" data-flag="@X" onclick="openSidebar('166_Alluring Recruiter',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\187_Henmo Tracker.png" id="187_Henmo Tracker" data-flag="@X" onclick="openSidebar('187_Henmo Tracker',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\169_Bai Qiu's Beckoning.png" id="169_Bai Qius Beckoning" data-flag="@X" onclick="openSidebar('169_Bai Qius Beckoning',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\219_Wangshou Veteran.png" id="219_Wangshou Veteran" data-flag="@X" onclick="openSidebar('219_Wangshou Veteran',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\204_Paradox of Might.png" id="204_Paradox of Might" data-flag="@X" onclick="openSidebar('204_Paradox of Might',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\176_Dashi of the Lake.png" id="176_Dashi of the Lake" data-flag="@X" onclick="openSidebar('176_Dashi of the Lake',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\220_War Preparations.png" id="220_War Preparations" data-flag="@X" onclick="openSidebar('220_War Preparations',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\207_Persistent Trainee.png" id="207_Persistent Trainee" data-flag="@X" onclick="openSidebar('207_Persistent Trainee',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\177_Dashi-Gui's Blessings.png" id="177_Dashi-Guis Blessings" data-flag="@X" onclick="openSidebar('177_Dashi-Guis Blessings',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\225_Zhi-Qiang Sharpshooter.png" id="225_Zhi-Qiang Sharpshooter" data-flag="@X" onclick="openSidebar('225_Zhi-Qiang Sharpshooter',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\210_Recover the Lost.png" id="210_Recover the Lost" data-flag="@X" onclick="openSidebar('210_Recover the Lost',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\214_Shrine Attendant.png" id="214_Shrine Attendant" data-flag="@X" onclick="openSidebar('214_Shrine Attendant',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\159_Mia, Unwanted Visitor.png" id="159_Mia, Unwanted Visitor" data-flag="@X" onclick="openSidebar('159_Mia, Unwanted Visitor',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\197_Mia's Resolve.png" id="197_Mias Resolve" data-flag="@X" onclick="openSidebar('197_Mias Resolve',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\156_Father of the Final Word.png" id="156_Father of the Final Word" data-flag="@X" onclick="openSidebar('156_Father of the Final Word',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\228_The Grand Engine.png" id="228_The Grand Engine" data-flag="@X" onclick="openSidebar('228_The Grand Engine',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\233_Idol of Souls.png" id="233_Idol of Souls" data-flag="@X" onclick="openSidebar('233_Idol of Souls',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\237_Spirit-Lit Baloon.png" id="237_Spirit-Lit Baloon" data-flag="@X" onclick="openSidebar('237_Spirit-Lit Baloon',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\1_Awakened Land.png" id="1_Awakened Land" data-flag="@X" onclick="openSidebar('1_Awakened Land',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\2_Paradox of Nothingness.png" id="2_Paradox of Nothingness" data-flag="@X" onclick="openSidebar('2_Paradox of Nothingness',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\226_Ancient Guardians.png" id="226_Ancient Guardians" data-flag="@X" onclick="openSidebar('226_Ancient Guardians',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\227_Festival Vessel.png" id="227_Festival Vessel" data-flag="@X" onclick="openSidebar('227_Festival Vessel',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\230_Henmo Blade.png" id="230_Henmo Blade" data-flag="@X" onclick="openSidebar('230_Henmo Blade',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\234_Paradoxical Charm.png" id="234_Paradoxical Charm" data-flag="@X" onclick="openSidebar('234_Paradoxical Charm',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\236_Sphere of Finality.png" id="236_Sphere of Finality" data-flag="@X" onclick="openSidebar('236_Sphere of Finality',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\238_Statue of Ancestry.png" id="238_Statue of Ancestry" data-flag="@X" onclick="openSidebar('238_Statue of Ancestry',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\240_Xisigui's Altar.png" id="240_Xisiguis Altar" data-flag="@X" onclick="openSidebar('240_Xisiguis Altar',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\229_Heavenly Ox.png" id="229_Heavenly Ox" data-flag="@X" onclick="openSidebar('229_Heavenly Ox',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\231_Hidden Shrine.png" id="231_Hidden Shrine" data-flag="@X" onclick="openSidebar('231_Hidden Shrine',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\232_Horn of Inspiration.png" id="232_Horn of Inspiration" data-flag="@X" onclick="openSidebar('232_Horn of Inspiration',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\235_Prophet's Guardian.png" id="235_Prophets Guardian" data-flag="@X" onclick="openSidebar('235_Prophets Guardian',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\239_Tithetaker's Dagger.png" id="239_Tithetakers Dagger" data-flag="@X" onclick="openSidebar('239_Tithetakers Dagger',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\253_Weishou, City of Light.png" id="253_Weishou, City of Light" data-flag="@X" onclick="openSidebar('253_Weishou, City of Light',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\242_Monument to Foresight.png" id="242_Monument to Foresight" data-flag="@X" onclick="openSidebar('242_Monument to Foresight',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\245_Monument to Savagery.png" id="245_Monument to Savagery" data-flag="@X" onclick="openSidebar('245_Monument to Savagery',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\247_Temple of Enlightenment.png" id="247_Temple of Enlightenment" data-flag="@X" onclick="openSidebar('247_Temple of Enlightenment',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\249_Temple of Malice.png" id="249_Temple of Malice" data-flag="@X" onclick="openSidebar('249_Temple of Malice',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\244_Monument to Magnificence.png" id="244_Monument to Magnificence" data-flag="@X" onclick="openSidebar('244_Monument to Magnificence',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\241_Monument to Ancestry.png" id="241_Monument to Ancestry" data-flag="@X" onclick="openSidebar('241_Monument to Ancestry',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\243_Monument to Heroism.png" id="243_Monument to Heroism" data-flag="@X" onclick="openSidebar('243_Monument to Heroism',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\248_Temple of Malady.png" id="248_Temple of Malady" data-flag="@X" onclick="openSidebar('248_Temple of Malady',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\250_Temple of Mystery.png" id="250_Temple of Mystery" data-flag="@X" onclick="openSidebar('250_Temple of Mystery',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\251_Temple of Triumph.png" id="251_Temple of Triumph" data-flag="@X" onclick="openSidebar('251_Temple of Triumph',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\246_Pure-Water Caverns.png" id="246_Pure-Water Caverns" data-flag="@X" onclick="openSidebar('246_Pure-Water Caverns',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\252_Terramorphic Expanse.png" id="252_Terramorphic Expanse" data-flag="@X" onclick="openSidebar('252_Terramorphic Expanse',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\1t_Spirit 3.png" id="1t_Spirit 3" data-flag="@X" onclick="openSidebar('1t_Spirit 3',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\2t_Copy.png" id="2t_Copy" data-flag="@X" onclick="openSidebar('2t_Copy',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\3t_Warrior 2.png" id="3t_Warrior 2" data-flag="@X" onclick="openSidebar('3t_Warrior 2',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\4t_Frog.png" id="4t_Frog" data-flag="@X" onclick="openSidebar('4t_Frog',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\5t_Spirit 2.png" id="5t_Spirit 2" data-flag="@X" onclick="openSidebar('5t_Spirit 2',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\6t_Bird.png" id="6t_Bird" data-flag="@X" onclick="openSidebar('6t_Bird',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\7t_Elemental.png" id="7t_Elemental" data-flag="@X" onclick="openSidebar('7t_Elemental',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\8t_Megi'Yharun.png" id="8t_MegiYharun" data-flag="@X" onclick="openSidebar('8t_MegiYharun',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\9t_Soldier.png" id="9t_Soldier" data-flag="@X" onclick="openSidebar('9t_Soldier',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\10t_Spirit.png" id="10t_Spirit" data-flag="@X" onclick="openSidebar('10t_Spirit',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\11t_Warrior.png" id="11t_Warrior" data-flag="@X" onclick="openSidebar('11t_Warrior',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\12t_Weird.png" id="12t_Weird" data-flag="@X" onclick="openSidebar('12t_Weird',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\13t_Food.png" id="13t_Food" data-flag="@X" onclick="openSidebar('13t_Food',false)"></div>
+			<div class="container"><img alt="sets\TZR-files\img\14t_Treasure.png" id="14t_Treasure" data-flag="@X" onclick="openSidebar('14t_Treasure',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = 'img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		if (horizontal && rotated_img.style.display == 'none')
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+	}
+
+	function openSidebar(id, h=false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+
+		if (horizontal)
+		{
+			rotated_img.src = document.getElementById(id).src;
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+			if (event.key === "Enter") {
+				event.preventDefault();
+				search();
+			}
+		});
+
+		function search() {
+			window.location = ("/search?search=" + document.getElementById("search").value);
+		}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let card_name = card_list_arrayified[i].card_name;
+				for (const char of specialchars)
+				{
+					card_name = card_name.replaceAll(char, "");
+				}
+
+				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
+			}
+	</script>
+</body>
+</html>
