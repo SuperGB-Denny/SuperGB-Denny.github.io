@@ -1,0 +1,2930 @@
+[CustomCards]
+	[
+		{
+			"name": "Xiao Hui, Truth Seer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W/U}{U}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/223_Xiao Hui, Truth Seer.png"
+			}
+		},
+		{
+			"name": "Dan Xiao, Royal Tactician",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R/W}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/175_Dan Xiao, Royal Tactician.png"
+			}
+		},
+		{
+			"name": "Military Prowess",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{RW}{RW}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/198_Military Prowess.png"
+			}
+		},
+		{
+			"name": "Bai Qiu, Call of the Past",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{GU}{U}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/168_Bai Qiu, Call of the Past.png"
+			}
+		},
+		{
+			"name": "Peer into the Future",
+			"rarity": "uncommon",
+			"mana_cost": "{WU}{WU}",
+			"type": "Instant",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/206_Peer into the Future.png"
+			}
+		},
+		{
+			"name": "Jin Guang, Son of Muyang",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{BR}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/191_Jin Guang, Son of Muyang.png"
+			}
+		},
+		{
+			"name": "Muyang's Onslaught",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{BR}{BR}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/202_Muyang's Onslaught.png"
+			}
+		},
+		{
+			"name": "Long Jing, the Tireless",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{BG}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/195_Long Jing, the Tireless.png"
+			}
+		},
+		{
+			"name": "Long Jing's Restless Hunt",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{BG}{BG}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/196_Long Jing's Restless Hunt.png"
+			}
+		},
+		{
+			"name": "Consult the Ancients",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{GU}{GU}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/173_Consult the Ancients.png"
+			}
+		},
+		{
+			"name": "Zhi-Qiang Sharpshooter",
+			"rarity": "common",
+			"mana_cost": "{3}{RW}",
+			"type": "Creature — Human Soldier Archer",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/225_Zhi-Qiang Sharpshooter.png"
+			}
+		},
+		{
+			"name": "Wangshou Veteran",
+			"rarity": "common",
+			"mana_cost": "{1}{RW}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/219_Wangshou Veteran.png"
+			}
+		},
+		{
+			"name": "War Preparations",
+			"rarity": "common",
+			"mana_cost": "{1}{RW}",
+			"type": "Sorcery",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/220_War Preparations.png"
+			}
+		},
+		{
+			"name": "Alluring Recruiter",
+			"rarity": "common",
+			"mana_cost": "{2}{RW}",
+			"type": "Creature — Human Noble",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/166_Alluring Recruiter.png"
+			}
+		},
+		{
+			"name": "Shrine Attendant",
+			"rarity": "common",
+			"mana_cost": "{1}{GU}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/214_Shrine Attendant.png"
+			}
+		},
+		{
+			"name": "Dashi-Gui's Blessings",
+			"rarity": "common",
+			"mana_cost": "{1}{GU}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/177_Dashi-Gui's Blessings.png"
+			}
+		},
+		{
+			"name": "Prophet of Currents",
+			"rarity": "common",
+			"mana_cost": "{1}{WU}{WU}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/209_Prophet of Currents.png"
+			}
+		},
+		{
+			"name": "Yan Ren's Divinator",
+			"rarity": "common",
+			"mana_cost": "{1}{WU}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/224_Yan Ren's Divinator.png"
+			}
+		},
+		{
+			"name": "Bai Qiu's Beckoning",
+			"rarity": "common",
+			"mana_cost": "{1}{GU}",
+			"type": "Instant",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/169_Bai Qiu's Beckoning.png"
+			}
+		},
+		{
+			"name": "Dashi of the Lake",
+			"rarity": "common",
+			"mana_cost": "{4}{GU}{GU}",
+			"type": "Creature — Fish Spirit",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/176_Dashi of the Lake.png"
+			}
+		},
+		{
+			"name": "Entranced Xianzhi",
+			"rarity": "common",
+			"mana_cost": "{3}{BR}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/181_Entranced Xianzhi.png"
+			}
+		},
+		{
+			"name": "Emo-Touched Berserker",
+			"rarity": "common",
+			"mana_cost": "{1}{BR}",
+			"type": "Creature — Human Demon Warrior",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/180_Emo-Touched Berserker.png"
+			}
+		},
+		{
+			"name": "Repel the Intruders",
+			"rarity": "common",
+			"mana_cost": "{2}{WU}",
+			"type": "Instant",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/212_Repel the Intruders.png"
+			}
+		},
+		{
+			"name": "Full-Moon Dashi",
+			"rarity": "common",
+			"mana_cost": "{2}{WU}{WU}",
+			"type": "Creature — Dragon Spirit",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/184_Full-Moon Dashi.png"
+			}
+		},
+		{
+			"name": "Relentless Rage",
+			"rarity": "common",
+			"mana_cost": "{BR}",
+			"type": "Instant",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/211_Relentless Rage.png"
+			}
+		},
+		{
+			"name": "Muyang Hellhound",
+			"rarity": "common",
+			"mana_cost": "{BR}",
+			"type": "Creature — Demon Wolf",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/201_Muyang Hellhound.png"
+			}
+		},
+		{
+			"name": "Henmo Tracker",
+			"rarity": "common",
+			"mana_cost": "{BG}",
+			"type": "Creature — Human Scout",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/187_Henmo Tracker.png"
+			}
+		},
+		{
+			"name": "Persistent Trainee",
+			"rarity": "common",
+			"mana_cost": "{2}{BG}{BG}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/207_Persistent Trainee.png"
+			}
+		},
+		{
+			"name": "Recover the Lost",
+			"rarity": "common",
+			"mana_cost": "{2}{BG}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/210_Recover the Lost.png"
+			}
+		},
+		{
+			"name": "Paradox of Might",
+			"rarity": "common",
+			"mana_cost": "{2}{BG}",
+			"type": "Creature — Weird",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/204_Paradox of Might.png"
+			}
+		},
+		{
+			"name": "Total War",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{RW}",
+			"type": "Enchantment",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/218_Total War.png"
+			}
+		},
+		{
+			"name": "Inspiring Warlord",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{RW}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/190_Inspiring Warlord.png"
+			}
+		},
+		{
+			"name": "Good Fortunes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{WU}",
+			"type": "Enchantment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/185_Good Fortunes.png"
+			}
+		},
+		{
+			"name": "Cursed Conquest",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{BR}",
+			"type": "Enchantment",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/174_Cursed Conquest.png"
+			}
+		},
+		{
+			"name": "Conspicious Trailblazer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{BR}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/172_Conspicious Trailblazer.png"
+			}
+		},
+		{
+			"name": "Henmo's Wake",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{BG}",
+			"type": "Enchantment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/188_Henmo's Wake.png"
+			}
+		},
+		{
+			"name": "Mistwoods Monstrosity",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{BG}{BG}",
+			"type": "Creature — Horror",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/200_Mistwoods Monstrosity.png"
+			}
+		},
+		{
+			"name": "Laogui's Greatness",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{GU}",
+			"type": "Enchantment",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/194_Laogui's Greatness.png"
+			}
+		},
+		{
+			"name": "Guardian of Shinri",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{GU}",
+			"type": "Creature — Human Druid",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/186_Guardian of Shinri.png"
+			}
+		},
+		{
+			"name": "Ascendant Prophet",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{WU}",
+			"type": "Creature — Human Monk",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/167_Ascendant Prophet.png"
+			}
+		},
+		{
+			"name": "Lady of Winds",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — God",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/14_Lady of Winds.png"
+			}
+		},
+		{
+			"name": "Zhi-Qiang Arena",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/32_Zhi-Qiang Arena.png"
+			}
+		},
+		{
+			"name": "Seal of Reality",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/19_Seal of Reality.png"
+			}
+		},
+		{
+			"name": "Honorable Descendant",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/12_Honorable Descendant.png"
+			}
+		},
+		{
+			"name": "Charming Noble",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/4_Charming Noble.png"
+			}
+		},
+		{
+			"name": "Extraordinary Rebirth",
+			"rarity": "rare",
+			"mana_cost": "{3}{WB}{WB}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/182_Extraordinary Rebirth.png"
+			}
+		},
+		{
+			"name": "Prophet of Blood",
+			"rarity": "rare",
+			"mana_cost": "{2}{WB}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/208_Prophet of Blood.png"
+			}
+		},
+		{
+			"name": "Paradox of Mirrors",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Weird",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/52_Paradox of Mirrors.png"
+			}
+		},
+		{
+			"name": "Shatter the Heavens",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/60_Shatter the Heavens.png"
+			}
+		},
+		{
+			"name": "Shuigui Invoker",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/61_Shuigui Invoker.png"
+			}
+		},
+		{
+			"name": "It That Watches Over Us",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Dragon Spirit",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/48_It That Watches Over Us.png"
+			}
+		},
+		{
+			"name": "Royal Weatherwoman",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Noble Wizard",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/57_Royal Weatherwoman.png"
+			}
+		},
+		{
+			"name": "Accursed Mystic",
+			"rarity": "rare",
+			"mana_cost": "{2}{UR}{UR}",
+			"type": "Creature — Demon Shaman",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/165_Accursed Mystic.png"
+			}
+		},
+		{
+			"name": "Festive Lights",
+			"rarity": "rare",
+			"mana_cost": "{UR}{UR}",
+			"type": "Enchantment",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/183_Festive Lights.png"
+			}
+		},
+		{
+			"name": "Muyang Enslavement",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/80_Muyang Enslavement.png"
+			}
+		},
+		{
+			"name": "Battlefield Desecrator",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/64_Battlefield Desecrator.png"
+			}
+		},
+		{
+			"name": "Paradox of Annihilation",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Weird",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/83_Paradox of Annihilation.png"
+			}
+		},
+		{
+			"name": "Muyang Warmonger",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/82_Muyang Warmonger.png"
+			}
+		},
+		{
+			"name": "Henmo Battlemage",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/73_Henmo Battlemage.png"
+			}
+		},
+		{
+			"name": "Bloodthirsty Huntress",
+			"rarity": "rare",
+			"mana_cost": "{2}{BG}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/170_Bloodthirsty Huntress.png"
+			}
+		},
+		{
+			"name": "One With the Swamps",
+			"rarity": "rare",
+			"mana_cost": "{1}{BG}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/203_One With the Swamps.png"
+			}
+		},
+		{
+			"name": "Jia Yi, Impartial Executioner",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Mercenary",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/108_Jia Yi, Impartial Executioner.png"
+			}
+		},
+		{
+			"name": "Brilliant Bladebearer",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/97_Brilliant Bladebearer.png"
+			}
+		},
+		{
+			"name": "Zhi-Qiang Flagbearer",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/123_Zhi-Qiang Flagbearer.png"
+			}
+		},
+		{
+			"name": "Hundred-Year Rage",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/106_Hundred-Year Rage.png"
+			}
+		},
+		{
+			"name": "Muyang Recruiter",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/112_Muyang Recruiter.png"
+			}
+		},
+		{
+			"name": "Inspiring Anthem",
+			"rarity": "rare",
+			"mana_cost": "{3}{RW}{RW}",
+			"type": "Enchantment",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/189_Inspiring Anthem.png"
+			}
+		},
+		{
+			"name": "Xianzhi Enlister",
+			"rarity": "rare",
+			"mana_cost": "{1}{RW}",
+			"type": "Creature — Human Noble Shaman",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/221_Xianzhi Enlister.png"
+			}
+		},
+		{
+			"name": "Heartless Naturalist",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/133_Heartless Naturalist.png"
+			}
+		},
+		{
+			"name": "Guardian of the Ancestors",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Creature — Dragon Spirit",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/131_Guardian of the Ancestors.png"
+			}
+		},
+		{
+			"name": "Awaken the Land",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/127_Awaken the Land.png"
+			}
+		},
+		{
+			"name": "Paradox of Regeneration",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Weird",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/147_Paradox of Regeneration.png"
+			}
+		},
+		{
+			"name": "Mistwoods Caretaker",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Monk",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/142_Mistwoods Caretaker.png"
+			}
+		},
+		{
+			"name": "Spiral of Creation",
+			"rarity": "rare",
+			"mana_cost": "{4}{GU}{GU}{GU}",
+			"type": "Sorcery",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/215_Spiral of Creation.png"
+			}
+		},
+		{
+			"name": "Laogui Taleteller",
+			"rarity": "rare",
+			"mana_cost": "{2}{GU}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/193_Laogui Taleteller.png"
+			}
+		},
+		{
+			"name": "Xianzhi Summoner",
+			"rarity": "rare",
+			"mana_cost": "{2}{WU}{WU}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/222_Xianzhi Summoner.png"
+			}
+		},
+		{
+			"name": "Tempting Offer",
+			"rarity": "rare",
+			"mana_cost": "{3}{UB}",
+			"type": "Sorcery",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/217_Tempting Offer.png"
+			}
+		},
+		{
+			"name": "Spiteful Soothsayer",
+			"rarity": "rare",
+			"mana_cost": "{1}{BR}{BR}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/216_Spiteful Soothsayer.png"
+			}
+		},
+		{
+			"name": "Cheerful Practitioner",
+			"rarity": "rare",
+			"mana_cost": "{2}{RG}",
+			"type": "Creature — Fox Warrior",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/171_Cheerful Practitioner.png"
+			}
+		},
+		{
+			"name": "Jun De, the Uniter",
+			"rarity": "rare",
+			"mana_cost": "{2}{GW}{GW}",
+			"type": "Legendary Creature — Human Noble Soldier",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/192_Jun De, the Uniter.png"
+			}
+		},
+		{
+			"name": "Shield of Destiny",
+			"rarity": "rare",
+			"mana_cost": "{3}{WU}",
+			"type": "Enchantment",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/213_Shield of Destiny.png"
+			}
+		},
+		{
+			"name": "Paradox of Sophistication",
+			"rarity": "rare",
+			"mana_cost": "{7}{UB}",
+			"type": "Creature — Weird",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/205_Paradox of Sophistication.png"
+			}
+		},
+		{
+			"name": "Demonhand Ravager",
+			"rarity": "rare",
+			"mana_cost": "{3}{BR}",
+			"type": "Creature — Human Demon Warrior",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/179_Demonhand Ravager.png"
+			}
+		},
+		{
+			"name": "Mistress of Wilds",
+			"rarity": "rare",
+			"mana_cost": "{1}{RG}",
+			"type": "Creature — Human Noble",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/199_Mistress of Wilds.png"
+			}
+		},
+		{
+			"name": "Defy Fate",
+			"rarity": "rare",
+			"mana_cost": "{2}{GW}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/178_Defy Fate.png"
+			}
+		},
+		{
+			"name": "Kali of the Eternal Mirror",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Planeswalker — Kali",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/157_Kali of the Eternal Mirror.png"
+			}
+		},
+		{
+			"name": "Penroth, Ad-Infinitum",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Legendary Creature — Elder Weird",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/162_Penroth, Ad-Infinitum.png"
+			}
+		},
+		{
+			"name": "Mia's Resolve",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}{WB}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/197_Mia's Resolve.png"
+			}
+		},
+		{
+			"name": "Yong Lin, Blade of Weishou",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Soldier Noble",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/164_Yong Lin, Blade of Weishou.png"
+			}
+		},
+		{
+			"name": "Laogui, Father of Spirits",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Legendary Creature — Elder Spirit",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/158_Laogui, Father of Spirits.png"
+			}
+		},
+		{
+			"name": "Spirit-Lit Baloon",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/237_Spirit-Lit Baloon.png"
+			}
+		},
+		{
+			"name": "Idol of Souls",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/233_Idol of Souls.png"
+			}
+		},
+		{
+			"name": "Weishou, City of Light",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/253_Weishou, City of Light.png"
+			}
+		},
+		{
+			"name": "Yan Ren, Beautiful Hieress",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/31_Yan Ren, Beautiful Hieress.png"
+			}
+		},
+		{
+			"name": "Shining-Star Brawler",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/23_Shining-Star Brawler.png"
+			}
+		},
+		{
+			"name": "As Foretold",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/36_As Foretold.png"
+			}
+		},
+		{
+			"name": "Xiao Hui's Servant",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/63_Xiao Hui's Servant.png"
+			}
+		},
+		{
+			"name": "Blade of Sightless Shadows",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/66_Blade of Sightless Shadows.png"
+			}
+		},
+		{
+			"name": "Will of the Mirror",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/91_Will of the Mirror.png"
+			}
+		},
+		{
+			"name": "Zhi-Qiang Battlecaller",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/122_Zhi-Qiang Battlecaller.png"
+			}
+		},
+		{
+			"name": "Warrior of the Setting Sun",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/120_Warrior of the Setting Sun.png"
+			}
+		},
+		{
+			"name": "Cityback Turtoise",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Turtle",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/129_Cityback Turtoise.png"
+			}
+		},
+		{
+			"name": "Henmo Lightseeker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/135_Henmo Lightseeker.png"
+			}
+		},
+		{
+			"name": "Pact of the Blade",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/161_Pact of the Blade.png"
+			}
+		},
+		{
+			"name": "Father of the Final Word",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Creature — Elephant Avatar",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/156_Father of the Final Word.png"
+			}
+		},
+		{
+			"name": "Muyang, Heartless Conquerer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/160_Muyang, Heartless Conquerer.png"
+			}
+		},
+		{
+			"name": "Pure-Water Caverns",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/246_Pure-Water Caverns.png"
+			}
+		},
+		{
+			"name": "The Grand Engine",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/228_The Grand Engine.png"
+			}
+		},
+		{
+			"name": "Zhi-Qiang Devotee",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/33_Zhi-Qiang Devotee.png"
+			}
+		},
+		{
+			"name": "Xianzhi Disruptor",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Shaman Noble",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/28_Xianzhi Disruptor.png"
+			}
+		},
+		{
+			"name": "Seer of the Rising Sun",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/20_Seer of the Rising Sun.png"
+			}
+		},
+		{
+			"name": "Weathered Strategist",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/27_Weathered Strategist.png"
+			}
+		},
+		{
+			"name": "Servant of the Winds",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/22_Servant of the Winds.png"
+			}
+		},
+		{
+			"name": "Tuanzhi Guide",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/26_Tuanzhi Guide.png"
+			}
+		},
+		{
+			"name": "Pure-Squad Leader",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/16_Pure-Squad Leader.png"
+			}
+		},
+		{
+			"name": "Friendly Skywatcher",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/8_Friendly Skywatcher.png"
+			}
+		},
+		{
+			"name": "Ancestral Messenger",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Fox Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/3_Ancestral Messenger.png"
+			}
+		},
+		{
+			"name": "Mungwon Sentinel",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Rabbit Soldier",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/15_Mungwon Sentinel.png"
+			}
+		},
+		{
+			"name": "Revitalize",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/18_Revitalize.png"
+			}
+		},
+		{
+			"name": "Seer's Solitude",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/21_Seer's Solitude.png"
+			}
+		},
+		{
+			"name": "Retaliating Slash",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/17_Retaliating Slash.png"
+			}
+		},
+		{
+			"name": "Sorrowful Maiden",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/24_Sorrowful Maiden.png"
+			}
+		},
+		{
+			"name": "Gentle Bodyguard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/9_Gentle Bodyguard.png"
+			}
+		},
+		{
+			"name": "Heavenly Scholar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/11_Heavenly Scholar.png"
+			}
+		},
+		{
+			"name": "Guo Wei, Tranquil Strategist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Noble Advisor",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/10_Guo Wei, Tranquil Strategist.png"
+			}
+		},
+		{
+			"name": "Divine Opportunist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Soldier Monk",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/6_Divine Opportunist.png"
+			}
+		},
+		{
+			"name": "Xianzhi Fortune-Bringer",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/62_Xianzhi Fortune-Bringer.png"
+			}
+		},
+		{
+			"name": "Graceful Spirit-Dancer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Druid",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/45_Graceful Spirit-Dancer.png"
+			}
+		},
+		{
+			"name": "Channeler of Fate",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/42_Channeler of Fate.png"
+			}
+		},
+		{
+			"name": "Laogui's Chosen",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/49_Laogui's Chosen.png"
+			}
+		},
+		{
+			"name": "Paradox of Tempests",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Weird",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/53_Paradox of Tempests.png"
+			}
+		},
+		{
+			"name": "Incorporeal Savant",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/47_Incorporeal Savant.png"
+			}
+		},
+		{
+			"name": "Bai Qiu's Watcher",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Spirit Dragon",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/37_Bai Qiu's Watcher.png"
+			}
+		},
+		{
+			"name": "Return to Nothingness",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/56_Return to Nothingness.png"
+			}
+		},
+		{
+			"name": "Expected Results",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/44_Expected Results.png"
+			}
+		},
+		{
+			"name": "Calculated Sabotage",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/40_Calculated Sabotage.png"
+			}
+		},
+		{
+			"name": "Beguiling Spirit",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit Fox",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/38_Beguiling Spirit.png"
+			}
+		},
+		{
+			"name": "Puzzling Visions",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/55_Puzzling Visions.png"
+			}
+		},
+		{
+			"name": "Mantle of Auguries",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/50_Mantle of Auguries.png"
+			}
+		},
+		{
+			"name": "Callous Stormkin",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird Wizard",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/41_Callous Stormkin.png"
+			}
+		},
+		{
+			"name": "Paradox of Uncertainty",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Weird",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/54_Paradox of Uncertainty.png"
+			}
+		},
+		{
+			"name": "Seer of Destiny",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/59_Seer of Destiny.png"
+			}
+		},
+		{
+			"name": "Dashi-Gui Summoner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/43_Dashi-Gui Summoner.png"
+			}
+		},
+		{
+			"name": "Scourge of Shinri",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Fish Spirit",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/58_Scourge of Shinri.png"
+			}
+		},
+		{
+			"name": "Bonded Soothsayer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Fox Spirit",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/39_Bonded Soothsayer.png"
+			}
+		},
+		{
+			"name": "Zhi-Qiang Poisoner",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/93_Zhi-Qiang Poisoner.png"
+			}
+		},
+		{
+			"name": "Traitorous Xisigui",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/90_Traitorous Xisigui.png"
+			}
+		},
+		{
+			"name": "Mungwon Bloodlord",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/79_Mungwon Bloodlord.png"
+			}
+		},
+		{
+			"name": "Long Jing's Servant",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/77_Long Jing's Servant.png"
+			}
+		},
+		{
+			"name": "Bewitched General",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/65_Bewitched General.png"
+			}
+		},
+		{
+			"name": "Muyang Scavanger",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/81_Muyang Scavanger.png"
+			}
+		},
+		{
+			"name": "Henmo Adversary",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/72_Henmo Adversary.png"
+			}
+		},
+		{
+			"name": "Invoker of Shadows",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/75_Invoker of Shadows.png"
+			}
+		},
+		{
+			"name": "Paradox of Decay",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Weird",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/84_Paradox of Decay.png"
+			}
+		},
+		{
+			"name": "Heartless Conquest",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/71_Heartless Conquest.png"
+			}
+		},
+		{
+			"name": "Prophecies of Doom",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/86_Prophecies of Doom.png"
+			}
+		},
+		{
+			"name": "Long Jing's Verdict",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/78_Long Jing's Verdict.png"
+			}
+		},
+		{
+			"name": "Spirit's Whispers",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/89_Spirit's Whispers.png"
+			}
+		},
+		{
+			"name": "Forced Tribute",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/70_Forced Tribute.png"
+			}
+		},
+		{
+			"name": "Charming Opportunist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/67_Charming Opportunist.png"
+			}
+		},
+		{
+			"name": "Highland Marauder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/74_Highland Marauder.png"
+			}
+		},
+		{
+			"name": "Savage Martyr",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/88_Savage Martyr.png"
+			}
+		},
+		{
+			"name": "Eyes of Muyang",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/69_Eyes of Muyang.png"
+			}
+		},
+		{
+			"name": "Paradox of Finales",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Weird",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/85_Paradox of Finales.png"
+			}
+		},
+		{
+			"name": "Doom Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/68_Doom Blade.png"
+			}
+		},
+		{
+			"name": "Tireless Haymaker",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/116_Tireless Haymaker.png"
+			}
+		},
+		{
+			"name": "Paradox of Pain",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Weird",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/113_Paradox of Pain.png"
+			}
+		},
+		{
+			"name": "Guardian of Weishou",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/104_Guardian of Weishou.png"
+			}
+		},
+		{
+			"name": "Devoted Throne-Guard",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/101_Devoted Throne-Guard.png"
+			}
+		},
+		{
+			"name": "Battle Sanctifier",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/96_Battle Sanctifier.png"
+			}
+		},
+		{
+			"name": "Cruel Campaigner",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/100_Cruel Campaigner.png"
+			}
+		},
+		{
+			"name": "Muyang Messenger",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/111_Muyang Messenger.png"
+			}
+		},
+		{
+			"name": "Mungwon Poet",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Human Bard",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/109_Mungwon Poet.png"
+			}
+		},
+		{
+			"name": "Abrade",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/94_Abrade.png"
+			}
+		},
+		{
+			"name": "Fatal Encounter",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/102_Fatal Encounter.png"
+			}
+		},
+		{
+			"name": "Taken by the Muyang",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/115_Taken by the Muyang.png"
+			}
+		},
+		{
+			"name": "Glory to Zhi-Qiang",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/103_Glory to Zhi-Qiang.png"
+			}
+		},
+		{
+			"name": "Visions of Glory",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/117_Visions of Glory.png"
+			}
+		},
+		{
+			"name": "Weishou Purifier",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/121_Weishou Purifier.png"
+			}
+		},
+		{
+			"name": "Imperious Maiden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/107_Imperious Maiden.png"
+			}
+		},
+		{
+			"name": "Pure-Squad Brawler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/114_Pure-Squad Brawler.png"
+			}
+		},
+		{
+			"name": "Muyang Conquerer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/110_Muyang Conquerer.png"
+			}
+		},
+		{
+			"name": "Corrupted Wangshou",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Demon Warrior",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/99_Corrupted Wangshou.png"
+			}
+		},
+		{
+			"name": "Hostile Reunion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/105_Hostile Reunion.png"
+			}
+		},
+		{
+			"name": "Laogui's Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/139_Laogui's Pilgrim.png"
+			}
+		},
+		{
+			"name": "Henmo Sentinel",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/136_Henmo Sentinel.png"
+			}
+		},
+		{
+			"name": "Paradox of Loss",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Weird",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/146_Paradox of Loss.png"
+			}
+		},
+		{
+			"name": "Mungwon Naturalist",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/144_Mungwon Naturalist.png"
+			}
+		},
+		{
+			"name": "Disciple of Bai Qiu",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/130_Disciple of Bai Qiu.png"
+			}
+		},
+		{
+			"name": "Qilin of Bad Omens",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/150_Qilin of Bad Omens.png"
+			}
+		},
+		{
+			"name": "Henmo Facilitator",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Monk Warrior",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/134_Henmo Facilitator.png"
+			}
+		},
+		{
+			"name": "Brutal Courier",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/128_Brutal Courier.png"
+			}
+		},
+		{
+			"name": "Almighty Qingwa",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Spirit Frog",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/125_Almighty Qingwa.png"
+			}
+		},
+		{
+			"name": "Hunter's Guile",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/138_Hunter's Guile.png"
+			}
+		},
+		{
+			"name": "Spirit's Wake",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/152_Spirit's Wake.png"
+			}
+		},
+		{
+			"name": "Return to Nature",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/151_Return to Nature.png"
+			}
+		},
+		{
+			"name": "Mistwoods Reclaimer",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/143_Mistwoods Reclaimer.png"
+			}
+		},
+		{
+			"name": "Guixiong Commemorator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/132_Guixiong Commemorator.png"
+			}
+		},
+		{
+			"name": "Alkadur, Paradox of Prosperity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Weird",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/124_Alkadur, Paradox of Prosperity.png"
+			}
+		},
+		{
+			"name": "Mistress of the Pond",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Fox Druid",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/141_Mistress of the Pond.png"
+			}
+		},
+		{
+			"name": "Midnight Combatant",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/140_Midnight Combatant.png"
+			}
+		},
+		{
+			"name": "Prowling Dashi",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Beast Spirit",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/149_Prowling Dashi.png"
+			}
+		},
+		{
+			"name": "Horn of Inspiration",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/232_Horn of Inspiration.png"
+			}
+		},
+		{
+			"name": "Prophet's Guardian",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/235_Prophet's Guardian.png"
+			}
+		},
+		{
+			"name": "Heavenly Ox",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Ox",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/229_Heavenly Ox.png"
+			}
+		},
+		{
+			"name": "Tithetaker's Dagger",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/239_Tithetaker's Dagger.png"
+			}
+		},
+		{
+			"name": "Terramorphic Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/252_Terramorphic Expanse.png"
+			}
+		},
+		{
+			"name": "Hidden Shrine",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/231_Hidden Shrine.png"
+			}
+		},
+		{
+			"name": "Statue of Ancestry",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/238_Statue of Ancestry.png"
+			}
+		},
+		{
+			"name": "Ancient Guardians",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Spirit Construct",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/226_Ancient Guardians.png"
+			}
+		},
+		{
+			"name": "Paradoxical Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/234_Paradoxical Charm.png"
+			}
+		},
+		{
+			"name": "Henmo Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/230_Henmo Blade.png"
+			}
+		},
+		{
+			"name": "Sphere of Finality",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/236_Sphere of Finality.png"
+			}
+		},
+		{
+			"name": "Festival Vessel",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/227_Festival Vessel.png"
+			}
+		},
+		{
+			"name": "Paradox of Nothingness",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Creature — Weird",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/2_Paradox of Nothingness.png"
+			}
+		},
+		{
+			"name": "Awakened Land",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Creature — Elemental",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/1_Awakened Land.png"
+			}
+		},
+		{
+			"name": "Xisigui's Altar",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/240_Xisigui's Altar.png"
+			}
+		},
+		{
+			"name": "Spirit's Company",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/25_Spirit's Company.png"
+			}
+		},
+		{
+			"name": "Emperor's Forgiveness",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/7_Emperor's Forgiveness.png"
+			}
+		},
+		{
+			"name": "Deadly Reprisal",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/5_Deadly Reprisal.png"
+			}
+		},
+		{
+			"name": "Kali's Warning",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/13_Kali's Warning.png"
+			}
+		},
+		{
+			"name": "Wangshou Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/163_Wangshou Enforcer.png"
+			}
+		},
+		{
+			"name": "Anticipated Misstep",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/35_Anticipated Misstep.png"
+			}
+		},
+		{
+			"name": "Paint the Sky",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/51_Paint the Sky.png"
+			}
+		},
+		{
+			"name": "Rite of Revival",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/87_Rite of Revival.png"
+			}
+		},
+		{
+			"name": "Long Jing's Incursion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/76_Long Jing's Incursion.png"
+			}
+		},
+		{
+			"name": "Anger of the Winds",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/95_Anger of the Winds.png"
+			}
+		},
+		{
+			"name": "Visit from Above",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/118_Visit from Above.png"
+			}
+		},
+		{
+			"name": "Will of the Ancients",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/153_Will of the Ancients.png"
+			}
+		},
+		{
+			"name": "New Year Celebrations",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/145_New Year Celebrations.png"
+			}
+		},
+		{
+			"name": "Amalgamation",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/34_Amalgamation.png"
+			}
+		},
+		{
+			"name": "Humble Offerings",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/46_Humble Offerings.png"
+			}
+		},
+		{
+			"name": "Path to Enlightenment",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/148_Path to Enlightenment.png"
+			}
+		},
+		{
+			"name": "Ancient's Guidance",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/126_Ancient's Guidance.png"
+			}
+		},
+		{
+			"name": "Heretic Sharpshooter",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/137_Heretic Sharpshooter.png"
+			}
+		},
+		{
+			"name": "Yangui's Haunting",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/92_Yangui's Haunting.png"
+			}
+		},
+		{
+			"name": "Collective Devotion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/98_Collective Devotion.png"
+			}
+		},
+		{
+			"name": "Wangshou's Armaments",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/119_Wangshou's Armaments.png"
+			}
+		},
+		{
+			"name": "Arkeo Khalimos",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Planeswalker — Arkeo",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/154_Arkeo Khalimos.png"
+			}
+		},
+		{
+			"name": "Yan Lei, Benevolent Emperor",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Planeswalker — Eileen",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/30_Yan Lei, Benevolent Emperor.png"
+			}
+		},
+		{
+			"name": "Mia, Unwanted Visitor",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Planeswalker — Mia",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/159_Mia, Unwanted Visitor.png"
+			}
+		},
+		{
+			"name": "Era, Arbiter of History",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Planeswalker — Era",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/155_Era, Arbiter of History.png"
+			}
+		},
+		{
+			"name": "Monument to Magnificence",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/244_Monument to Magnificence.png"
+			}
+		},
+		{
+			"name": "Monument to Heroism",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/243_Monument to Heroism.png"
+			}
+		},
+		{
+			"name": "Monument to Ancestry",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/241_Monument to Ancestry.png"
+			}
+		},
+		{
+			"name": "Monument to Savagery",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/245_Monument to Savagery.png"
+			}
+		},
+		{
+			"name": "Monument to Foresight",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/242_Monument to Foresight.png"
+			}
+		},
+		{
+			"name": "Xianzhi Ponderer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/29_Xianzhi Ponderer.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/9_Soldier.png"
+			}
+		},
+		{
+			"name": "Frog",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Frog",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/4_Frog.png"
+			}
+		},
+		{
+			"name": "Temple of Enlightenment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/247_Temple of Enlightenment.png"
+			}
+		},
+		{
+			"name": "Temple of Malice",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/249_Temple of Malice.png"
+			}
+		},
+		{
+			"name": "Temple of Mystery",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/250_Temple of Mystery.png"
+			}
+		},
+		{
+			"name": "Temple of Triumph",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/251_Temple of Triumph.png"
+			}
+		},
+		{
+			"name": "Temple of Malady",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/248_Temple of Malady.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/14_Treasure.png"
+			}
+		},
+		{
+			"name": "Warrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Warrior",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/11_Warrior.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/10_Spirit.png"
+			}
+		},
+		{
+			"name": "Megi'Yharun",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Token Creature — Weird",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/8_Megi'Yharun.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/7_Elemental.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/6_Bird.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Reflection",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/2_Copy.png"
+			}
+		},
+		{
+			"name": "Spirit 3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/1_Spirit 3.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/13_Food.png"
+			}
+		},
+		{
+			"name": "Spirit 2",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/5_Spirit 2.png"
+			}
+		},
+		{
+			"name": "Warrior 2",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Warrior",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/3_Warrior 2.png"
+			}
+		},
+		{
+			"name": "Weird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Weird",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/12_Weird.png"
+			}
+		},
+	]
+
+[rare(1)]
+	5 Lady of Winds
+	5 Zhi-Qiang Arena
+	5 Seal of Reality
+	5 Honorable Descendant
+	5 Charming Noble
+	5 Extraordinary Rebirth
+	5 Prophet of Blood
+	5 Paradox of Mirrors
+	5 Shatter the Heavens
+	5 Shuigui Invoker
+	5 It That Watches Over Us
+	5 Royal Weatherwoman
+	5 Accursed Mystic
+	5 Festive Lights
+	5 Muyang Enslavement
+	5 Battlefield Desecrator
+	5 Paradox of Annihilation
+	5 Muyang Warmonger
+	5 Henmo Battlemage
+	5 Bloodthirsty Huntress
+	5 One With the Swamps
+	5 Jia Yi, Impartial Executioner
+	5 Brilliant Bladebearer
+	5 Zhi-Qiang Flagbearer
+	5 Hundred-Year Rage
+	5 Muyang Recruiter
+	5 Inspiring Anthem
+	5 Xianzhi Enlister
+	5 Heartless Naturalist
+	5 Guardian of the Ancestors
+	5 Awaken the Land
+	5 Paradox of Regeneration
+	5 Mistwoods Caretaker
+	5 Spiral of Creation
+	5 Laogui Taleteller
+	5 Xianzhi Summoner
+	5 Tempting Offer
+	5 Spiteful Soothsayer
+	5 Cheerful Practitioner
+	5 Jun De, the Uniter
+	5 Shield of Destiny
+	5 Paradox of Sophistication
+	5 Demonhand Ravager
+	5 Mistress of Wilds
+	5 Defy Fate
+	5 Kali of the Eternal Mirror
+	5 Penroth, Ad-Infinitum
+	5 Mia's Resolve
+	5 Yong Lin, Blade of Weishou
+	5 Laogui, Father of Spirits
+	5 Spirit-Lit Baloon
+	5 Idol of Souls
+	5 Weishou, City of Light
+	5 Yan Ren, Beautiful Hieress
+	5 Shining-Star Brawler
+	5 As Foretold
+	5 Xiao Hui's Servant
+	5 Blade of Sightless Shadows
+	5 Will of the Mirror
+	5 Zhi-Qiang Battlecaller
+	5 Warrior of the Setting Sun
+	5 Cityback Turtoise
+	5 Henmo Lightseeker
+	5 Pact of the Blade
+	5 Father of the Final Word
+	5 Muyang, Heartless Conquerer
+	5 Pure-Water Caverns
+	5 The Grand Engine
+	5 Arkeo Khalimos
+	5 Yan Lei, Benevolent Emperor
+	5 Mia, Unwanted Visitor
+	5 Era, Arbiter of History
+[uncommon(3)]
+	5 Xiao Hui, Truth Seer
+	5 Dan Xiao, Royal Tactician
+	5 Military Prowess
+	5 Bai Qiu, Call of the Past
+	5 Peer into the Future
+	5 Jin Guang, Son of Muyang
+	5 Muyang's Onslaught
+	5 Long Jing, the Tireless
+	5 Long Jing's Restless Hunt
+	5 Consult the Ancients
+	5 Total War
+	5 Inspiring Warlord
+	5 Good Fortunes
+	5 Cursed Conquest
+	5 Conspicious Trailblazer
+	5 Henmo's Wake
+	5 Mistwoods Monstrosity
+	5 Laogui's Greatness
+	5 Guardian of Shinri
+	5 Ascendant Prophet
+	5 Sorrowful Maiden
+	5 Gentle Bodyguard
+	5 Heavenly Scholar
+	5 Guo Wei, Tranquil Strategist
+	5 Divine Opportunist
+	5 Callous Stormkin
+	5 Paradox of Uncertainty
+	5 Seer of Destiny
+	5 Dashi-Gui Summoner
+	5 Scourge of Shinri
+	5 Bonded Soothsayer
+	5 Charming Opportunist
+	5 Highland Marauder
+	5 Savage Martyr
+	5 Eyes of Muyang
+	5 Paradox of Finales
+	5 Doom Blade
+	5 Weishou Purifier
+	5 Imperious Maiden
+	5 Pure-Squad Brawler
+	5 Muyang Conquerer
+	5 Corrupted Wangshou
+	5 Hostile Reunion
+	5 Mistwoods Reclaimer
+	5 Guixiong Commemorator
+	5 Alkadur, Paradox of Prosperity
+	5 Mistress of the Pond
+	5 Midnight Combatant
+	5 Prowling Dashi
+	5 Statue of Ancestry
+	5 Ancient Guardians
+	5 Paradoxical Charm
+	5 Henmo Blade
+	5 Sphere of Finality
+	5 Festival Vessel
+	5 Paradox of Nothingness
+	5 Awakened Land
+	5 Xisigui's Altar
+	5 Deadly Reprisal
+	5 Kali's Warning
+	5 Wangshou Enforcer
+	5 Anticipated Misstep
+	5 Paint the Sky
+	5 Rite of Revival
+	5 Long Jing's Incursion
+	5 Anger of the Winds
+	5 Visit from Above
+	5 Will of the Ancients
+	5 New Year Celebrations
+	5 Monument to Magnificence
+	5 Monument to Heroism
+	5 Monument to Ancestry
+	5 Monument to Savagery
+	5 Monument to Foresight
+	5 Xianzhi Ponderer
+[common(10)]
+	5 Zhi-Qiang Sharpshooter
+	5 Wangshou Veteran
+	5 War Preparations
+	5 Alluring Recruiter
+	5 Shrine Attendant
+	5 Dashi-Gui's Blessings
+	5 Prophet of Currents
+	5 Yan Ren's Divinator
+	5 Bai Qiu's Beckoning
+	5 Dashi of the Lake
+	5 Entranced Xianzhi
+	5 Emo-Touched Berserker
+	5 Repel the Intruders
+	5 Full-Moon Dashi
+	5 Relentless Rage
+	5 Muyang Hellhound
+	5 Henmo Tracker
+	5 Persistent Trainee
+	5 Recover the Lost
+	5 Paradox of Might
+	5 Zhi-Qiang Devotee
+	5 Xianzhi Disruptor
+	5 Seer of the Rising Sun
+	5 Weathered Strategist
+	5 Servant of the Winds
+	5 Tuanzhi Guide
+	5 Pure-Squad Leader
+	5 Friendly Skywatcher
+	5 Ancestral Messenger
+	5 Mungwon Sentinel
+	5 Revitalize
+	5 Seer's Solitude
+	5 Retaliating Slash
+	5 Xianzhi Fortune-Bringer
+	5 Graceful Spirit-Dancer
+	5 Channeler of Fate
+	5 Laogui's Chosen
+	5 Paradox of Tempests
+	5 Incorporeal Savant
+	5 Bai Qiu's Watcher
+	5 Return to Nothingness
+	5 Expected Results
+	5 Calculated Sabotage
+	5 Beguiling Spirit
+	5 Puzzling Visions
+	5 Mantle of Auguries
+	5 Zhi-Qiang Poisoner
+	5 Traitorous Xisigui
+	5 Mungwon Bloodlord
+	5 Long Jing's Servant
+	5 Bewitched General
+	5 Muyang Scavanger
+	5 Henmo Adversary
+	5 Invoker of Shadows
+	5 Paradox of Decay
+	5 Heartless Conquest
+	5 Prophecies of Doom
+	5 Long Jing's Verdict
+	5 Spirit's Whispers
+	5 Forced Tribute
+	5 Tireless Haymaker
+	5 Paradox of Pain
+	5 Guardian of Weishou
+	5 Devoted Throne-Guard
+	5 Battle Sanctifier
+	5 Cruel Campaigner
+	5 Muyang Messenger
+	5 Mungwon Poet
+	5 Abrade
+	5 Fatal Encounter
+	5 Taken by the Muyang
+	5 Glory to Zhi-Qiang
+	5 Visions of Glory
+	5 Laogui's Pilgrim
+	5 Henmo Sentinel
+	5 Paradox of Loss
+	5 Mungwon Naturalist
+	5 Disciple of Bai Qiu
+	5 Qilin of Bad Omens
+	5 Henmo Facilitator
+	5 Brutal Courier
+	5 Almighty Qingwa
+	5 Hunter's Guile
+	5 Spirit's Wake
+	5 Return to Nature
+	5 Horn of Inspiration
+	5 Prophet's Guardian
+	5 Heavenly Ox
+	5 Tithetaker's Dagger
+	5 Terramorphic Expanse
+	5 Hidden Shrine
+	5 Spirit's Company
+	5 Emperor's Forgiveness
+	5 Amalgamation
+	5 Humble Offerings
+	5 Path to Enlightenment
+	5 Ancient's Guidance
+	5 Heretic Sharpshooter
+	5 Yangui's Haunting
+	5 Collective Devotion
+	5 Wangshou's Armaments
+	5 Temple of Enlightenment
+	5 Temple of Malice
+	5 Temple of Mystery
+	5 Temple of Triumph
+	5 Temple of Malady
