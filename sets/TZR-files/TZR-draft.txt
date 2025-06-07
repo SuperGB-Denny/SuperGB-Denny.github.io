@@ -3,7 +3,7 @@
 		{
 			"name": "Xiao Hui, Truth Seer",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{W/U}{U}",
+			"mana_cost": "{2}{W}{WU}{U}",
 			"type": "Legendary Creature — Human Monk",
 			"collector_number": "223",
 			"image_uris": {
@@ -13,7 +13,7 @@
 		{
 			"name": "Dan Xiao, Royal Tactician",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{R/W}{W}",
+			"mana_cost": "{2}{R}{RW}{W}",
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "175",
 			"image_uris": {
