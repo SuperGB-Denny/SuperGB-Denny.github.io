@@ -1,5 +1,5 @@
 ﻿{
-    "name": "",
+    "name": "Universes Beyond: RPGMaker",
     "formats": "",
     "trimmed": "n",
     "image_type": "png",
@@ -5286,7 +5286,7 @@
             "notes": ""
         },
         {
-            "card_name": "HAPPY E&%NdD",
+            "card_name": "HAPPY END_2",
             "color": "U",
             "rarity": "uncommon",
             "type": "Sorcery \u2014 Ending",
@@ -5301,7 +5301,7 @@
             "set": "RPGM",
             "loyalty": "",
             "artist": "Etherane",
-            "notes": ""
+            "notes": "!exportname HAPPY END_2"
         },
         {
             "card_name": "Final Duet",
