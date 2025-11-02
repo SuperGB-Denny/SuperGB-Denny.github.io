@@ -151,13 +151,13 @@
 			}
 		},
 		{
-			"name": "Dashi-Gui's Blessings",
+			"name": "Dashigui's Blessings",
 			"rarity": "common",
 			"mana_cost": "{1}{GU}",
 			"type": "Instant",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/177_Dashi-Gui's Blessings.png"
+				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/177_Dashigui's Blessings.png"
 			}
 		},
 		{
@@ -1044,7 +1044,7 @@
 			"name": "Father of the Final Word",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}{W}",
-			"type": "Legendary Creature — Elephant Avatar",
+			"type": "Legendary Creature — Avatar",
 			"collector_number": "156",
 			"image_uris": {
 				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/156_Father of the Final Word.png"
@@ -2827,7 +2827,7 @@
 	5 War Preparations
 	5 Alluring Recruiter
 	5 Shrine Attendant
-	5 Dashi-Gui's Blessings
+	5 Dashigui's Blessings
 	5 Prophet of Currents
 	5 Yan Ren's Divinator
 	5 Bai Qiu's Beckoning
