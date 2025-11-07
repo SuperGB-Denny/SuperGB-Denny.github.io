@@ -1,1 +1,19 @@
-﻿{"sets": [{"set_code": "PBA", "set_name": "Phirback Academy", "formats": ""}, {"set_code": "RPGM", "set_name": "Universes Beyond: RPGMaker", "formats": ""}, {"set_code": "TZR", "set_name": "Tuanzhi Restored", "formats": ""}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "PBA",
+            "set_name": "Phirback Academy",
+            "formats": ""
+        },
+        {
+            "set_code": "RPGM",
+            "set_name": "Universes Beyond: RPGMaker",
+            "formats": ""
+        },
+        {
+            "set_code": "TZR",
+            "set_name": "Tuanzhi Restored",
+            "formats": ""
+        }
+    ]
+}

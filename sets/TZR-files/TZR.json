@@ -4,6 +4,9 @@
     "trimmed": "y",
     "image_type": "png",
     "draft_structure": "draft booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Xiao Hui, Truth Seer",
@@ -21,6 +24,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "David Astruga",
+            "alias": "",
+            "position": "0",
             "notes": ""
         },
         {
@@ -39,6 +44,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Nuit Blanche",
+            "alias": "",
+            "position": "1",
             "notes": ""
         },
         {
@@ -57,6 +64,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Lighting Luminoso",
+            "alias": "",
+            "position": "2",
             "notes": ""
         },
         {
@@ -75,6 +84,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Luminita Pham",
+            "alias": "",
+            "position": "3",
             "notes": ""
         },
         {
@@ -93,6 +104,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "\u591c\u732b\u5b50\u8fdb\u5b85",
+            "alias": "",
+            "position": "4",
             "notes": ""
         },
         {
@@ -111,6 +124,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Keiji Hida",
+            "alias": "",
+            "position": "5",
             "notes": ""
         },
         {
@@ -129,6 +144,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Bang Seungho",
+            "alias": "",
+            "position": "6",
             "notes": ""
         },
         {
@@ -147,6 +164,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Christina Kraus",
+            "alias": "",
+            "position": "7",
             "notes": ""
         },
         {
@@ -165,6 +184,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Zhuye",
+            "alias": "",
+            "position": "8",
             "notes": ""
         },
         {
@@ -183,6 +204,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Conor Burke",
+            "alias": "",
+            "position": "9",
             "notes": ""
         },
         {
@@ -201,6 +224,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Francisco Badilla",
+            "alias": "",
+            "position": "10",
             "notes": ""
         },
         {
@@ -219,6 +244,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Gao Sheng",
+            "alias": "",
+            "position": "11",
             "notes": ""
         },
         {
@@ -237,6 +264,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "\u90aa \u4e0d\u4e8c",
+            "alias": "",
+            "position": "12",
             "notes": ""
         },
         {
@@ -255,6 +284,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "\u53c1\u4e54\u5c45 3QSTUDIO",
+            "alias": "",
+            "position": "13",
             "notes": ""
         },
         {
@@ -273,6 +304,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "quanyi",
+            "alias": "",
+            "position": "14",
             "notes": ""
         },
         {
@@ -291,6 +324,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Sara Contreras YunaXD",
+            "alias": "",
+            "position": "15",
             "notes": ""
         },
         {
@@ -309,6 +344,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Ma Ke",
+            "alias": "",
+            "position": "16",
             "notes": ""
         },
         {
@@ -327,6 +364,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "shuxian zhang",
+            "alias": "",
+            "position": "17",
             "notes": ""
         },
         {
@@ -345,6 +384,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Devin Elle Kurtz",
+            "alias": "",
+            "position": "18",
             "notes": ""
         },
         {
@@ -363,6 +404,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Lim Wai Yee",
+            "alias": "",
+            "position": "19",
             "notes": ""
         },
         {
@@ -381,6 +424,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Corina Stan",
+            "alias": "",
+            "position": "20",
             "notes": ""
         },
         {
@@ -399,6 +444,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "RAINART",
+            "alias": "",
+            "position": "21",
             "notes": ""
         },
         {
@@ -417,6 +464,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Vincent LA\u00cfK",
+            "alias": "",
+            "position": "22",
             "notes": ""
         },
         {
@@ -435,6 +484,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Dan Robinett",
+            "alias": "",
+            "position": "23",
             "notes": ""
         },
         {
@@ -453,6 +504,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Mateusz Michalski",
+            "alias": "",
+            "position": "24",
             "notes": ""
         },
         {
@@ -471,6 +524,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Rio Sabda",
+            "alias": "",
+            "position": "25",
             "notes": ""
         },
         {
@@ -489,6 +544,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "ayamu hittiger",
+            "alias": "",
+            "position": "26",
             "notes": ""
         },
         {
@@ -507,6 +564,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "shuxian zhang",
+            "alias": "",
+            "position": "27",
             "notes": ""
         },
         {
@@ -525,6 +584,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Miguel Arguelles",
+            "alias": "",
+            "position": "28",
             "notes": ""
         },
         {
@@ -543,6 +604,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Peter Mohrbacher",
+            "alias": "",
+            "position": "29",
             "notes": ""
         },
         {
@@ -561,6 +624,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Miao Zhang",
+            "alias": "",
+            "position": "30",
             "notes": ""
         },
         {
@@ -579,6 +644,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Red Pencil Art",
+            "alias": "",
+            "position": "31",
             "notes": ""
         },
         {
@@ -597,6 +664,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Nyan Kola",
+            "alias": "",
+            "position": "32",
             "notes": ""
         },
         {
@@ -615,6 +684,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Vincent LA\u00cfK",
+            "alias": "",
+            "position": "33",
             "notes": ""
         },
         {
@@ -633,6 +704,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "(Yuumei) Wenqing Yan",
+            "alias": "",
+            "position": "34",
             "notes": ""
         },
         {
@@ -651,6 +724,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Nuit Blanche",
+            "alias": "",
+            "position": "35",
             "notes": ""
         },
         {
@@ -669,6 +744,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "shuxian zhang",
+            "alias": "",
+            "position": "36",
             "notes": ""
         },
         {
@@ -687,6 +764,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Kuri Huang",
+            "alias": "",
+            "position": "37",
             "notes": ""
         },
         {
@@ -705,6 +784,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Kudos Productions",
+            "alias": "",
+            "position": "38",
             "notes": ""
         },
         {
@@ -723,6 +804,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Curlyhair Nadia Asserzon",
+            "alias": "",
+            "position": "39",
             "notes": ""
         },
         {
@@ -741,6 +824,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "tiao zi",
+            "alias": "",
+            "position": "40",
             "notes": ""
         },
         {
@@ -759,6 +844,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Derrick Zha",
+            "alias": "",
+            "position": "41",
             "notes": ""
         },
         {
@@ -777,6 +864,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Denis Kornev",
+            "alias": "",
+            "position": "42",
             "notes": ""
         },
         {
@@ -795,6 +884,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "shuxian zhang",
+            "alias": "",
+            "position": "43",
             "notes": ""
         },
         {
@@ -813,6 +904,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "\u53c1\u4e54\u5c45 3QSTUDIO",
+            "alias": "",
+            "position": "44",
             "notes": ""
         },
         {
@@ -831,6 +924,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "QIAN WEI",
+            "alias": "",
+            "position": "45",
             "notes": ""
         },
         {
@@ -849,6 +944,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "aw anqi",
+            "alias": "",
+            "position": "46",
             "notes": ""
         },
         {
@@ -867,6 +964,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Peter Mohrbacher",
+            "alias": "",
+            "position": "47",
             "notes": ""
         },
         {
@@ -885,6 +984,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Kuri Huang",
+            "alias": "",
+            "position": "48",
             "notes": ""
         },
         {
@@ -903,6 +1004,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Lucas Torquato",
+            "alias": "",
+            "position": "49",
             "notes": ""
         },
         {
@@ -921,6 +1024,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "KristinaToxicpanda",
+            "alias": "",
+            "position": "50",
             "notes": ""
         },
         {
@@ -939,6 +1044,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Yu Cheng Hong",
+            "alias": "",
+            "position": "51",
             "notes": ""
         },
         {
@@ -957,6 +1064,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Jason Nguyen",
+            "alias": "",
+            "position": "52",
             "notes": ""
         },
         {
@@ -975,6 +1084,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Cui Yujie",
+            "alias": "",
+            "position": "53",
             "notes": ""
         },
         {
@@ -993,6 +1104,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Connie Bi",
+            "alias": "",
+            "position": "54",
             "notes": ""
         },
         {
@@ -1011,6 +1124,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Keiji Hida",
+            "alias": "",
+            "position": "55",
             "notes": ""
         },
         {
@@ -1029,6 +1144,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Peter Mohrbacher",
+            "alias": "",
+            "position": "56",
             "notes": ""
         },
         {
@@ -1047,6 +1164,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Keiji Hida",
+            "alias": "",
+            "position": "57",
             "notes": ""
         },
         {
@@ -1065,6 +1184,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Chenbin Zheng",
+            "alias": "",
+            "position": "58",
             "notes": ""
         },
         {
@@ -1083,6 +1204,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "agus sw",
+            "alias": "",
+            "position": "59",
             "notes": ""
         },
         {
@@ -1101,6 +1224,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Aramisdream Ilaria",
+            "alias": "",
+            "position": "60",
             "notes": ""
         },
         {
@@ -1119,6 +1244,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Hou China",
+            "alias": "",
+            "position": "61",
             "notes": ""
         },
         {
@@ -1137,6 +1264,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "chuan c",
+            "alias": "",
+            "position": "62",
             "notes": ""
         },
         {
@@ -1155,6 +1284,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Artur Treffner",
+            "alias": "",
+            "position": "63",
             "notes": ""
         },
         {
@@ -1173,6 +1304,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "shuxian zhang",
+            "alias": "",
+            "position": "64",
             "notes": ""
         },
         {
@@ -1191,6 +1324,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "shuxian zhang",
+            "alias": "",
+            "position": "65",
             "notes": ""
         },
         {
@@ -1209,6 +1344,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Yihua Ran",
+            "alias": "",
+            "position": "66",
             "notes": ""
         },
         {
@@ -1227,6 +1364,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "\u5929\u5929\u753b\u5802 DayDayPainting",
+            "alias": "",
+            "position": "67",
             "notes": ""
         },
         {
@@ -1245,6 +1384,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Shi yang",
+            "alias": "",
+            "position": "68",
             "notes": ""
         },
         {
@@ -1263,6 +1404,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Edgar S\u00e1nchez Hidalgo",
+            "alias": "",
+            "position": "69",
             "notes": ""
         },
         {
@@ -1281,6 +1424,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "\u591c\u732b\u5b50\u8fdb\u5b85",
+            "alias": "",
+            "position": "70",
             "notes": ""
         },
         {
@@ -1299,6 +1444,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Matthew Dobrich",
+            "alias": "",
+            "position": "71",
             "notes": ""
         },
         {
@@ -1317,6 +1464,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Lucas Parolin",
+            "alias": "",
+            "position": "72",
             "notes": ""
         },
         {
@@ -1335,6 +1484,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Aixue xue",
+            "alias": "",
+            "position": "73",
             "notes": ""
         },
         {
@@ -1353,6 +1504,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Naka Isurita",
+            "alias": "",
+            "position": "74",
             "notes": ""
         },
         {
@@ -1371,6 +1524,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Exia",
+            "alias": "",
+            "position": "75",
             "notes": ""
         },
         {
@@ -1389,6 +1544,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Mario Wibisono",
+            "alias": "",
+            "position": "76",
             "notes": ""
         },
         {
@@ -1407,6 +1564,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "SWZ",
+            "alias": "",
+            "position": "77",
             "notes": ""
         },
         {
@@ -1425,6 +1584,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Clivef Poire",
+            "alias": "",
+            "position": "78",
             "notes": ""
         },
         {
@@ -1443,6 +1604,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "XT-ART",
+            "alias": "",
+            "position": "79",
             "notes": ""
         },
         {
@@ -1461,6 +1624,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Nassima Amir",
+            "alias": "",
+            "position": "80",
             "notes": ""
         },
         {
@@ -1479,6 +1644,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Peter Mohrbacher",
+            "alias": "",
+            "position": "81",
             "notes": ""
         },
         {
@@ -1497,6 +1664,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
+            "alias": "",
+            "position": "82",
             "notes": ""
         },
         {
@@ -1515,6 +1684,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Kevin Sidharta",
+            "alias": "",
+            "position": "83",
             "notes": ""
         },
         {
@@ -1533,6 +1704,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Ignatius Tan",
+            "alias": "",
+            "position": "84",
             "notes": ""
         },
         {
@@ -1543,7 +1716,7 @@
             "number": 157,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
-            "rules_text": "[i](Can be artifact, land, or multicolored as needed.)[/i]",
+            "rules_text": "Mechanical Spark 3 [i](During your turn, this planeswalker is also a 3/3 creature and damage doesn't cause it to lose loyalty.)[/i]\n[+1]: Up to one target creature gains your choice of trample or lifelink until end of turn.\n[-3]: Exile target creature without Mechanical Spark. Create a token that's a copy of that creature, except it's a 1/1 black Reflection.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Mechanical Spark 3 [i](During your turn, this planeswalker is also a 3/3 creature and damage doesn't cause it to lose loyalty.)[/i]\n[+1]: Up to one target creature gains your choice of trample or lifelink until end of turn.\n[-3]: Exile target creature without Mechanical Spark. Create a token that's a copy of that creature, except it's a 1/1 black Reflection.",
@@ -1551,6 +1724,8 @@
             "set": "TZR",
             "loyalty": "3",
             "artist": "Mad 1984",
+            "alias": "",
+            "position": "85",
             "notes": ""
         },
         {
@@ -1569,6 +1744,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Peter Mohrbacher",
+            "alias": "",
+            "position": "86",
             "notes": ""
         },
         {
@@ -1587,6 +1764,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Ken Pallicer Imaoka",
+            "alias": "",
+            "position": "87",
             "notes": ""
         },
         {
@@ -1605,6 +1784,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Jessica Oyhenart",
+            "alias": "",
+            "position": "88",
             "notes": ""
         },
         {
@@ -1623,6 +1804,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Natalia P. Guti\u00e9rrez",
+            "alias": "",
+            "position": "89",
             "notes": ""
         },
         {
@@ -1641,6 +1824,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "(Yuumei) Wenqing Yan",
+            "alias": "",
+            "position": "90",
             "notes": ""
         },
         {
@@ -1648,7 +1833,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Artifact",
-            "number": 233,
+            "number": 232,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "As Idol of Souls enters the battlefield, choose a creature type.\nCreature spells you cast of the chosen type can't be countered.\n{T}: Add one mana of any color.",
@@ -1659,6 +1844,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Bigball Gao",
+            "alias": "",
+            "position": "91",
             "notes": ""
         },
         {
@@ -1677,6 +1864,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Astral-Requin",
+            "alias": "",
+            "position": "92",
             "notes": ""
         },
         {
@@ -1695,6 +1884,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Ina Wong",
+            "alias": "",
+            "position": "93",
             "notes": ""
         },
         {
@@ -1713,6 +1904,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Eunice Ye",
+            "alias": "",
+            "position": "94",
             "notes": ""
         },
         {
@@ -1731,6 +1924,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "aruurara \u3042\u308b\u3046\u3089\u3089",
+            "alias": "",
+            "position": "95",
             "notes": ""
         },
         {
@@ -1749,6 +1944,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Francis Tneh",
+            "alias": "",
+            "position": "96",
             "notes": ""
         },
         {
@@ -1767,6 +1964,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Nino Vecia",
+            "alias": "",
+            "position": "97",
             "notes": ""
         },
         {
@@ -1785,6 +1984,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Emmanuel Bouley",
+            "alias": "",
+            "position": "98",
             "notes": ""
         },
         {
@@ -1803,6 +2004,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Wei Chang",
+            "alias": "",
+            "position": "99",
             "notes": ""
         },
         {
@@ -1821,6 +2024,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Pi Pei",
+            "alias": "",
+            "position": "100",
             "notes": ""
         },
         {
@@ -1839,6 +2044,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Lounger",
+            "alias": "",
+            "position": "101",
             "notes": ""
         },
         {
@@ -1857,6 +2064,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Maxwell MA",
+            "alias": "",
+            "position": "102",
             "notes": ""
         },
         {
@@ -1875,6 +2084,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "MYOGA .",
+            "alias": "",
+            "position": "103",
             "notes": ""
         },
         {
@@ -1893,6 +2104,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "JOO YANN ANG",
+            "alias": "",
+            "position": "104",
             "notes": ""
         },
         {
@@ -1911,6 +2124,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "KY2",
+            "alias": "",
+            "position": "105",
             "notes": ""
         },
         {
@@ -1929,6 +2144,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Astral-Requin",
+            "alias": "",
+            "position": "106",
             "notes": ""
         },
         {
@@ -1936,7 +2153,7 @@
             "color": "",
             "rarity": "mythic",
             "type": "Legendary Artifact",
-            "number": 228,
+            "number": 227,
             "color_identity": "C",
             "cost": "{7}",
             "rules_text": "When The Grand Engine enters the battlefield, gain control of target creature for as long as you control The Grand Engine.\nAt the beginning of your end step, if you control three or more permanents you don't own, draw two cards.\n{8}, {T}: Gain control of target creature for as long as you control The Grand Engine.",
@@ -1947,6 +2164,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "JasonTN",
+            "alias": "",
+            "position": "107",
             "notes": ""
         },
         {
@@ -1965,6 +2184,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "agus sw",
+            "alias": "",
+            "position": "108",
             "notes": ""
         },
         {
@@ -1983,6 +2204,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "De FeNiXx",
+            "alias": "",
+            "position": "109",
             "notes": ""
         },
         {
@@ -2001,6 +2224,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "InRainn Chan",
+            "alias": "",
+            "position": "110",
             "notes": ""
         },
         {
@@ -2019,6 +2244,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Nele Diel",
+            "alias": "",
+            "position": "111",
             "notes": ""
         },
         {
@@ -2037,6 +2264,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "\u5706\u5b50-lin",
+            "alias": "",
+            "position": "112",
             "notes": ""
         },
         {
@@ -2055,6 +2284,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Eilene Cherie",
+            "alias": "",
+            "position": "113",
             "notes": ""
         },
         {
@@ -2073,6 +2304,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Ray Hu",
+            "alias": "",
+            "position": "114",
             "notes": ""
         },
         {
@@ -2091,6 +2324,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Dogan Oztel",
+            "alias": "",
+            "position": "115",
             "notes": ""
         },
         {
@@ -2109,6 +2344,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Claudia Goh",
+            "alias": "",
+            "position": "116",
             "notes": ""
         },
         {
@@ -2127,6 +2364,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Bal\u00e1zs N\u00e9meth",
+            "alias": "",
+            "position": "117",
             "notes": ""
         },
         {
@@ -2145,6 +2384,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Aixue xue",
+            "alias": "",
+            "position": "118",
             "notes": ""
         },
         {
@@ -2163,6 +2404,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "tobi \u6cf3",
+            "alias": "",
+            "position": "119",
             "notes": ""
         },
         {
@@ -2181,6 +2424,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Jack Hsu",
+            "alias": "",
+            "position": "120",
             "notes": ""
         },
         {
@@ -2199,6 +2444,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "WLOP",
+            "alias": "",
+            "position": "121",
             "notes": ""
         },
         {
@@ -2217,6 +2464,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "7even lv",
+            "alias": "",
+            "position": "122",
             "notes": ""
         },
         {
@@ -2235,6 +2484,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Kyle Pearson",
+            "alias": "",
+            "position": "123",
             "notes": ""
         },
         {
@@ -2253,6 +2504,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "spark",
+            "alias": "",
+            "position": "124",
             "notes": ""
         },
         {
@@ -2271,6 +2524,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Pi Pei",
+            "alias": "",
+            "position": "125",
             "notes": ""
         },
         {
@@ -2289,6 +2544,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "shuxian zhang",
+            "alias": "",
+            "position": "126",
             "notes": ""
         },
         {
@@ -2307,6 +2564,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "yang qi",
+            "alias": "",
+            "position": "127",
             "notes": ""
         },
         {
@@ -2325,6 +2584,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "chixin",
+            "alias": "",
+            "position": "128",
             "notes": ""
         },
         {
@@ -2343,6 +2604,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Dan Rossi",
+            "alias": "",
+            "position": "129",
             "notes": ""
         },
         {
@@ -2361,6 +2624,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Christian Klement",
+            "alias": "",
+            "position": "130",
             "notes": ""
         },
         {
@@ -2379,6 +2644,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Entei Ryu",
+            "alias": "",
+            "position": "131",
             "notes": ""
         },
         {
@@ -2397,6 +2664,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Selkkie",
+            "alias": "",
+            "position": "132",
             "notes": ""
         },
         {
@@ -2415,6 +2684,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Yuming Li",
+            "alias": "",
+            "position": "133",
             "notes": ""
         },
         {
@@ -2433,6 +2704,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "\u2726 Monztre \u2726",
+            "alias": "",
+            "position": "134",
             "notes": ""
         },
         {
@@ -2451,6 +2724,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "\u2726 Monztre \u2726",
+            "alias": "",
+            "position": "135",
             "notes": ""
         },
         {
@@ -2469,6 +2744,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "UlaFish",
+            "alias": "",
+            "position": "136",
             "notes": ""
         },
         {
@@ -2487,6 +2764,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "J.yang tong",
+            "alias": "",
+            "position": "137",
             "notes": ""
         },
         {
@@ -2505,6 +2784,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "zichen gong",
+            "alias": "",
+            "position": "138",
             "notes": ""
         },
         {
@@ -2523,6 +2804,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Feig Felipe P\u00e9rez",
+            "alias": "",
+            "position": "139",
             "notes": ""
         },
         {
@@ -2541,6 +2824,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "7even lv",
+            "alias": "",
+            "position": "140",
             "notes": ""
         },
         {
@@ -2559,6 +2844,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "chixin",
+            "alias": "",
+            "position": "141",
             "notes": ""
         },
         {
@@ -2577,6 +2864,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Zeen Chin",
+            "alias": "",
+            "position": "142",
             "notes": ""
         },
         {
@@ -2595,6 +2884,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Emilio Grasso",
+            "alias": "",
+            "position": "143",
             "notes": ""
         },
         {
@@ -2613,6 +2904,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "BoreykoAnya",
+            "alias": "",
+            "position": "144",
             "notes": ""
         },
         {
@@ -2631,6 +2924,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Ui_uiiiiiiiii",
+            "alias": "",
+            "position": "145",
             "notes": ""
         },
         {
@@ -2649,6 +2944,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Victor Garcia",
+            "alias": "",
+            "position": "146",
             "notes": ""
         },
         {
@@ -2667,6 +2964,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "ji\uff08\u5180\uff09 tang\uff08\u5510\uff09",
+            "alias": "",
+            "position": "147",
             "notes": ""
         },
         {
@@ -2685,6 +2984,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Assadi Said",
+            "alias": "",
+            "position": "148",
             "notes": ""
         },
         {
@@ -2703,6 +3004,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Weile Zhang",
+            "alias": "",
+            "position": "149",
             "notes": ""
         },
         {
@@ -2721,6 +3024,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Keiji Hida",
+            "alias": "",
+            "position": "150",
             "notes": ""
         },
         {
@@ -2739,6 +3044,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "YUHANG",
+            "alias": "",
+            "position": "151",
             "notes": ""
         },
         {
@@ -2757,6 +3064,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "fang xinyu",
+            "alias": "",
+            "position": "152",
             "notes": ""
         },
         {
@@ -2775,6 +3084,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Peter Mohrbacher",
+            "alias": "",
+            "position": "153",
             "notes": ""
         },
         {
@@ -2793,6 +3104,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "TJ Foo",
+            "alias": "",
+            "position": "154",
             "notes": ""
         },
         {
@@ -2811,6 +3124,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Khoa Bui",
+            "alias": "",
+            "position": "155",
             "notes": ""
         },
         {
@@ -2829,6 +3144,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Cheung Ruby",
+            "alias": "",
+            "position": "156",
             "notes": ""
         },
         {
@@ -2847,6 +3164,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Carlota Su\u00e1rez",
+            "alias": "",
+            "position": "157",
             "notes": ""
         },
         {
@@ -2865,6 +3184,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Hou China",
+            "alias": "",
+            "position": "158",
             "notes": ""
         },
         {
@@ -2883,6 +3204,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "tong da",
+            "alias": "",
+            "position": "159",
             "notes": ""
         },
         {
@@ -2901,6 +3224,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "\u68a6\u60f3\u541bj",
+            "alias": "",
+            "position": "160",
             "notes": ""
         },
         {
@@ -2919,6 +3244,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "\u68a6\u60f3\u541bj",
+            "alias": "",
+            "position": "161",
             "notes": ""
         },
         {
@@ -2937,6 +3264,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Mr. Rou",
+            "alias": "",
+            "position": "162",
             "notes": ""
         },
         {
@@ -2955,6 +3284,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Joanna Kozio\u0142",
+            "alias": "",
+            "position": "163",
             "notes": ""
         },
         {
@@ -2973,6 +3304,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Benjamin Hill",
+            "alias": "",
+            "position": "164",
             "notes": ""
         },
         {
@@ -2991,6 +3324,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "\u5f0b\u9e4f \u5cb3",
+            "alias": "",
+            "position": "165",
             "notes": ""
         },
         {
@@ -3009,6 +3344,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Keiji Hida",
+            "alias": "",
+            "position": "166",
             "notes": ""
         },
         {
@@ -3027,6 +3364,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "long",
+            "alias": "",
+            "position": "167",
             "notes": ""
         },
         {
@@ -3045,6 +3384,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Daniela Ivanova",
+            "alias": "",
+            "position": "168",
             "notes": ""
         },
         {
@@ -3063,6 +3404,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "shuxian zhang",
+            "alias": "",
+            "position": "169",
             "notes": ""
         },
         {
@@ -3081,6 +3424,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "-SAIL -",
+            "alias": "",
+            "position": "170",
             "notes": ""
         },
         {
@@ -3099,6 +3444,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Red Pencil Art",
+            "alias": "",
+            "position": "171",
             "notes": ""
         },
         {
@@ -3117,6 +3464,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "agus sw",
+            "alias": "",
+            "position": "172",
             "notes": ""
         },
         {
@@ -3135,6 +3484,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Filipe Pagliuso",
+            "alias": "",
+            "position": "173",
             "notes": ""
         },
         {
@@ -3153,6 +3504,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Hou China",
+            "alias": "",
+            "position": "174",
             "notes": ""
         },
         {
@@ -3171,6 +3524,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "MACHILLUX",
+            "alias": "",
+            "position": "175",
             "notes": ""
         },
         {
@@ -3189,6 +3544,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Shu Chen Li",
+            "alias": "",
+            "position": "176",
             "notes": ""
         },
         {
@@ -3207,6 +3564,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "7thORANGE",
+            "alias": "",
+            "position": "177",
             "notes": ""
         },
         {
@@ -3225,6 +3584,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "RAINART",
+            "alias": "",
+            "position": "178",
             "notes": ""
         },
         {
@@ -3243,6 +3604,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "4KTian\u4e0d\u8fa3",
+            "alias": "",
+            "position": "179",
             "notes": ""
         },
         {
@@ -3261,6 +3624,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Envak Enkaqti",
+            "alias": "",
+            "position": "180",
             "notes": ""
         },
         {
@@ -3279,6 +3644,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "sinno L",
+            "alias": "",
+            "position": "181",
             "notes": ""
         },
         {
@@ -3297,6 +3664,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Tommy Suhartono",
+            "alias": "",
+            "position": "182",
             "notes": ""
         },
         {
@@ -3315,6 +3684,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Bertuccio",
+            "alias": "",
+            "position": "183",
             "notes": ""
         },
         {
@@ -3333,6 +3704,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "St Luthien",
+            "alias": "",
+            "position": "184",
             "notes": ""
         },
         {
@@ -3351,6 +3724,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "spark",
+            "alias": "",
+            "position": "185",
             "notes": ""
         },
         {
@@ -3369,6 +3744,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Peter Mohrbacher",
+            "alias": "",
+            "position": "186",
             "notes": ""
         },
         {
@@ -3387,6 +3764,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Dao Trong Le",
+            "alias": "",
+            "position": "187",
             "notes": ""
         },
         {
@@ -3405,6 +3784,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Kelvin Jauwri",
+            "alias": "",
+            "position": "188",
             "notes": ""
         },
         {
@@ -3423,6 +3804,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Milleworks",
+            "alias": "",
+            "position": "189",
             "notes": ""
         },
         {
@@ -3441,6 +3824,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "shuxian zhang",
+            "alias": "",
+            "position": "190",
             "notes": ""
         },
         {
@@ -3459,6 +3844,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Ina Wong",
+            "alias": "",
+            "position": "191",
             "notes": ""
         },
         {
@@ -3477,6 +3864,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Ina Wong",
+            "alias": "",
+            "position": "192",
             "notes": ""
         },
         {
@@ -3495,6 +3884,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Lin Zheng",
+            "alias": "",
+            "position": "193",
             "notes": ""
         },
         {
@@ -3513,6 +3904,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Snow Gao",
+            "alias": "",
+            "position": "194",
             "notes": ""
         },
         {
@@ -3531,6 +3924,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Kyle Koh",
+            "alias": "",
+            "position": "195",
             "notes": ""
         },
         {
@@ -3549,6 +3944,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Julie Ozaneaux",
+            "alias": "",
+            "position": "196",
             "notes": ""
         },
         {
@@ -3567,6 +3964,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Gal Or",
+            "alias": "",
+            "position": "197",
             "notes": ""
         },
         {
@@ -3585,6 +3984,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Peter Mohrbacher",
+            "alias": "",
+            "position": "198",
             "notes": ""
         },
         {
@@ -3603,6 +4004,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "mario feng",
+            "alias": "",
+            "position": "199",
             "notes": ""
         },
         {
@@ -3621,6 +4024,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Bin Ye",
+            "alias": "",
+            "position": "200",
             "notes": ""
         },
         {
@@ -3639,6 +4044,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Sandara",
+            "alias": "",
+            "position": "201",
             "notes": ""
         },
         {
@@ -3646,7 +4053,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 232,
+            "number": 231,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "{1}, {T}, Sacrifice Horn of Inspiration: Draw two cards, then put a card from your hand on the top of your library.",
@@ -3657,6 +4064,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Josep Perez",
+            "alias": "",
+            "position": "202",
             "notes": ""
         },
         {
@@ -3675,6 +4084,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "kikicianjur",
+            "alias": "",
+            "position": "203",
             "notes": ""
         },
         {
@@ -3682,7 +4093,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Ox",
-            "number": 229,
+            "number": 228,
             "color_identity": "C",
             "cost": "{6}",
             "rules_text": "Miracle {4} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]\nVigilance",
@@ -3693,6 +4104,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Quang Ho",
+            "alias": "",
+            "position": "204",
             "notes": ""
         },
         {
@@ -3711,6 +4124,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Jan Drenovec",
+            "alias": "",
+            "position": "205",
             "notes": ""
         },
         {
@@ -3729,6 +4144,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Ben J",
+            "alias": "",
+            "position": "206",
             "notes": ""
         },
         {
@@ -3736,7 +4153,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 231,
+            "number": 230,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "{T}: Add one mana of any color.\n{2}, {T}, Sacrifice Hidden Shrine: Draw a card.",
@@ -3747,6 +4164,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Marco V. Espinosa",
+            "alias": "",
+            "position": "207",
             "notes": ""
         },
         {
@@ -3765,6 +4184,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Sun ruo yang",
+            "alias": "",
+            "position": "208",
             "notes": ""
         },
         {
@@ -3783,6 +4204,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Alexandra GaudiBuendia Khitrova",
+            "alias": "",
+            "position": "209",
             "notes": ""
         },
         {
@@ -3793,7 +4216,7 @@
             "number": 234,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "Equipped creature has hexproof and protection from Weirds.\nWhenever equipped creature deals combat damage to a player, you may draw a card. If you do, discard a card.\nEquip {2}",
+            "rules_text": "Equipped creature has hexproof and protection from Weirds.\nWhenever equipped creature deals combat damage to a player, you may draw a card.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3801,6 +4224,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Dmitry Isakevitch",
+            "alias": "",
+            "position": "210",
             "notes": ""
         },
         {
@@ -3808,7 +4233,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Equipment",
-            "number": 230,
+            "number": 229,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "Equipped creature gets +1/+0 and has deathtouch.\nWhenever a creature dies, put a casualty counter on Henmo Blade, then you may sacrifice it. If you do, each opponent loses life equal to the number of casualty counters on it.\nEquip {2}",
@@ -3819,6 +4244,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Alexandre Cano Rodr\u00edguez",
+            "alias": "",
+            "position": "211",
             "notes": ""
         },
         {
@@ -3837,17 +4264,19 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Chang Yuan Jou",
+            "alias": "",
+            "position": "212",
             "notes": ""
         },
         {
-            "card_name": "Festival Vessel",
+            "card_name": "Magician's Carriage",
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Vehicle",
-            "number": 227,
+            "number": 233,
             "color_identity": "C",
-            "cost": "{5}",
-            "rules_text": "When Festival Vessel enters the battlefield or attacks, scry 1, then create a Treasure token and a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this artifact: You gain 3 life.\u201d)[/i]\nCrew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
+            "cost": "{3}",
+            "rules_text": "When Magician's Carriage enters the battlefield or attacks, create a 1/1 blue and red Elemental creature token.\nCrew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -3855,6 +4284,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Tacit Sign Studio",
+            "alias": "",
+            "position": "213",
             "notes": ""
         },
         {
@@ -3873,6 +4304,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Peter Mohrbacher",
+            "alias": "",
+            "position": "214",
             "notes": ""
         },
         {
@@ -3891,6 +4324,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Bogna Gawro\u0144ska",
+            "alias": "",
+            "position": "215",
             "notes": ""
         },
         {
@@ -3901,7 +4336,7 @@
             "number": 240,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "Fangu {1} [i](You may cast this spell by paying its fangu cost and sacrificing a creature.)[/i]\nXisigui's Altar enters the battlefield with a casualty counter on it if it was cast for its fangu cost.\n{2}, {T}, Sacrifice a creature: Draw a card. This ability costs {2} less to activate if Xisigui's Altar has a casualty counter on it.",
+            "rules_text": "Fangu {1} [i](You may cast this spell by paying its fangu cost and sacrificing a creature.)[/i]\nXisigui's Altar enters the battlefield with a casualty counter on it if it was cast for its fangu cost. When it does, draw a card.\n{2}, {T}, Sacrifice a creature: Draw a card. This ability costs {2} less to activate if Xisigui's Altar has a casualty counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3909,6 +4344,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "YongHui JIA3",
+            "alias": "",
+            "position": "216",
             "notes": ""
         },
         {
@@ -3927,6 +4364,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Zhichao Cheng",
+            "alias": "",
+            "position": "217",
             "notes": ""
         },
         {
@@ -3945,6 +4384,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Aixue Xue",
+            "alias": "",
+            "position": "218",
             "notes": ""
         },
         {
@@ -3963,6 +4404,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Arif Wijaya",
+            "alias": "",
+            "position": "219",
             "notes": ""
         },
         {
@@ -3981,6 +4424,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Kuri Huang",
+            "alias": "",
+            "position": "220",
             "notes": ""
         },
         {
@@ -3999,6 +4444,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "\u5145\u7535JUJU",
+            "alias": "",
+            "position": "221",
             "notes": ""
         },
         {
@@ -4017,6 +4464,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "swordsman \u5317",
+            "alias": "",
+            "position": "222",
             "notes": ""
         },
         {
@@ -4035,6 +4484,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "223",
             "notes": ""
         },
         {
@@ -4053,6 +4504,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Duncan Bentley",
+            "alias": "",
+            "position": "224",
             "notes": ""
         },
         {
@@ -4071,6 +4524,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Dao Trong Le",
+            "alias": "",
+            "position": "225",
             "notes": ""
         },
         {
@@ -4089,6 +4544,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Stanton Feng",
+            "alias": "",
+            "position": "226",
             "notes": ""
         },
         {
@@ -4107,6 +4564,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "\u7199\u5f80Ljx",
+            "alias": "",
+            "position": "227",
             "notes": ""
         },
         {
@@ -4125,6 +4584,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Snow Gao",
+            "alias": "",
+            "position": "228",
             "notes": ""
         },
         {
@@ -4143,6 +4604,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Devin Elle Kurtz",
+            "alias": "",
+            "position": "229",
             "notes": ""
         },
         {
@@ -4161,6 +4624,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Peter Mohrbacher",
+            "alias": "",
+            "position": "230",
             "notes": ""
         },
         {
@@ -4179,6 +4644,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Allen Song",
+            "alias": "",
+            "position": "231",
             "notes": ""
         },
         {
@@ -4197,6 +4664,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Sin jong hun",
+            "alias": "",
+            "position": "232",
             "notes": ""
         },
         {
@@ -4215,6 +4684,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Mengyuan",
+            "alias": "",
+            "position": "233",
             "notes": ""
         },
         {
@@ -4233,6 +4704,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Wenjun Lin",
+            "alias": "",
+            "position": "234",
             "notes": ""
         },
         {
@@ -4251,6 +4724,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Insist",
+            "alias": "",
+            "position": "235",
             "notes": ""
         },
         {
@@ -4269,6 +4744,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Dr D'\u0113\u00ea",
+            "alias": "",
+            "position": "236",
             "notes": ""
         },
         {
@@ -4287,6 +4764,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "li yanping",
+            "alias": "",
+            "position": "237",
             "notes": ""
         },
         {
@@ -4297,7 +4776,7 @@
             "number": 154,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
-            "rules_text": "",
+            "rules_text": "[+1]: Until end of turn, whenever a creature card is put into your graveyard or a creature you control dies, each opponent loses 1 life and you gain 1 life. Surveil 2.\n[-1]: Create a 1/1 black Warrior creature token with \u201cWhen this creature dies, you draw a card and lose 1 life.\u201d\n[-7]: You get an emblem with \u201cYou may cast permanent cards from your graveyard without paying their mana cost.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Until end of turn, whenever a creature card is put into your graveyard or a creature you control dies, each opponent loses 1 life and you gain 1 life. Surveil 2.\n[-1]: Create a 1/1 black Warrior creature token with \u201cWhen this creature dies, you draw a card and lose 1 life.\u201d\n[-7]: You get an emblem with \u201cYou may cast permanent cards from your graveyard without paying their mana cost.\u201d",
@@ -4305,6 +4784,8 @@
             "set": "TZR",
             "loyalty": "4",
             "artist": "Lorenzo Mastroianni",
+            "alias": "",
+            "position": "238",
             "notes": ""
         },
         {
@@ -4315,7 +4796,7 @@
             "number": 30,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "",
+            "rules_text": "As long as you control three or more creatures, Yan Lei's abilities cost an additional [+2] to activate.\n[+1]: Put a +1/+1 counter on each creature you control. Soldiers you control gain vigilance until end of turn.\n[-3]: Look at the top seven cards of your library. You may put a Soldier card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.\n[-10]: Creatures you control get +2/+2 and gain flying, vigilance and double strike until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "As long as you control three or more creatures, Yan Lei's abilities cost an additional [+2] to activate.\n[+1]: Put a +1/+1 counter on each creature you control. Soldiers you control gain vigilance until end of turn.\n[-3]: Look at the top seven cards of your library. You may put a Soldier card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.\n[-10]: Creatures you control get +2/+2 and gain flying, vigilance and double strike until end of turn.",
@@ -4323,6 +4804,8 @@
             "set": "TZR",
             "loyalty": "4",
             "artist": "Yang Boyu",
+            "alias": "",
+            "position": "239",
             "notes": ""
         },
         {
@@ -4333,7 +4816,7 @@
             "number": 159,
             "color_identity": "WUB",
             "cost": "{W}{U}{B}",
-            "rules_text": "",
+            "rules_text": "[+1]: Draw a card, then exile a card from your hand. If an instant or sorcery card was exiled this way, create a 2/2 blue and black Weird creature token.\n[-2]: You may exile a permanent you control. If you do, exile target permanent.\n[-6]: You may cast a card you own in exile without paying its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Draw a card, then exile a card from your hand. If an instant or sorcery card was exiled this way, create a 2/2 blue and black Weird creature token.\n[-2]: You may exile a permanent you control. If you do, exile target permanent.\n[-6]: You may cast a card you own in exile without paying its mana cost.",
@@ -4341,6 +4824,8 @@
             "set": "TZR",
             "loyalty": "3",
             "artist": "Eilene Cherie",
+            "alias": "",
+            "position": "240",
             "notes": ""
         },
         {
@@ -4351,7 +4836,7 @@
             "number": 155,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
-            "rules_text": "",
+            "rules_text": "You may activate Era's abilities an additional time during your turn as long as you've cast another spell with mana value 5 or greater this turn.\n[+1]: Draw a card. You may put a land card from your hand onto the battlefield tapped.\n[-2]: You may play target artifact, creature or land card from your graveyard this turn.\n[-8]: You get an emblem with \u201cAt the beginning of your end step, mill three cards, then you may put a permanent card from your graveyard or your hand onto the battlefield.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "You may activate Era's abilities an additional time during your turn as long as you've cast another spell with mana value 5 or greater this turn.\n[+1]: Draw a card. You may put a land card from your hand onto the battlefield tapped.\n[-2]: You may play target artifact, creature or land card from your graveyard this turn.\n[-8]: You get an emblem with \u201cAt the beginning of your end step, mill three cards, then you may put a permanent card from your graveyard or your hand onto the battlefield.\u201d",
@@ -4359,6 +4844,8 @@
             "set": "TZR",
             "loyalty": "4",
             "artist": "Ernesto Irawan",
+            "alias": "",
+            "position": "241",
             "notes": ""
         },
         {
@@ -4377,6 +4864,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Lockheed Jun Mao",
+            "alias": "",
+            "position": "242",
             "notes": ""
         },
         {
@@ -4395,6 +4884,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "SeanSoong",
+            "alias": "",
+            "position": "243",
             "notes": ""
         },
         {
@@ -4413,6 +4904,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Victoria Zavhorodnia",
+            "alias": "",
+            "position": "244",
             "notes": ""
         },
         {
@@ -4431,6 +4924,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Jelena Pjevic",
+            "alias": "",
+            "position": "245",
             "notes": ""
         },
         {
@@ -4449,6 +4944,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Su Jian",
+            "alias": "",
+            "position": "246",
             "notes": ""
         },
         {
@@ -4467,6 +4964,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Francesca Resta",
+            "alias": "",
+            "position": "247",
             "notes": ""
         },
         {
@@ -4485,6 +4984,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "PhiloPei",
+            "alias": "",
+            "position": "248",
             "notes": "!related Military Prowess;War Preparations<2>;Alluring Recruiter;Total War<2>;Inspiring Warlord;Henmo's Wake;Zhi-Qiang Arena;Zhi-Qiang Flagbearer;Cheerful Practitioner;Yan Ren, Beautiful Heiress;Warrior of the Setting Sun;Pure-Squad Leader;Mungwon Sentinel;Guo Wei, Tranquil Strategist;Battle Sanctifier;Visions of Glory;Imperious Maiden;Hostile Reunion;Emperor's Forgiveness;Dan Xiao, Royal Tactician;Weishou, City of Light;"
         },
         {
@@ -4503,6 +5004,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Grace Liu",
+            "alias": "",
+            "position": "249",
             "notes": "!related Henmo Tracker;Guardian of Shinri;Laogui Taleteller;Henmo Lightseeker;Alkadur, Paradox of Prosperity;Mistress of the Pond;"
         },
         {
@@ -4521,6 +5024,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Nieminy Nian",
+            "alias": "",
+            "position": "250",
             "notes": ""
         },
         {
@@ -4539,6 +5044,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Tuzki Fen",
+            "alias": "",
+            "position": "251",
             "notes": ""
         },
         {
@@ -4557,6 +5064,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Xiaoya Lin",
+            "alias": "",
+            "position": "252",
             "notes": ""
         },
         {
@@ -4575,6 +5084,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Siddharth Ravindran",
+            "alias": "",
+            "position": "253",
             "notes": ""
         },
         {
@@ -4593,6 +5104,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "hao xu",
+            "alias": "",
+            "position": "254",
             "notes": ""
         },
         {
@@ -4600,7 +5113,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Treasure",
-            "number": 14,
+            "number": 13,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this: Add one mana of any color.",
@@ -4611,6 +5124,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "yw tang",
+            "alias": "",
+            "position": "255",
             "notes": "!related Jin Guang, Son of Muyang;Tithetaker's Dagger;Festival Vessel;"
         },
         {
@@ -4629,6 +5144,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "shuxian zhang",
+            "alias": "",
+            "position": "256",
             "notes": "!related Cursed Conquest;Demonhand Ravager;"
         },
         {
@@ -4647,6 +5164,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "MattDeMino",
+            "alias": "",
+            "position": "257",
             "notes": "!related Cursed Conquest;"
         },
         {
@@ -4665,6 +5184,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Fran Fdez",
+            "alias": "",
+            "position": "258",
             "notes": "!related Shatter the Heavens;"
         },
         {
@@ -4683,6 +5204,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Chang Yuan Jou",
+            "alias": "",
+            "position": "259",
             "notes": "!related Festive Lights;"
         },
         {
@@ -4701,6 +5224,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Dedisun",
+            "alias": "",
+            "position": "260",
             "notes": "!related Henmo Battlemage;Xianzhi Summoner;Jun De, the Uniter;"
         },
         {
@@ -4719,6 +5244,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Sara Forlenza",
+            "alias": "",
+            "position": "261",
             "notes": "!related Kali of the Eternal Mirror;Will of the Mirror;"
         },
         {
@@ -4737,25 +5264,9 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Vivian Poetzscher",
+            "alias": "",
+            "position": "262",
             "notes": "!related Spirit-Lit Baloon;\n!exportname Spirit 3"
-        },
-        {
-            "card_name": "Food",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2014 Food",
-            "number": 13,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{2}, {T}, Sacrifice this: You gain 3 life.",
-            "flavor_text": "[i]Walking around the festival, Mia was sure of one thing: she wouldn't leave hungry.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "TZR",
-            "loyalty": "",
-            "artist": "Maradraws",
-            "notes": "!related Festival Vessel;"
         },
         {
             "card_name": "Spirit 2",
@@ -4773,6 +5284,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "lius lasahido",
+            "alias": "",
+            "position": "263",
             "notes": "!related Awaken the Land;\n!exportname Spirit 2"
         },
         {
@@ -4791,6 +5304,8 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "shuxian zhang",
+            "alias": "",
+            "position": "264",
             "notes": "!related Arkeo Khalimos;\n!exportname Warrior 2"
         },
         {
@@ -4809,8 +5324,10 @@
             "set": "TZR",
             "loyalty": "",
             "artist": "Peter Mohrbacher",
+            "alias": "",
+            "position": "265",
             "notes": "!related Mia, Unwanted Visitor;"
         }
     ],
-    "version": 1
+    "version": 2
 }

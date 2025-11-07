@@ -1,4 +1,570 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Magician's Carriage added.
+
+Festival Vessel removed.
+Food removed.
+
+Xiao Hui, Truth Seer
+
+Dan Xiao, Royal Tactician
+
+Military Prowess
+
+Bai Qiu, Call of the Past
+
+Peer into the Future
+
+Jin Guang, Son of Muyang
+
+Muyang's Onslaught
+
+Long Jing, the Tireless
+
+Long Jing's Restless Hunt
+
+Consult the Ancients
+
+Zhi-Qiang Sharpshooter
+
+Wangshou Veteran
+
+War Preparations
+
+Alluring Recruiter
+
+Shrine Attendant
+
+Dashigui's Blessings
+
+Prophet of Currents
+
+Yan Ren's Divinator
+
+Bai Qiu's Beckoning
+
+Dashi of the Lake
+
+Entranced Xianzhi
+
+Emo-Touched Berserker
+
+Repel the Intruders
+
+Full-Moon Dashi
+
+Relentless Rage
+
+Muyang Hellhound
+
+Henmo Tracker
+
+Persistent Trainee
+
+Recover the Lost
+
+Paradox of Might
+
+Total War
+
+Inspiring Warlord
+
+Good Fortunes
+
+Cursed Conquest
+
+Conspicious Trailblazer
+
+Henmo's Wake
+
+Mistwoods Monstrosity
+
+Laogui's Greatness
+
+Guardian of Shinri
+
+Ascendant Prophet
+
+Lady of Winds
+
+Zhi-Qiang Arena
+
+Seal of Reality
+
+Honorable Descendant
+
+Charming Noble
+
+Extraordinary Rebirth
+
+Prophet of Blood
+
+Paradox of Mirrors
+
+Shatter the Heavens
+
+Shuigui Invoker
+
+It That Watches Over Us
+
+Royal Weatherwoman
+
+Accursed Mystic
+
+Festive Lights
+
+Muyang Enslavement
+
+Battlefield Desecrator
+
+Paradox of Annihilation
+
+Muyang Warmonger
+
+Henmo Battlemage
+
+Bloodthirsty Huntress
+
+One With the Swamps
+
+Jia Yi, Impartial Executioner
+
+Brilliant Bladebearer
+
+Zhi-Qiang Flagbearer
+
+Hundred-Year Rage
+
+Muyang Recruiter
+
+Inspiring Anthem
+
+Xianzhi Enlister
+
+Heartless Naturalist
+
+Guardian of the Ancestors
+
+Awaken the Land
+
+Paradox of Regeneration
+
+Mistwoods Caretaker
+
+Spiral of Creation
+
+Laogui Taleteller
+
+Xianzhi Summoner
+
+Tempting Offer
+
+Spiteful Soothsayer
+
+Cheerful Practitioner
+
+Jun De, the Uniter
+
+Shield of Destiny
+
+Paradox of Sophistication
+
+Demonhand Ravager
+
+Mistress of Wilds
+
+Defy Fate
+
+Kali of the Eternal Mirror
+rules_text: [i](Can be artifact, land, or multicolored as needed.)[/i] => Mechanical Spark 3 [i](During your turn, this planeswalker is also a 3/3 creature and damage doesn't cause it to lose loyalty.)[/i]
+[+1]: Up to one target creature gains your choice of trample or lifelink until end of turn.
+[-3]: Exile target creature without Mechanical Spark. Create a token that's a copy of that creature, except it's a 1/1 black Reflection.
+
+Penroth, Ad-Infinitum
+
+Mia's Resolve
+
+Yong Lin, Blade of Weishou
+
+Laogui, Father of Spirits
+
+Spirit-Lit Baloon
+
+Idol of Souls
+
+Weishou, City of Light
+
+Yan Ren, Beautiful Hieress
+
+Shining-Star Brawler
+
+As Foretold
+
+Xiao Hui's Servant
+
+Blade of Sightless Shadows
+
+Will of the Mirror
+
+Zhi-Qiang Battlecaller
+
+Warrior of the Setting Sun
+
+Cityback Turtoise
+
+Henmo Lightseeker
+
+Pact of the Blade
+
+Father of the Final Word
+
+Muyang, Heartless Conquerer
+
+Pure-Water Caverns
+
+The Grand Engine
+
+Zhi-Qiang Devotee
+
+Xianzhi Disruptor
+
+Seer of the Rising Sun
+
+Weathered Strategist
+
+Servant of the Winds
+
+Tuanzhi Guide
+
+Pure-Squad Leader
+
+Friendly Skywatcher
+
+Ancestral Messenger
+
+Mungwon Sentinel
+
+Revitalize
+
+Seer's Solitude
+
+Retaliating Slash
+
+Sorrowful Maiden
+
+Gentle Bodyguard
+
+Heavenly Scholar
+
+Guo Wei, Tranquil Strategist
+
+Divine Opportunist
+
+Xianzhi Fortune-Bringer
+
+Graceful Spirit-Dancer
+
+Channeler of Fate
+
+Laogui's Chosen
+
+Paradox of Tempests
+
+Incorporeal Savant
+
+Bai Qiu's Watcher
+
+Return to Nothingness
+
+Expected Results
+
+Calculated Sabotage
+
+Beguiling Spirit
+
+Puzzling Visions
+
+Mantle of Auguries
+
+Callous Stormkin
+
+Paradox of Uncertainty
+
+Seer of Destiny
+
+Dashi-Gui Summoner
+
+Scourge of Shinri
+
+Bonded Soothsayer
+
+Zhi-Qiang Poisoner
+
+Traitorous Xisigui
+
+Mungwon Bloodlord
+
+Long Jing's Servant
+
+Bewitched General
+
+Muyang Scavanger
+
+Henmo Adversary
+
+Invoker of Shadows
+
+Paradox of Decay
+
+Heartless Conquest
+
+Prophecies of Doom
+
+Long Jing's Verdict
+
+Spirit's Whispers
+
+Forced Tribute
+
+Charming Opportunist
+
+Highland Marauder
+
+Savage Martyr
+
+Eyes of Muyang
+
+Paradox of Finales
+
+Doom Blade
+
+Tireless Haymaker
+
+Paradox of Pain
+
+Guardian of Weishou
+
+Devoted Throne-Guard
+
+Battle Sanctifier
+
+Cruel Campaigner
+
+Muyang Messenger
+
+Mungwon Poet
+
+Abrade
+
+Fatal Encounter
+
+Taken by the Muyang
+
+Glory to Zhi-Qiang
+
+Visions of Glory
+
+Weishou Purifier
+
+Imperious Maiden
+
+Pure-Squad Brawler
+
+Muyang Conquerer
+
+Corrupted Wangshou
+
+Hostile Reunion
+
+Laogui's Pilgrim
+
+Henmo Sentinel
+
+Paradox of Loss
+
+Mungwon Naturalist
+
+Disciple of Bai Qiu
+
+Qilin of Bad Omens
+
+Henmo Facilitator
+
+Brutal Courier
+
+Almighty Qingwa
+
+Hunter's Guile
+
+Spirit's Wake
+
+Return to Nature
+
+Mistwoods Reclaimer
+
+Guixiong Commemorator
+
+Alkadur, Paradox of Prosperity
+
+Mistress of the Pond
+
+Midnight Combatant
+
+Prowling Dashi
+
+Horn of Inspiration
+
+Prophet's Guardian
+
+Heavenly Ox
+
+Tithetaker's Dagger
+
+Terramorphic Expanse
+
+Hidden Shrine
+
+Statue of Ancestry
+
+Ancient Guardians
+
+Paradoxical Charm
+rules_text: Equipped creature has hexproof and protection from Weirds.
+Whenever equipped creature deals combat damage to a player, you may draw a card. If you do, discard a card.
+Equip {2} => Equipped creature has hexproof and protection from Weirds.
+Whenever equipped creature deals combat damage to a player, you may draw a card.
+Equip {2}
+
+Henmo Blade
+
+Sphere of Finality
+
+Paradox of Nothingness
+
+Awakened Land
+
+Xisigui's Altar
+rules_text: Fangu {1} [i](You may cast this spell by paying its fangu cost and sacrificing a creature.)[/i]
+Xisigui's Altar enters the battlefield with a casualty counter on it if it was cast for its fangu cost.
+{2}, {T}, Sacrifice a creature: Draw a card. This ability costs {2} less to activate if Xisigui's Altar has a casualty counter on it. => Fangu {1} [i](You may cast this spell by paying its fangu cost and sacrificing a creature.)[/i]
+Xisigui's Altar enters the battlefield with a casualty counter on it if it was cast for its fangu cost. When it does, draw a card.
+{2}, {T}, Sacrifice a creature: Draw a card. This ability costs {2} less to activate if Xisigui's Altar has a casualty counter on it.
+
+Spirit's Company
+
+Emperor's Forgiveness
+
+Deadly Reprisal
+
+Kali's Warning
+
+Wangshou Enforcer
+
+Anticipated Misstep
+
+Paint the Sky
+
+Rite of Revival
+
+Long Jing's Incursion
+
+Anger of the Winds
+
+Visit from Above
+
+Will of the Ancients
+
+New Year Celebrations
+
+Amalgamation
+
+Humble Offerings
+
+Path to Enlightenment
+
+Ancient's Guidance
+
+Heretic Sharpshooter
+
+Yangui's Haunting
+
+Collective Devotion
+
+Wangshou's Armaments
+
+Arkeo Khalimos
+rules_text:  => [+1]: Until end of turn, whenever a creature card is put into your graveyard or a creature you control dies, each opponent loses 1 life and you gain 1 life. Surveil 2.
+[-1]: Create a 1/1 black Warrior creature token with “When this creature dies, you draw a card and lose 1 life.”
+[-7]: You get an emblem with “You may cast permanent cards from your graveyard without paying their mana cost.”
+
+Yan Lei, Benevolent Emperor
+rules_text:  => As long as you control three or more creatures, Yan Lei's abilities cost an additional [+2] to activate.
+[+1]: Put a +1/+1 counter on each creature you control. Soldiers you control gain vigilance until end of turn.
+[-3]: Look at the top seven cards of your library. You may put a Soldier card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+[-10]: Creatures you control get +2/+2 and gain flying, vigilance and double strike until end of turn.
+
+Mia, Unwanted Visitor
+rules_text:  => [+1]: Draw a card, then exile a card from your hand. If an instant or sorcery card was exiled this way, create a 2/2 blue and black Weird creature token.
+[-2]: You may exile a permanent you control. If you do, exile target permanent.
+[-6]: You may cast a card you own in exile without paying its mana cost.
+
+Era, Arbiter of History
+rules_text:  => You may activate Era's abilities an additional time during your turn as long as you've cast another spell with mana value 5 or greater this turn.
+[+1]: Draw a card. You may put a land card from your hand onto the battlefield tapped.
+[-2]: You may play target artifact, creature or land card from your graveyard this turn.
+[-8]: You get an emblem with “At the beginning of your end step, mill three cards, then you may put a permanent card from your graveyard or your hand onto the battlefield.”
+
+Monument to Magnificence
+
+Monument to Heroism
+
+Monument to Ancestry
+
+Monument to Savagery
+
+Monument to Foresight
+
+Xianzhi Ponderer
+
+Soldier
+
+Frog
+
+Temple of Enlightenment
+
+Temple of Malice
+
+Temple of Mystery
+
+Temple of Triumph
+
+Temple of Malady
+
+Treasure
+
+Warrior
+
+Spirit
+
+Megi'Yharun
+
+Elemental
+
+Bird
+
+Copy
+
+Spirit 3
+
+Spirit 2
+
+Warrior 2
+
+Weird
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
