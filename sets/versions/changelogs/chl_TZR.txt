@@ -1,4 +1,57 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Rune of Awakening added.
+
+
+Xiao Hui, Truth Seer
+rules_text: At the beginning of your upkeep, scry 2.
+Whenever you cast a spell that has miracle, put a +1/+1 counter on target creature you control. That creature gains flying until end of turn. => At the beginning of your upkeep, scry 2.
+Whenever you cast a spell that has miracle, put a +1/+1 counter on target creature you control. That creature gains flying until end of turn. [i](This ability triggers even if that spell wasn't cast for its miracle cost.)[/i]
+
+Yan Ren's Divinator
+rules_text: [i]Prophecized[/i] — Whenever you cast a spell during an opponent's turn, scry 2. => [i]Prophesied[/i] — Whenever you cast a spell during an opponent's turn, scry 2.
+
+Royal Weatherwoman
+rules_text: [i]Prophecized[/i] — Whenever you cast a spell during an opponent's turn, exile target creature. Return it to the battlefield under its owner's control at the beginning of the next end step. => [i]Prophesied[/i] — Whenever you cast a spell during an opponent's turn, exile target creature. Return it to the battlefield under its owner's control at the beginning of the next end step.
+
+Xianzhi Enlister
+rules_text: [i]Prophecized[/i] — Whenever you cast a spell during an opponent's turn, create a 1/1 red and white Soldier creature token. => [i]Prophesied[/i] — Whenever you cast a spell during an opponent's turn, create a 1/1 red and white Soldier creature token.
+
+Xianzhi Summoner
+rules_text: [i]Prophecized[/i] — Whenever you cast a spell during an opponent's turn, create a 0/0 white and blue Bird creature token and put X +1/+1 counters on it, where X is that spell's mana value. => [i]Prophesied[/i] — Whenever you cast a spell during an opponent's turn, create a 0/0 white and blue Bird creature token and put X +1/+1 counters on it, where X is that spell's mana value.
+
+Seer of the Rising Sun
+rules_text: [i]Prophecized[/i] — Whenever you cast a spell during an opponent's turn, you may pay {1}. If you do, put a +1/+1 counter on up to one target creature you control. => [i]Prophesied[/i] — Whenever you cast a spell during an opponent's turn, you may pay {1}. If you do, put a +1/+1 counter on up to one target creature you control.
+
+Divine Opportunist
+rules_text: Miracle {2}{W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+[i]Prophecized[/i] — Whenever you cast a spell during an opponent's turn, tap or untap up to one target permanent. => Miracle {2}{W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+[i]Prophesied[/i] — Whenever you cast a spell during an opponent's turn, tap or untap up to one target permanent.
+
+Seer of Destiny
+rules_text: At the beginning of each opponent's upkeep, scry 1.
+[i]Prophecized[/i] — Whenever you cast a spell during an opponent's turn, you may draw a card. If you do, discard a card. => At the beginning of each opponent's upkeep, scry 1.
+[i]Prophesied[/i] — Whenever you cast a spell during an opponent's turn, you may draw a card. If you do, discard a card.
+
+Heartless Conquest
+
+Pure-Squad Brawler
+
+Hostile Reunion
+
+Prophet's Guardian
+
+Spirit
+rules_text: Flying
+At the beginning of your upkeep, you lose 3 life unless you sacrifice a creature. => Flying
+At the beginning of your upkeep, torment yourself. [i](You lose 3 life unless you sacrifice a nonland permanent or discard a card.)[/i]”
+
+Megi'Yharun
+type: Legendary Token Creature — Weird => Legendary Token Creature — Elder Weird
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.
