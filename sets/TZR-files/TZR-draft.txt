@@ -2363,7 +2363,7 @@
 		{
 			"name": "Collective Devotion",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Enchantment — Aura",
 			"collector_number": "99",
 			"image_uris": {

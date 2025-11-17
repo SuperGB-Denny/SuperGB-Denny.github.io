@@ -1,4 +1,19 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Long Jing, the Tireless
+
+Tempting Offer
+
+Long Jing's Verdict
+
+Collective Devotion
+cost: {1}{R} => {R}
+
+
+VERSION 5 CHANGELOG
 ====================
 
 
