@@ -1,4 +1,37 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Muyang, Heartless Conqueror added.
+
+Muyang, Heartless Conquerer removed.
+
+Inspiring Warlord
+rules_text: Whenever Inspiring Warlord becomes tapped, conscript. [i](Create a 1/1 red and white Soldier creature token or tap two untapped creatures you control to put a +1/+1 counter on them.)[/i] => Whenever you cast a Soldier spell, conscript. [i](Create a 1/1 red and white Soldier creature token or tap two untapped creatures you control to put a +1/+1 counter on them.)[/i]
+
+Yong Lin, Blade of Weishou
+
+Weishou, City of Light
+
+Xiao Hui's Servant
+rules_text: Ward {2}
+Whenever Xiao Hui's Servant attacks, copy the next instant or sorcery spell you cast this turn. You may choose new targets for the copy. => Ward {2}
+Whenever Xiao Hui's Servant becomes tapped, copy the next instant or sorcery spell you cast this turn. You may choose new targets for the copy.
+
+Paradox of Uncertainty
+
+Seer of Destiny
+
+Tireless Haymaker
+
+Taken by the Muyang
+
+Anger of the Winds
+type: Instant => Sorcery
+
+Monument to Foresight
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

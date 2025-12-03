@@ -1051,7 +1051,7 @@
 			}
 		},
 		{
-			"name": "Muyang, Heartless Conquerer",
+			"name": "Muyang, Heartless Conqueror",
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Creature — Human Warrior",
@@ -2264,7 +2264,7 @@
 			"name": "Anger of the Winds",
 			"rarity": "uncommon",
 			"mana_cost": "{X}{R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "96",
 			"image_uris": {
 				"en": "https://SuperGB-Denny.github.io/sets/TZR-files/img/226.png"
@@ -2723,259 +2723,769 @@
 	]
 
 [rare(1)]
-	5 Lady of Winds
-	5 Zhi-Qiang Arena
-	5 Seal of Reality
-	5 Honorable Descendant
-	5 Charming Noble
-	5 Extraordinary Rebirth
-	5 Prophet of Blood
-	5 Paradox of Mirrors
-	5 Shatter the Heavens
-	5 Shuigui Invoker
-	5 It That Watches Over Us
-	5 Royal Weatherwoman
-	5 Accursed Mystic
-	5 Festive Lights
-	5 Muyang Enslavement
-	5 Battlefield Desecrator
-	5 Paradox of Annihilation
-	5 Muyang Warmonger
-	5 Henmo Battlemage
-	5 Bloodthirsty Huntress
-	5 One With the Swamps
-	5 Jia Yi, Impartial Executioner
-	5 Brilliant Bladebearer
-	5 Zhi-Qiang Flagbearer
-	5 Hundred-Year Rage
-	5 Muyang Recruiter
-	5 Inspiring Anthem
-	5 Xianzhi Enlister
-	5 Heartless Naturalist
-	5 Guardian of the Ancestors
-	5 Awaken the Land
-	5 Paradox of Regeneration
-	5 Mistwoods Caretaker
-	5 Spiral of Creation
-	5 Laogui Taleteller
-	5 Xianzhi Summoner
-	5 Tempting Offer
-	5 Spiteful Soothsayer
-	5 Cheerful Practitioner
-	5 Jun De, the Uniter
-	5 Shield of Destiny
-	5 Paradox of Sophistication
-	5 Demonhand Ravager
-	5 Mistress of Wilds
-	5 Defy Fate
-	5 Kali of the Eternal Mirror
-	5 Penroth, Ad-Infinitum
-	5 Mia's Resolve
-	5 Yong Lin, Blade of Weishou
-	5 Laogui, Father of Spirits
-	5 Spirit-Lit Baloon
-	5 Idol of Souls
-	5 Weishou, City of Light
-	5 Yan Ren, Beautiful Hieress
-	5 Shining-Star Brawler
-	5 As Foretold
-	5 Xiao Hui's Servant
-	5 Blade of Sightless Shadows
-	5 Will of the Mirror
-	5 Zhi-Qiang Battlecaller
-	5 Warrior of the Setting Sun
-	5 Cityback Turtoise
-	5 Henmo Lightseeker
-	5 Pact of the Blade
-	5 Father of the Final Word
-	5 Muyang, Heartless Conquerer
-	5 Pure-Water Caverns
-	5 The Grand Engine
-	5 Arkeo Khalimos
-	5 Yan Lei, Benevolent Emperor
-	5 Mia, Unwanted Visitor
-	5 Era, Arbiter of History
-	5 Rune of Awakening
+	2 Lady of Winds
+	2 Zhi-Qiang Arena
+	2 Seal of Reality
+	2 Honorable Descendant
+	2 Charming Noble
+	2 Extraordinary Rebirth
+	2 Prophet of Blood
+	2 Paradox of Mirrors
+	2 Shatter the Heavens
+	2 Shuigui Invoker
+	2 It That Watches Over Us
+	2 Royal Weatherwoman
+	2 Accursed Mystic
+	2 Festive Lights
+	2 Muyang Enslavement
+	2 Battlefield Desecrator
+	2 Paradox of Annihilation
+	2 Muyang Warmonger
+	2 Henmo Battlemage
+	2 Bloodthirsty Huntress
+	2 One With the Swamps
+	2 Jia Yi, Impartial Executioner
+	2 Brilliant Bladebearer
+	2 Zhi-Qiang Flagbearer
+	2 Hundred-Year Rage
+	2 Muyang Recruiter
+	2 Inspiring Anthem
+	2 Xianzhi Enlister
+	2 Heartless Naturalist
+	2 Guardian of the Ancestors
+	2 Awaken the Land
+	2 Paradox of Regeneration
+	2 Mistwoods Caretaker
+	2 Spiral of Creation
+	2 Laogui Taleteller
+	2 Xianzhi Summoner
+	2 Tempting Offer
+	2 Spiteful Soothsayer
+	2 Cheerful Practitioner
+	2 Jun De, the Uniter
+	2 Shield of Destiny
+	2 Paradox of Sophistication
+	2 Demonhand Ravager
+	2 Mistress of Wilds
+	2 Defy Fate
+	2 Kali of the Eternal Mirror
+	2 Penroth, Ad-Infinitum
+	2 Mia's Resolve
+	2 Yong Lin, Blade of Weishou
+	1 Laogui, Father of Spirits
+	2 Spirit-Lit Baloon
+	2 Idol of Souls
+	2 Weishou, City of Light
+	1 Yan Ren, Beautiful Hieress
+	1 Shining-Star Brawler
+	1 As Foretold
+	1 Xiao Hui's Servant
+	1 Blade of Sightless Shadows
+	1 Will of the Mirror
+	1 Zhi-Qiang Battlecaller
+	1 Warrior of the Setting Sun
+	1 Cityback Turtoise
+	1 Henmo Lightseeker
+	1 Pact of the Blade
+	2 Father of the Final Word
+	1 Muyang, Heartless Conqueror
+	1 Pure-Water Caverns
+	1 The Grand Engine
+	1 Arkeo Khalimos
+	1 Yan Lei, Benevolent Emperor
+	1 Mia, Unwanted Visitor
+	1 Era, Arbiter of History
+	2 Rune of Awakening
 [uncommon(3)]
-	5 Xiao Hui, Truth Seer
-	5 Dan Xiao, Royal Tactician
-	5 Military Prowess
-	5 Bai Qiu, Call of the Past
-	5 Peer into the Future
-	5 Jin Guang, Son of Muyang
-	5 Muyang's Onslaught
-	5 Long Jing, the Tireless
-	5 Long Jing's Restless Hunt
-	5 Consult the Ancients
-	5 Total War
-	5 Inspiring Warlord
-	5 Good Fortunes
-	5 Cursed Conquest
-	5 Conspicious Trailblazer
-	5 Henmo's Wake
-	5 Mistwoods Monstrosity
-	5 Laogui's Greatness
-	5 Guardian of Shinri
-	5 Ascendant Prophet
-	5 Sorrowful Maiden
-	5 Gentle Bodyguard
-	5 Heavenly Scholar
-	5 Guo Wei, Tranquil Strategist
-	5 Divine Opportunist
-	5 Callous Stormkin
-	5 Paradox of Uncertainty
-	5 Seer of Destiny
-	5 Dashi-Gui Summoner
-	5 Scourge of Shinri
-	5 Bonded Soothsayer
-	5 Charming Opportunist
-	5 Highland Marauder
-	5 Savage Martyr
-	5 Eyes of Muyang
-	5 Paradox of Finales
-	5 Doom Blade
-	5 Weishou Purifier
-	5 Imperious Maiden
-	5 Pure-Squad Brawler
-	5 Muyang Conquerer
-	5 Corrupted Wangshou
-	5 Hostile Reunion
-	5 Mistwoods Reclaimer
-	5 Guixiong Commemorator
-	5 Alkadur, Paradox of Prosperity
-	5 Mistress of the Pond
-	5 Midnight Combatant
-	5 Prowling Dashi
-	5 Statue of Ancestry
-	5 Ancient Guardians
-	5 Paradoxical Charm
-	5 Henmo Blade
-	5 Sphere of Finality
-	5 Magician's Carriage
-	5 Paradox of Nothingness
-	5 Awakened Land
-	5 Xisigui's Altar
-	5 Deadly Reprisal
-	5 Kali's Warning
-	5 Wangshou Enforcer
-	5 Anticipated Misstep
-	5 Paint the Sky
-	5 Rite of Revival
-	5 Long Jing's Incursion
-	5 Anger of the Winds
-	5 Visit from Above
-	5 Will of the Ancients
-	5 New Year Celebrations
-	5 Monument to Magnificence
-	5 Monument to Heroism
-	5 Monument to Ancestry
-	5 Monument to Savagery
-	5 Monument to Foresight
-	5 Xianzhi Ponderer
-[common(10)]
-	5 Zhi-Qiang Sharpshooter
-	5 Wangshou Veteran
-	5 War Preparations
-	5 Alluring Recruiter
-	5 Shrine Attendant
-	5 Dashigui's Blessings
-	5 Prophet of Currents
-	5 Yan Ren's Divinator
-	5 Bai Qiu's Beckoning
-	5 Dashi of the Lake
-	5 Entranced Xianzhi
-	5 Emo-Touched Berserker
-	5 Repel the Intruders
-	5 Full-Moon Dashi
-	5 Relentless Rage
-	5 Muyang Hellhound
-	5 Henmo Tracker
-	5 Persistent Trainee
-	5 Recover the Lost
-	5 Paradox of Might
-	5 Zhi-Qiang Devotee
-	5 Xianzhi Disruptor
-	5 Seer of the Rising Sun
-	5 Weathered Strategist
-	5 Servant of the Winds
-	5 Tuanzhi Guide
-	5 Pure-Squad Leader
-	5 Friendly Skywatcher
-	5 Ancestral Messenger
-	5 Mungwon Sentinel
-	5 Revitalize
-	5 Seer's Solitude
-	5 Retaliating Slash
-	5 Xianzhi Fortune-Bringer
-	5 Graceful Spirit-Dancer
-	5 Channeler of Fate
-	5 Laogui's Chosen
-	5 Paradox of Tempests
-	5 Incorporeal Savant
-	5 Bai Qiu's Watcher
-	5 Return to Nothingness
-	5 Expected Results
-	5 Calculated Sabotage
-	5 Beguiling Spirit
-	5 Puzzling Visions
-	5 Mantle of Auguries
-	5 Zhi-Qiang Poisoner
-	5 Traitorous Xisigui
-	5 Mungwon Bloodlord
-	5 Long Jing's Servant
-	5 Bewitched General
-	5 Muyang Scavanger
-	5 Henmo Adversary
-	5 Invoker of Shadows
-	5 Paradox of Decay
-	5 Heartless Conquest
-	5 Prophecies of Doom
-	5 Long Jing's Verdict
-	5 Spirit's Whispers
-	5 Forced Tribute
-	5 Tireless Haymaker
-	5 Paradox of Pain
-	5 Guardian of Weishou
-	5 Devoted Throne-Guard
-	5 Battle Sanctifier
-	5 Cruel Campaigner
-	5 Muyang Messenger
-	5 Mungwon Poet
-	5 Abrade
-	5 Fatal Encounter
-	5 Taken by the Muyang
-	5 Glory to Zhi-Qiang
-	5 Visions of Glory
-	5 Laogui's Pilgrim
-	5 Henmo Sentinel
-	5 Paradox of Loss
-	5 Mungwon Naturalist
-	5 Disciple of Bai Qiu
-	5 Qilin of Bad Omens
-	5 Henmo Facilitator
-	5 Brutal Courier
-	5 Almighty Qingwa
-	5 Hunter's Guile
-	5 Spirit's Wake
-	5 Return to Nature
-	5 Horn of Inspiration
-	5 Prophet's Guardian
-	5 Heavenly Ox
-	5 Tithetaker's Dagger
-	5 Terramorphic Expanse
-	5 Hidden Shrine
-	5 Spirit's Company
-	5 Emperor's Forgiveness
-	5 Amalgamation
-	5 Humble Offerings
-	5 Path to Enlightenment
-	5 Ancient's Guidance
-	5 Heretic Sharpshooter
-	5 Yangui's Haunting
-	5 Collective Devotion
-	5 Wangshou's Armaments
-	5 Temple of Enlightenment
-	5 Temple of Malice
-	5 Temple of Mystery
-	5 Temple of Triumph
-	5 Temple of Malady
+	4 Xiao Hui, Truth Seer
+	4 Dan Xiao, Royal Tactician
+	4 Military Prowess
+	4 Bai Qiu, Call of the Past
+	4 Peer into the Future
+	4 Jin Guang, Son of Muyang
+	4 Muyang's Onslaught
+	4 Long Jing, the Tireless
+	4 Long Jing's Restless Hunt
+	4 Consult the Ancients
+	4 Total War
+	4 Inspiring Warlord
+	4 Good Fortunes
+	4 Cursed Conquest
+	4 Conspicious Trailblazer
+	4 Henmo's Wake
+	4 Mistwoods Monstrosity
+	4 Laogui's Greatness
+	4 Guardian of Shinri
+	4 Ascendant Prophet
+	4 Sorrowful Maiden
+	4 Gentle Bodyguard
+	4 Heavenly Scholar
+	4 Guo Wei, Tranquil Strategist
+	4 Divine Opportunist
+	4 Callous Stormkin
+	4 Paradox of Uncertainty
+	4 Seer of Destiny
+	4 Dashi-Gui Summoner
+	4 Scourge of Shinri
+	4 Bonded Soothsayer
+	4 Charming Opportunist
+	4 Highland Marauder
+	4 Savage Martyr
+	4 Eyes of Muyang
+	4 Paradox of Finales
+	4 Doom Blade
+	4 Weishou Purifier
+	4 Imperious Maiden
+	4 Pure-Squad Brawler
+	4 Muyang Conquerer
+	4 Corrupted Wangshou
+	4 Hostile Reunion
+	4 Mistwoods Reclaimer
+	4 Guixiong Commemorator
+	4 Alkadur, Paradox of Prosperity
+	4 Mistress of the Pond
+	4 Midnight Combatant
+	4 Prowling Dashi
+	4 Statue of Ancestry
+	4 Ancient Guardians
+	4 Paradoxical Charm
+	4 Henmo Blade
+	4 Sphere of Finality
+	4 Magician's Carriage
+	4 Paradox of Nothingness
+	4 Awakened Land
+	4 Xisigui's Altar
+	4 Deadly Reprisal
+	4 Kali's Warning
+	4 Wangshou Enforcer
+	4 Anticipated Misstep
+	4 Paint the Sky
+	4 Rite of Revival
+	4 Long Jing's Incursion
+	4 Anger of the Winds
+	4 Visit from Above
+	4 Will of the Ancients
+	4 New Year Celebrations
+	4 Monument to Magnificence
+	4 Monument to Heroism
+	4 Monument to Ancestry
+	4 Monument to Savagery
+	4 Monument to Foresight
+	4 Xianzhi Ponderer
+[common(7)]
+	8 Zhi-Qiang Sharpshooter
+	8 Wangshou Veteran
+	8 War Preparations
+	8 Alluring Recruiter
+	8 Shrine Attendant
+	8 Dashigui's Blessings
+	8 Prophet of Currents
+	8 Yan Ren's Divinator
+	8 Bai Qiu's Beckoning
+	8 Dashi of the Lake
+	8 Entranced Xianzhi
+	8 Emo-Touched Berserker
+	8 Repel the Intruders
+	8 Full-Moon Dashi
+	8 Relentless Rage
+	8 Muyang Hellhound
+	8 Henmo Tracker
+	8 Persistent Trainee
+	8 Recover the Lost
+	8 Paradox of Might
+	8 Zhi-Qiang Devotee
+	8 Xianzhi Disruptor
+	8 Seer of the Rising Sun
+	8 Weathered Strategist
+	8 Servant of the Winds
+	8 Tuanzhi Guide
+	8 Pure-Squad Leader
+	8 Friendly Skywatcher
+	8 Ancestral Messenger
+	8 Mungwon Sentinel
+	8 Revitalize
+	8 Seer's Solitude
+	8 Retaliating Slash
+	8 Xianzhi Fortune-Bringer
+	8 Graceful Spirit-Dancer
+	8 Channeler of Fate
+	8 Laogui's Chosen
+	8 Paradox of Tempests
+	8 Incorporeal Savant
+	8 Bai Qiu's Watcher
+	8 Return to Nothingness
+	8 Expected Results
+	8 Calculated Sabotage
+	8 Beguiling Spirit
+	8 Puzzling Visions
+	8 Mantle of Auguries
+	8 Zhi-Qiang Poisoner
+	8 Traitorous Xisigui
+	8 Mungwon Bloodlord
+	8 Long Jing's Servant
+	8 Bewitched General
+	8 Muyang Scavanger
+	8 Henmo Adversary
+	8 Invoker of Shadows
+	8 Paradox of Decay
+	8 Heartless Conquest
+	8 Prophecies of Doom
+	8 Long Jing's Verdict
+	8 Spirit's Whispers
+	8 Forced Tribute
+	8 Tireless Haymaker
+	8 Paradox of Pain
+	8 Guardian of Weishou
+	8 Devoted Throne-Guard
+	8 Battle Sanctifier
+	8 Cruel Campaigner
+	8 Muyang Messenger
+	8 Mungwon Poet
+	8 Abrade
+	8 Fatal Encounter
+	8 Taken by the Muyang
+	8 Glory to Zhi-Qiang
+	8 Visions of Glory
+	8 Laogui's Pilgrim
+	8 Henmo Sentinel
+	8 Paradox of Loss
+	8 Mungwon Naturalist
+	8 Disciple of Bai Qiu
+	8 Qilin of Bad Omens
+	8 Henmo Facilitator
+	8 Brutal Courier
+	8 Almighty Qingwa
+	8 Hunter's Guile
+	8 Spirit's Wake
+	8 Return to Nature
+	8 Horn of Inspiration
+	8 Prophet's Guardian
+	8 Heavenly Ox
+	8 Tithetaker's Dagger
+	8 Terramorphic Expanse
+	8 Hidden Shrine
+	8 Spirit's Company
+	8 Emperor's Forgiveness
+	8 Amalgamation
+	8 Humble Offerings
+	8 Path to Enlightenment
+	8 Ancient's Guidance
+	8 Heretic Sharpshooter
+	8 Yangui's Haunting
+	8 Collective Devotion
+	8 Wangshou's Armaments
+	8 Temple of Enlightenment
+	8 Temple of Malice
+	8 Temple of Mystery
+	8 Temple of Triumph
+	8 Temple of Malady
+[foil(1)]
+	6 Xiao Hui, Truth Seer
+	6 Dan Xiao, Royal Tactician
+	6 Military Prowess
+	6 Bai Qiu, Call of the Past
+	6 Peer into the Future
+	6 Jin Guang, Son of Muyang
+	6 Muyang's Onslaught
+	6 Long Jing, the Tireless
+	6 Long Jing's Restless Hunt
+	6 Consult the Ancients
+	12 Zhi-Qiang Sharpshooter
+	12 Wangshou Veteran
+	12 War Preparations
+	12 Alluring Recruiter
+	12 Shrine Attendant
+	12 Dashigui's Blessings
+	12 Prophet of Currents
+	12 Yan Ren's Divinator
+	12 Bai Qiu's Beckoning
+	12 Dashi of the Lake
+	12 Entranced Xianzhi
+	12 Emo-Touched Berserker
+	12 Repel the Intruders
+	12 Full-Moon Dashi
+	12 Relentless Rage
+	12 Muyang Hellhound
+	12 Henmo Tracker
+	12 Persistent Trainee
+	12 Recover the Lost
+	12 Paradox of Might
+	6 Total War
+	6 Inspiring Warlord
+	6 Good Fortunes
+	6 Cursed Conquest
+	6 Conspicious Trailblazer
+	6 Henmo's Wake
+	6 Mistwoods Monstrosity
+	6 Laogui's Greatness
+	6 Guardian of Shinri
+	6 Ascendant Prophet
+	2 Lady of Winds
+	2 Zhi-Qiang Arena
+	2 Seal of Reality
+	2 Honorable Descendant
+	2 Charming Noble
+	2 Extraordinary Rebirth
+	2 Prophet of Blood
+	2 Paradox of Mirrors
+	2 Shatter the Heavens
+	2 Shuigui Invoker
+	2 It That Watches Over Us
+	2 Royal Weatherwoman
+	2 Accursed Mystic
+	2 Festive Lights
+	2 Muyang Enslavement
+	2 Battlefield Desecrator
+	2 Paradox of Annihilation
+	2 Muyang Warmonger
+	2 Henmo Battlemage
+	2 Bloodthirsty Huntress
+	2 One With the Swamps
+	2 Jia Yi, Impartial Executioner
+	2 Brilliant Bladebearer
+	2 Zhi-Qiang Flagbearer
+	2 Hundred-Year Rage
+	2 Muyang Recruiter
+	2 Inspiring Anthem
+	2 Xianzhi Enlister
+	2 Heartless Naturalist
+	2 Guardian of the Ancestors
+	2 Awaken the Land
+	2 Paradox of Regeneration
+	2 Mistwoods Caretaker
+	2 Spiral of Creation
+	2 Laogui Taleteller
+	2 Xianzhi Summoner
+	2 Tempting Offer
+	2 Spiteful Soothsayer
+	2 Cheerful Practitioner
+	2 Jun De, the Uniter
+	2 Shield of Destiny
+	2 Paradox of Sophistication
+	2 Demonhand Ravager
+	2 Mistress of Wilds
+	2 Defy Fate
+	2 Kali of the Eternal Mirror
+	2 Penroth, Ad-Infinitum
+	2 Mia's Resolve
+	2 Yong Lin, Blade of Weishou
+	1 Laogui, Father of Spirits
+	2 Spirit-Lit Baloon
+	2 Idol of Souls
+	2 Weishou, City of Light
+	1 Yan Ren, Beautiful Hieress
+	1 Shining-Star Brawler
+	1 As Foretold
+	1 Xiao Hui's Servant
+	1 Blade of Sightless Shadows
+	1 Will of the Mirror
+	1 Zhi-Qiang Battlecaller
+	1 Warrior of the Setting Sun
+	1 Cityback Turtoise
+	1 Henmo Lightseeker
+	1 Pact of the Blade
+	2 Father of the Final Word
+	1 Muyang, Heartless Conqueror
+	1 Pure-Water Caverns
+	1 The Grand Engine
+	12 Zhi-Qiang Devotee
+	12 Xianzhi Disruptor
+	12 Seer of the Rising Sun
+	12 Weathered Strategist
+	12 Servant of the Winds
+	12 Tuanzhi Guide
+	12 Pure-Squad Leader
+	12 Friendly Skywatcher
+	12 Ancestral Messenger
+	12 Mungwon Sentinel
+	12 Revitalize
+	12 Seer's Solitude
+	12 Retaliating Slash
+	6 Sorrowful Maiden
+	6 Gentle Bodyguard
+	6 Heavenly Scholar
+	6 Guo Wei, Tranquil Strategist
+	6 Divine Opportunist
+	12 Xianzhi Fortune-Bringer
+	12 Graceful Spirit-Dancer
+	12 Channeler of Fate
+	12 Laogui's Chosen
+	12 Paradox of Tempests
+	12 Incorporeal Savant
+	12 Bai Qiu's Watcher
+	12 Return to Nothingness
+	12 Expected Results
+	12 Calculated Sabotage
+	12 Beguiling Spirit
+	12 Puzzling Visions
+	12 Mantle of Auguries
+	6 Callous Stormkin
+	6 Paradox of Uncertainty
+	6 Seer of Destiny
+	6 Dashi-Gui Summoner
+	6 Scourge of Shinri
+	6 Bonded Soothsayer
+	12 Zhi-Qiang Poisoner
+	12 Traitorous Xisigui
+	12 Mungwon Bloodlord
+	12 Long Jing's Servant
+	12 Bewitched General
+	12 Muyang Scavanger
+	12 Henmo Adversary
+	12 Invoker of Shadows
+	12 Paradox of Decay
+	12 Heartless Conquest
+	12 Prophecies of Doom
+	12 Long Jing's Verdict
+	12 Spirit's Whispers
+	12 Forced Tribute
+	6 Charming Opportunist
+	6 Highland Marauder
+	6 Savage Martyr
+	6 Eyes of Muyang
+	6 Paradox of Finales
+	6 Doom Blade
+	12 Tireless Haymaker
+	12 Paradox of Pain
+	12 Guardian of Weishou
+	12 Devoted Throne-Guard
+	12 Battle Sanctifier
+	12 Cruel Campaigner
+	12 Muyang Messenger
+	12 Mungwon Poet
+	12 Abrade
+	12 Fatal Encounter
+	12 Taken by the Muyang
+	12 Glory to Zhi-Qiang
+	12 Visions of Glory
+	6 Weishou Purifier
+	6 Imperious Maiden
+	6 Pure-Squad Brawler
+	6 Muyang Conquerer
+	6 Corrupted Wangshou
+	6 Hostile Reunion
+	12 Laogui's Pilgrim
+	12 Henmo Sentinel
+	12 Paradox of Loss
+	12 Mungwon Naturalist
+	12 Disciple of Bai Qiu
+	12 Qilin of Bad Omens
+	12 Henmo Facilitator
+	12 Brutal Courier
+	12 Almighty Qingwa
+	12 Hunter's Guile
+	12 Spirit's Wake
+	12 Return to Nature
+	6 Mistwoods Reclaimer
+	6 Guixiong Commemorator
+	6 Alkadur, Paradox of Prosperity
+	6 Mistress of the Pond
+	6 Midnight Combatant
+	6 Prowling Dashi
+	12 Horn of Inspiration
+	12 Prophet's Guardian
+	12 Heavenly Ox
+	12 Tithetaker's Dagger
+	12 Terramorphic Expanse
+	12 Hidden Shrine
+	6 Statue of Ancestry
+	6 Ancient Guardians
+	6 Paradoxical Charm
+	6 Henmo Blade
+	6 Sphere of Finality
+	6 Magician's Carriage
+	6 Paradox of Nothingness
+	6 Awakened Land
+	6 Xisigui's Altar
+	12 Spirit's Company
+	12 Emperor's Forgiveness
+	6 Deadly Reprisal
+	6 Kali's Warning
+	6 Wangshou Enforcer
+	6 Anticipated Misstep
+	6 Paint the Sky
+	6 Rite of Revival
+	6 Long Jing's Incursion
+	6 Anger of the Winds
+	6 Visit from Above
+	6 Will of the Ancients
+	6 New Year Celebrations
+	12 Amalgamation
+	12 Humble Offerings
+	12 Path to Enlightenment
+	12 Ancient's Guidance
+	12 Heretic Sharpshooter
+	12 Yangui's Haunting
+	12 Collective Devotion
+	12 Wangshou's Armaments
+	1 Arkeo Khalimos
+	1 Yan Lei, Benevolent Emperor
+	1 Mia, Unwanted Visitor
+	1 Era, Arbiter of History
+	6 Monument to Magnificence
+	6 Monument to Heroism
+	6 Monument to Ancestry
+	6 Monument to Savagery
+	6 Monument to Foresight
+	6 Xianzhi Ponderer
+	12 Temple of Enlightenment
+	12 Temple of Malice
+	12 Temple of Mystery
+	12 Temple of Triumph
+	12 Temple of Malady
+	2 Rune of Awakening
+[wildcard(1)]
+	15 Xiao Hui, Truth Seer
+	15 Dan Xiao, Royal Tactician
+	15 Military Prowess
+	15 Bai Qiu, Call of the Past
+	15 Peer into the Future
+	15 Jin Guang, Son of Muyang
+	15 Muyang's Onslaught
+	15 Long Jing, the Tireless
+	15 Long Jing's Restless Hunt
+	15 Consult the Ancients
+	6 Zhi-Qiang Sharpshooter
+	6 Wangshou Veteran
+	6 War Preparations
+	6 Alluring Recruiter
+	6 Shrine Attendant
+	6 Dashigui's Blessings
+	6 Prophet of Currents
+	6 Yan Ren's Divinator
+	6 Bai Qiu's Beckoning
+	6 Dashi of the Lake
+	6 Entranced Xianzhi
+	6 Emo-Touched Berserker
+	6 Repel the Intruders
+	6 Full-Moon Dashi
+	6 Relentless Rage
+	6 Muyang Hellhound
+	6 Henmo Tracker
+	6 Persistent Trainee
+	6 Recover the Lost
+	6 Paradox of Might
+	15 Total War
+	15 Inspiring Warlord
+	15 Good Fortunes
+	15 Cursed Conquest
+	15 Conspicious Trailblazer
+	15 Henmo's Wake
+	15 Mistwoods Monstrosity
+	15 Laogui's Greatness
+	15 Guardian of Shinri
+	15 Ascendant Prophet
+	7 Lady of Winds
+	7 Zhi-Qiang Arena
+	7 Seal of Reality
+	7 Honorable Descendant
+	7 Charming Noble
+	7 Extraordinary Rebirth
+	7 Prophet of Blood
+	7 Paradox of Mirrors
+	7 Shatter the Heavens
+	7 Shuigui Invoker
+	7 It That Watches Over Us
+	7 Royal Weatherwoman
+	7 Accursed Mystic
+	7 Festive Lights
+	7 Muyang Enslavement
+	7 Battlefield Desecrator
+	7 Paradox of Annihilation
+	7 Muyang Warmonger
+	7 Henmo Battlemage
+	7 Bloodthirsty Huntress
+	7 One With the Swamps
+	7 Jia Yi, Impartial Executioner
+	7 Brilliant Bladebearer
+	7 Zhi-Qiang Flagbearer
+	7 Hundred-Year Rage
+	7 Muyang Recruiter
+	7 Inspiring Anthem
+	7 Xianzhi Enlister
+	7 Heartless Naturalist
+	7 Guardian of the Ancestors
+	7 Awaken the Land
+	7 Paradox of Regeneration
+	7 Mistwoods Caretaker
+	7 Spiral of Creation
+	7 Laogui Taleteller
+	7 Xianzhi Summoner
+	7 Tempting Offer
+	7 Spiteful Soothsayer
+	7 Cheerful Practitioner
+	7 Jun De, the Uniter
+	7 Shield of Destiny
+	7 Paradox of Sophistication
+	7 Demonhand Ravager
+	7 Mistress of Wilds
+	7 Defy Fate
+	7 Kali of the Eternal Mirror
+	7 Penroth, Ad-Infinitum
+	7 Mia's Resolve
+	7 Yong Lin, Blade of Weishou
+	4 Laogui, Father of Spirits
+	7 Spirit-Lit Baloon
+	7 Idol of Souls
+	7 Weishou, City of Light
+	4 Yan Ren, Beautiful Hieress
+	4 Shining-Star Brawler
+	4 As Foretold
+	4 Xiao Hui's Servant
+	4 Blade of Sightless Shadows
+	4 Will of the Mirror
+	4 Zhi-Qiang Battlecaller
+	4 Warrior of the Setting Sun
+	4 Cityback Turtoise
+	4 Henmo Lightseeker
+	4 Pact of the Blade
+	7 Father of the Final Word
+	4 Muyang, Heartless Conqueror
+	4 Pure-Water Caverns
+	4 The Grand Engine
+	6 Zhi-Qiang Devotee
+	6 Xianzhi Disruptor
+	6 Seer of the Rising Sun
+	6 Weathered Strategist
+	6 Servant of the Winds
+	6 Tuanzhi Guide
+	6 Pure-Squad Leader
+	6 Friendly Skywatcher
+	6 Ancestral Messenger
+	6 Mungwon Sentinel
+	6 Revitalize
+	6 Seer's Solitude
+	6 Retaliating Slash
+	15 Sorrowful Maiden
+	15 Gentle Bodyguard
+	15 Heavenly Scholar
+	15 Guo Wei, Tranquil Strategist
+	15 Divine Opportunist
+	6 Xianzhi Fortune-Bringer
+	6 Graceful Spirit-Dancer
+	6 Channeler of Fate
+	6 Laogui's Chosen
+	6 Paradox of Tempests
+	6 Incorporeal Savant
+	6 Bai Qiu's Watcher
+	6 Return to Nothingness
+	6 Expected Results
+	6 Calculated Sabotage
+	6 Beguiling Spirit
+	6 Puzzling Visions
+	6 Mantle of Auguries
+	15 Callous Stormkin
+	15 Paradox of Uncertainty
+	15 Seer of Destiny
+	15 Dashi-Gui Summoner
+	15 Scourge of Shinri
+	15 Bonded Soothsayer
+	6 Zhi-Qiang Poisoner
+	6 Traitorous Xisigui
+	6 Mungwon Bloodlord
+	6 Long Jing's Servant
+	6 Bewitched General
+	6 Muyang Scavanger
+	6 Henmo Adversary
+	6 Invoker of Shadows
+	6 Paradox of Decay
+	6 Heartless Conquest
+	6 Prophecies of Doom
+	6 Long Jing's Verdict
+	6 Spirit's Whispers
+	6 Forced Tribute
+	15 Charming Opportunist
+	15 Highland Marauder
+	15 Savage Martyr
+	15 Eyes of Muyang
+	15 Paradox of Finales
+	15 Doom Blade
+	6 Tireless Haymaker
+	6 Paradox of Pain
+	6 Guardian of Weishou
+	6 Devoted Throne-Guard
+	6 Battle Sanctifier
+	6 Cruel Campaigner
+	6 Muyang Messenger
+	6 Mungwon Poet
+	6 Abrade
+	6 Fatal Encounter
+	6 Taken by the Muyang
+	6 Glory to Zhi-Qiang
+	6 Visions of Glory
+	15 Weishou Purifier
+	15 Imperious Maiden
+	15 Pure-Squad Brawler
+	15 Muyang Conquerer
+	15 Corrupted Wangshou
+	15 Hostile Reunion
+	6 Laogui's Pilgrim
+	6 Henmo Sentinel
+	6 Paradox of Loss
+	6 Mungwon Naturalist
+	6 Disciple of Bai Qiu
+	6 Qilin of Bad Omens
+	6 Henmo Facilitator
+	6 Brutal Courier
+	6 Almighty Qingwa
+	6 Hunter's Guile
+	6 Spirit's Wake
+	6 Return to Nature
+	15 Mistwoods Reclaimer
+	15 Guixiong Commemorator
+	15 Alkadur, Paradox of Prosperity
+	15 Mistress of the Pond
+	15 Midnight Combatant
+	15 Prowling Dashi
+	6 Horn of Inspiration
+	6 Prophet's Guardian
+	6 Heavenly Ox
+	6 Tithetaker's Dagger
+	6 Terramorphic Expanse
+	6 Hidden Shrine
+	15 Statue of Ancestry
+	15 Ancient Guardians
+	15 Paradoxical Charm
+	15 Henmo Blade
+	15 Sphere of Finality
+	15 Magician's Carriage
+	15 Paradox of Nothingness
+	15 Awakened Land
+	15 Xisigui's Altar
+	6 Spirit's Company
+	6 Emperor's Forgiveness
+	15 Deadly Reprisal
+	15 Kali's Warning
+	15 Wangshou Enforcer
+	15 Anticipated Misstep
+	15 Paint the Sky
+	15 Rite of Revival
+	15 Long Jing's Incursion
+	15 Anger of the Winds
+	15 Visit from Above
+	15 Will of the Ancients
+	15 New Year Celebrations
+	6 Amalgamation
+	6 Humble Offerings
+	6 Path to Enlightenment
+	6 Ancient's Guidance
+	6 Heretic Sharpshooter
+	6 Yangui's Haunting
+	6 Collective Devotion
+	6 Wangshou's Armaments
+	4 Arkeo Khalimos
+	4 Yan Lei, Benevolent Emperor
+	4 Mia, Unwanted Visitor
+	4 Era, Arbiter of History
+	15 Monument to Magnificence
+	15 Monument to Heroism
+	15 Monument to Ancestry
+	15 Monument to Savagery
+	15 Monument to Foresight
+	15 Xianzhi Ponderer
+	6 Temple of Enlightenment
+	6 Temple of Malice
+	6 Temple of Mystery
+	6 Temple of Triumph
+	6 Temple of Malady
+	7 Rune of Awakening
