@@ -1,4 +1,49 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+1/2 MV Creature added.
+3/4 MV Creature added.
+5/6 MV Creature added.
+3/4 MV Creature added.
+5/6 MV Creature added.
+Noncreature added.
+Sea of Dreams added.
+
+
+Midnight Circus
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return target creature card from your graveyard to the battlefield. Exile it when Midnight Circus leaves the battlefield.
+Torment each player. [i](They lose 3 life unless they sacrifice a nonland permanent or discard a card.)[/i]
+Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return target creature card from your graveyard to the battlefield. Exile it when Midnight Circus leaves the battlefield.
+II — Torment each player. [i](They lose 3 life unless they sacrifice a nonland permanent or discard a card.)[/i]
+III — Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return target creature card from your graveyard to the battlefield. Exile it when Midnight Circus leaves the battlefield.
+Torment each player. [i](They lose 3 life unless they sacrifice a nonland permanent or discard a card.)[/i]
+Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return target creature card from your graveyard to the battlefield. Exile it when Midnight Circus leaves the battlefield.
+II — Torment each player. [i](They lose 3 life unless they sacrifice a nonland permanent or discard a card.)[/i]
+III — Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+
+Catler
+rules_text: [i]Eerie[/i] — Whenever an enchantment you control enters and whenever you fully unlock a Room, exile the top card of your library. You may play it this turn. => [i]Eerie[/i] — Whenever an enchantment you control enters and whenever you fully unlock a Room, exile the top card of your library. You may play it this turn. This ability triggers only once each turn.
+
+Tohma, Fake Hero
+rules_text: Tohma can't block.
+Whenever Tohma deals combat damage to a player, you may return him from the battlefield to its owner's hand. If you do, create two Save tokens. [i](It's an enchantment with “{1}, Sacrifice this, put a card from your hand on the bottom of your library: Draw a card.”)[/i] => First strike
+Tohma can't block.
+Whenever Tohma deals combat damage to a player, you may return him from the battlefield to its owner's hand. If you do, create two Save tokens. [i](It's an enchantment with “{1}, Sacrifice this, put a card from your hand on the bottom of your library: Draw a card.”)[/i]
+
+Mari, Sisterly Embrace
+rules_text: As long as you control three or fewer other creatures, Mari isn't a creature.
+Other creatures you control get +1/+1 and have vigilance.
+Whenever Mari attacks, creatures you control gain indestructible until end of turn. => As long as you control three or fewer other creatures, Mari isn't a creature.
+Other creatures you control get +1/+1.
+Whenever Mari attacks, creatures you control gain indestructible until end of turn.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Goldia, Maiden of Glimpses added.
