@@ -1,4 +1,764 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Goldia, Maiden of Glimpses added.
+Noncreature added.
+Noncreature added.
+Farewell, Fairmaiden added.
+Men Fear Me added.
+Bear Cage added.
+Fateful Verdict added.
+Face the Screen added.
+Floor Wipe added.
+Minuten added.
+Tulpa added.
+Follow You Into Your Dreams added.
+Charles Eyler added.
+Chicken Frenzy! added.
+Night Prayer added.
+Wish added.
+Ib's Eternal Playdate added.
+Kitchen Mayhem added.
+Aubrey-Off added.
+Musical Chairs added.
+Kiss the Rat! added.
+Ruby Slippers Mirage added.
+It's Raining Apples! added.
+Chop Chop Chop! added.
+Widow's Scorn added.
+In Deep Red added.
+
+G, Maiden of Glimpses removed.
+
+Aya Drevis
+
+The Batter
+
+Ib
+
+Charlotte, the Puppet
+
+Sunny, Headspace Prisoner
+
+Aki, Murderous Savior
+
+Ashley Graves
+
+Elise Liedl
+
+Madotsuki, the Dreamer
+
+Porcelain
+
+Common Spectre
+
+Studying Student
+
+Red-Eyed Bunny
+
+Girl B
+
+Gossiping Housewives
+
+Trip-Trap Doll
+
+Insidious Flowerheads
+
+Snow Bunny
+
+Kagome Ghost
+
+January
+
+Malevolent Guests
+
+TV Room
+
+Overexertion
+
+Pepper Steak
+
+Goodbye, Father
+
+Memories of Guertena
+
+Silly Room
+
+Save Second Base
+
+Rosey Bluebird
+
+Wormhole
+
+Alley Demon
+
+Headless Man
+rules_text: Whenever you cast a nonenchantment, noncreature spell and whenever an enchantment enters under your control, Headless Man gets +1/+1 until end of turn. => Vigilance
+Whenever you sacrifice an enchantment, put a +1/+1 counter on Headless Man.
+
+Dorothi
+
+Ballroom Dancers
+
+Unnerving Doll
+
+Follony
+
+Plush Queen's Guard
+rules_text: Affinity for enchantments [i](This spell costs {1} less to cast for each enchantment you control.)[/i]
+Vigilance => Affinity for enchantments
+Vigilance
+
+The Lady In Blue
+
+For Goodness' Sake!
+
+You Were Wrong, Go Back
+rules_text: Counter target spell unless its controller pays {X}, where X is 2 plus the number of cards called You Were Wrong, Go Back in your graveyard. => Counter target spell unless its controller pays {X}, where X is 2 plus the number of cards named You Were Wrong, Go Back in your graveyard.
+
+Frightful Interlude
+
+Promise of Reunion
+
+Cries of the Dead
+
+Spoiler Evasion
+
+Blindness
+
+Fleebie
+rules_text: Bestow {U} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Fleebie can't be blocked.
+Enchanted creature can't be blocked. => Bestow {U}
+Fleebie can't be blocked.
+Enchanted creature can't be blocked.
+
+Riddle Room
+
+Talentless Cultist
+
+Rooftop Spirits
+
+Ghost Bunny
+
+Burnt
+
+Feasting Shadows
+
+Locker Zombie
+
+Magcat
+
+Lili
+
+Fat Spectre
+
+Famished Student
+
+Murderous Coersion
+
+Neighbor Repurposing
+
+Haunted Classroom
+
+Tragic Slip
+
+Goodnight, Aya
+
+Welcome to Red Space
+
+Tee-Hee Time
+
+Eternal Rest for God
+
+Purification in Progress
+
+Background Housecat
+
+Lady In Red
+
+Therese
+
+Crawling Half-Student
+
+Beautiful Kürbis
+
+Haunting Candle
+
+Puppet Attic-Guard
+type: Creature — Toy Soldier => Artifact Creature — Toy Soldier
+
+Purcu-Puss
+
+Godhunt Executioner
+
+Troquantary
+
+Falling Anvil
+
+Scorch
+
+Storage Room
+
+Violent Intent
+
+Into the Forest
+
+Chase Scene
+
+Relentless Teasing
+
+Mr Umbrella's Tea Time
+
+Gallery Room
+
+Sprout Mole
+
+Kleine Beere
+
+Obnoxious Shopkeeper
+
+Mutilated Student
+
+Mausan Bros
+
+Gilles de Rais
+
+Busy Farmhands
+
+Tofu Conconnasisseur
+
+Beloved Teddie
+
+Goppa
+
+Meaty Pomegranate
+
+Backbreaking Embrace
+
+Little Teddy Wants To Play
+
+Senseless Bickering
+
+Willkommen
+rules_text: Escalate—Sacrifice an artifact. [i](Pay this cost for each mode chosen beyond the first.)[/i]
+Choose one or more —
+• [i]Pretzel — [/i]Create a Food token.
+• [i]Grape Juice — [/i]Shuffle up to two cards from your graveyard into your library.
+• [i]St. Walpurga Oil [/i]— Destroy target artifact or enchantment. => Escalate—Sacrifice an artifact.
+Choose one or more —
+• [i]Pretzel — [/i]Create a Food token.
+• [i]Grape Juice — [/i]Shuffle up to two cards from your graveyard into your library.
+• [i]St. Walpurga Oil [/i]— Destroy target artifact or enchantment.
+
+Shitai-San
+rules_text: Bestow {2}{G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Vigilance
+Enchanted creature gets +2/+1 and has vigilance. => Bestow {2}{G}
+Vigilance
+Enchanted creature gets +2/+1 and has vigilance.
+
+Marsha
+
+Lying Flowers
+
+Immediate Forfeiture
+
+Fly Swatter
+
+Mari's Picnic Box
+
+Tofu
+
+Space Bunny
+
+Headless Maid
+
+The Judge
+
+Maria, Loyal Assistant
+
+Tiburce
+
+Lucius
+
+Speared Doll
+
+Weeping Maiden
+
+Ib All Alone
+
+Glass Casket
+
+Light World
+
+Miss Library
+
+Haunting Guest
+
+Garry, the Hanged Man
+
+Murderous Guardian
+
+Tasei's Kid
+rules_text: Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Whenever a creature you control attacks alone, up to one target creature loses all abilities and has power and toughness 1/1 until end of turn. => Exalted
+Whenever a creature you control attacks alone, up to one target creature loses all abilities and has power and toughness 1/1 until end of turn.
+
+Merci
+
+Fish Bunny
+
+Star-Crossed
+
+The Meaning Of His Tears
+rules_text: Affinity for enchantments [i](This spell costs {1} less to cast for each enchantment you control.)[/i]
+Counter target spell unless its controller pays {4}. => Affinity for enchantments
+Counter target spell unless its controller pays {4}.
+
+Faithless
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Faithless gains “Creatures get -2/-0.” [i](This effect lasts indefinitely.)[/i]
+II — Draw three cards, then discard a card and put a card from your hand on the bottom of your library.
+III — Until end of turn, you may cast a copy of target instant or sorcery card in your graveyard by sacrificing an enchantment in addition to its other cost.
+
+Main Ending Divergence
+
+Gingerdead Man
+
+Q84, Unwilling Protagonist
+
+Unlucky Lady
+
+The Unbread Twins
+
+Von Gacy
+
+Music-Room Ghost
+
+Reverse Mermaid
+
+Overcome Fear
+
+Midnight Circus
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return target creature card from your graveyard to the battlefield. Exile it when Midnight Circus leaves the battlefield.
+Torment each player. [i](They lose 3 life unless they sacrifice a nonland permanent or discard a card.)[/i]
+Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+
+Apostasy
+
+Execution Hour
+
+Catler
+
+Tohma, Fake Hero
+
+Mischievous Bunch
+
+Foreboding Doll
+cost: {3}{R}{R} => {2}{R}{R}
+rules_text: Impending 3—{2}{R} [i](If you cast this spell for its impending cost, it enters with three time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]
+When Foreboding Doll enters, it deals 4 damage to target creature or planeswalker. => Impending 3—{2}{R}{R}
+Whenever a counter is removed from Foreboding Doll, create a Save token. [i](It's an enchantment with “{1}, Sacrifice this, put a card from your hand on the bottom of your library: Draw a card.”)[/i]
+
+Fleta, Lilliputian Princess
+rules_text: Affinity for Toys [i](This spell costs {1} less to cast for each Toy you control.)[/i]
+When Fleta enters, gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn. => Affinity for Toys
+When Fleta enters, gain control of target artifact or creature. Untap it. It gains haste until end of turn. Return it to its owner's control at the beginning of your end step unless it's a Toy.
+
+Felix, Curios Prodigy
+
+Valzong-Burnt
+
+Kel Nuke
+
+World's End Valentine
+
+Forgotten Portrait
+rules_text: Target player may have Forgotten Portrait deal 4 damage to them. If they don't, draw two cards.
+Load {2}{R} [i](You may cast this from your graveyard for its load cost by sacrificing a nonland, noncreature permanent in addition to its other costs. Exile it if it would be put into a graveyard.)[/i] => Target player may have Forgotten Portrait deal 4 damage to them. If they don't, draw three cards.
+Load {2}{R} [i](You may cast this from your graveyard for its load cost by sacrificing a nonland, noncreature permanent in addition to its other costs. Exile it if it would be put into a graveyard.)[/i]
+
+Embellishment
+
+Gentle Flower-Maiden
+
+The Fool
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 red Human creature token and a 1/1 white Toy artifact creature token.
+II — Add {G}. When this mana is spent to cast a creature spell, it enters with your choice of haste or an additional +1/+1 counter on it.
+III — Choose target creature you control. If damage would be dealt to that creature this turn, it's dealt to another creature you control instead.
+
+Muffy, Hungry Eavesdrop
+
+The Last Pythia
+
+Candy-Filled Pumpkins
+
+Ye Old Sprout
+
+Student Amalgamate
+
+Kyuukyuu-Kun
+
+Forest World
+
+Together Forever
+
+Bready Steady Go!
+
+Goodbye, Mother
+rules_text: If an opponent controls more creatures than you, create a 1/1 white Spirit creature token. 
+If an opponent has more life than you, you gain 4 life. 
+If an opponent has more cards in hand than you, draw a card.
+Load {2}{W} [i](You may cast this from your graveyard for its load cost by sacrificing a nonland, noncreature permanent in addition to its other costs. Exile it if it would be put into a graveyard.)[/i] => If an opponent controls more creatures than you, create a 1/1 white Spirit creature token. 
+If an opponent has more life than you, you gain 4 life. 
+If an opponent has more cards in hand than you, draw a card.
+Load {1}{W} [i](You may cast this from your graveyard for its load cost by sacrificing a nonland, noncreature permanent in addition to its other costs. Exile it if it would be put into a graveyard.)[/i]
+
+Snow World
+
+Happy End
+
+Rosen Glöckchen
+
+Haarbürste des Mondes
+
+Schnee Schere
+
+Messer und Gabel
+
+Aya's Chainsaw
+cost: {2} => {1}
+rules_text: Equipped creature gets +2/+1.
+{1}{G}, Sacrifice Aya's Chainsaw: Destroy target artifact.
+Equip {2} => When Aya's Chainsaw enters, you may pay {G}. When you do, destroy target artifact.
+Equipped creature gets +2/+1.
+Equip {2}
+
+Eyeless Angels
+
+Fish Fountain
+
+Träumende Mädchen
+
+Snow Angel
+
+Regret
+
+Saotome, the Betrayed
+
+Hero, Talented Cook
+
+Goodbye, Aya
+
+Robin, Guardian Spirit
+
+Rozenmarine, Selenic Wanderer
+
+Acrophobia
+
+Snow White
+
+Fevered Visions
+
+Whale Whale Whale
+
+Monika Drevis
+
+Squizzard
+
+Thalassophobia
+
+SOMETHING
+
+Elise's Sacrifice
+rules_text: Forecast — {1}{B}, Reveal this card from your hand: Put a +1/+1 counter on target creature. [i](Activate only during your upkeep and only once each turn.)[/i]
+As an additional cost to cast this spell, sacrifice a creature.
+You draw cards equal to the sacrificed creature's power. If it was legendary, create two Treasure tokens. => Forecast — {1}{B}, Reveal this card from your hand: Put a +1/+1 counter on target creature.
+As an additional cost to cast this spell, sacrifice a creature.
+You draw cards equal to the sacrificed creature's power. If it was legendary, create two Treasure tokens.
+
+Awakening
+
+Shark Plane
+
+Sucre
+cost: {4}{B}{B} => {3}{B}{B}
+
+Porter Specter
+
+A Painting's Demise
+
+Letzte Prinzessin
+
+Sir Maximus
+
+Alfred, Mad Father
+
+Kel, Energetic Baller
+
+Dedan, Cruel Ruler
+
+Blasphemous Carcass
+
+Renee Graves
+
+Freya, Evergreen Sweetheart
+
+Arachnophobia
+
+Rare Bear
+
+Grape Jewel
+
+Toriningen
+
+Proud Father
+
+Chimerical Presence
+
+Lisette, Maiden of Horrors
+
+Liar's Room
+
+Charlotte, Infested
+
+Enjel, Cherubina of Shed Wings
+
+OMORI
+
+Frei, Weakened God
+rules_text: Bestow {2}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Enchanted creature gets +2/-1
+Whenever Frei or enchanted creature deals combat damage to a player, you lose 1 life and draw a card. Then if enchanted creature is named Charlotte, Infested, exile Frei and that creature, then meld them into Charlotte, the Oracle => Bestow {2}{B}
+Enchanted creature gets +2/-1
+Whenever Frei or enchanted creature deals combat damage to a player, you lose 1 life and draw a card. Then if enchanted creature is named Charlotte, Infested, exile Frei and that creature, then meld them into Charlotte, the Oracle
+
+Japhet, Glorious Parasite
+rules_text: Flying, haste
+When this creature enters or mutates, you may discard your hand. If you do, draw two cards.
+You may cast this card from your graveyard for its mutate cost. => Mutate {3}{R}{R}
+Flying, haste
+When this creature enters or mutates, you may discard your hand. If you do, draw two cards.
+You may cast this card from your graveyard for its mutate cost.
+special_text: Mutate {3}{R}{R} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+Flying, haste
+When this creature enters or mutates, you may discard your hand. If you do, draw two cards.
+You may cast this card from your graveyard for its mutate cost. => Mutate {3}{R}{R}
+Flying, haste
+When this creature enters or mutates, you may discard your hand. If you do, draw two cards.
+You may cast this card from your graveyard for its mutate cost.
+
+Kürbis Märchen
+
+The Pocket Mirror
+
+Egliette, Puppe Regina
+
+It Means Everything
+
+Sweetheart, Beloved Torturer
+
+The Tender Flesh
+cost: {3} => {2}
+
+The Sweetest Nectar
+rules_text: You may cast this spell only if you lost 3 or more life this turn.
+When The Sweetest Nectar enters and at the beginning of your upkeep, if you don't control a Reflection token, create a 0/0 blue Reflection enchantment creature token with “This creature gets +1/+1 for each enchantment you control.”
+{1}, {T}, Sacrifice this, discard a card: Draw a card. => You may cast this spell only if you lost 3 or more life this turn.
+Whenever you torment a player, create a 0/0 blue Reflection enchantment creature token with “This creature gets +1/+1 for each enchantment you control.”
+{1}, {T}, Sacrifice this, discard a card: Draw a card.
+
+The Good Company
+rules_text: You may cast this spell only if you control a creature with four or more counters on it.
+At the beginning of combat on your turn, target creature you control gains trample and “Whenever this creature deals combat damage to a player, draw that many cards” until end of turn.
+{T}, Sacrifice this: Add one mana of any color. => You may cast this spell only if you control a creature with four or more counters on it.
+At the beginning of combat on your turn, creatures you control get +X/+X until end of turn, where X is the greatest power among creatures you control.
+{T}, Sacrifice this: Add one mana of any color.
+
+Zacharie, Cheerful Merchant
+
+Mary, Lonesome Girl
+
+Lebkuchen, Sugary Devotee
+
+Harpae, Maiden of Pristine Eyes
+
+Das Ende
+
+Mari, Sisterly Embrace
+
+Scarlett Eyler
+
+Elise's Wish
+
+Mother's Power
+
+Yuri
+
+Andrew Graves
+
+Platinum
+
+Ruby Red Shoes
+
+Vader Eloha
+rules_text: When Vader Eloha enters or attacks, torment defending player. [i](They lose 3 life unless they sacrifice a nonland permanent or discard a card.)[/i]
+Whenever an opponent discards a card or sacrifices a creature, exile it. Until the end of your next turn, you may play that card and may spend mana of any color to cast it. => When Vader Eloha enters or attacks, torment defending player. [i](They lose 3 life unless they sacrifice a nonland permanent or discard a card.)[/i]
+Whenever an opponent discards a card or sacrifices a nonland permanent, exile it. Until the end of your next turn, you may play that card and may spend mana of any color to cast it.
+
+Perfectheart
+
+Witching Hour
+
+Milly, Hungry Eavesdrop
+
+Mandy, Hungry Eavesdrop
+
+Miffy, Hungry Eavesdrop
+
+Merry, Hungry Eavesdrop
+
+Mubby, Hungry Eavesdrop
+
+HIM
+
+Golden Maiden
+
+Forgetfulness
+
+Mary's Toybox
+
+Aya's Room
+
+Zone 0
+
+Huxley's Lab
+
+Lively Playground
+
+Secret Manor
+
+Distorted Entrance
+
+Rotting Apartment
+
+Elise's House
+
+Dream Hub
+
+Bird
+
+Spontaneous Combustion
+
+Teehee~
+rules_text: Choose one —
+• Each opponent sacrifices two creatures.
+• Each opponent discards two cards.
+Entwine—Sacrifice two creatures or discard two cards. [i](Choose both if you pay the entwine cost.)[/i] => Choose one —
+• Each opponent sacrifices two creatures.
+• Each opponent discards two cards.
+Entwine—Sacrifice two creatures or discard two cards.
+
+World of Guertena
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.[/i]
+Whenever you cast your first spell each turn, create a 0/0 white Painting creature token and put a +1/+1 counter on it for each of that spell's colors.
+{R}{B} [i]Bitter Fruit[/i]
+Whenever you attack, you may sacrifice an attacking creature. When you do, it deals damage equal to its power to defending player.
+{U}{W} [i]Selfless Guard[/i]
+Whenever you attack, target attacking creature gains flying and indestructible until end of turn.
+
+Bells of Dawn
+
+Save
+
+Henri die Heilige
+
+Goldenertraum
+rules_text: Goldenertraum is all colors.
+Look at the top four cards of your library. You may put up to two cards from among them into your hand. Put the rest on the bottom of your library in any order. If {W}{U}{B}{R}{G} was spent to cast this spell, draw four cards instead. => Goldenertraum is all colors.
+Look at the top five cards of your library. You may put up to two cards from among them into your hand. Put the rest on the bottom of your library in any order. If {W}{U}{B}{R}{G} was spent to cast this spell, draw five cards instead.
+
+Kieferberg Village
+
+Rozen Garten
+
+Sketchbook World
+
+Bleak Infirmary
+
+Bloodied Laboratory
+
+Fancy Street
+
+Sunny Rooftop
+
+Madotsuki's Room
+
+Creepy Bathroom
+
+Underwater Lab
+
+Liminal Space
+
+Sweetheart's Mixtape
+
+Space Ex-Husband
+
+HAPPY
+
+SAD
+
+ANGRY
+
+Welcome to White Society
+
+Oyasumi
+
+Don't Need No Man
+
+Romantic Crepuscule
+
+Everblooming Coronation
+
+Big Strong Tree
+
+Girl's Midnight Secret
+rules_text: Hideaway 4 [i](When this enchantment enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)[/i]
+Sacrifice three other enchantments: You may play the exiled card without paying its mana cost. If you do, return Girl's Midnight Secret to its owner's hand. => Hideaway 4
+Sacrifice three other enchantments: You may play the exiled card without paying its mana cost. If you do, return Girl's Midnight Secret to its owner's hand.
+
+Dim Dream
+
+The Royal Gallery
+
+Aubrey, Hard-Headed
+
+HAPPY END_2
+
+Final Duet
+
+Wild and Wandering Thistle
+
+Underwater Prom Queens
+cost: {R}{G}{W} => {G}{U}{R}
+
+Tag
+
+Enoch, the Glutton
+
+Misao, the Vengeful
+
+Kite Kid
+
+Depressed!
+
+Poniko
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
