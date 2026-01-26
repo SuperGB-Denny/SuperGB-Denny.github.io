@@ -1,4 +1,518 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Sunny, the Dreamer added.
+ROBOHEART added.
+Harpae's Cardigan added.
+Guertena's Love added.
+Fleta's Outburst added.
+Faithless Leap added.
+Lost in the Gallery added.
+Snowball added.
+Lab Rat added.
+Space Apes added.
+MARI IS HOME added.
+Stranger added.
+Nanci added.
+Looming Elevator added.
+The Golden Crow added.
+The Golden Serpent added.
+Food added.
+Toy added.
+Spirit added.
+Demon added.
+Plant added.
+Horror added.
+Citizen added.
+Reflection added.
+Sir Maximus II added.
+Sir Maximus III added.
+Saint Walpurga's Oil added.
+Lisette added.
+Bird added.
+Reflection added.
+
+Sunny, Headspace Prisoner removed.
+1/2 MV Creature removed.
+3/4 MV Creature removed.
+5/6 MV Creature removed.
+Noncreature removed.
+Noncreature removed.
+3/4 MV Creature removed.
+5/6 MV Creature removed.
+Noncreature removed.
+Ruby Slippers Mirage removed.
+
+Elise Liedl
+rules_text: Haste
+When Elise enters, create a Food token.
+At the beginning of your upkeep, sacrifice Elise unless you sacrifice an artifact. => Haste
+When Elise enters, create a Food token.
+At the beginning of your upkeep, sacrifice Elise unless an artifact entered under your control this turn.
+
+Headless Man
+rules_text: Vigilance
+Whenever you sacrifice an enchantment, put a +1/+1 counter on Headless Man. => Vigilance
+Whenever you sacrifice an enchantment, put a +1/+1 counter on target creature.
+
+Plush Queen's Guard
+rules_text: Affinity for enchantments
+Vigilance => Affinity for enchantments [i](This spell costs {1} less to cast for each enchantment you control.)[/i]
+Vigilance
+
+Blindness
+
+Fleebie
+rules_text: Bestow {U}
+Fleebie can't be blocked.
+Enchanted creature can't be blocked. => Bestow {U} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Fleebie can't be blocked.
+Enchanted creature can't be blocked.
+
+The Meaning Of His Tears
+rules_text: Affinity for enchantments
+Counter target spell unless its controller pays {4}. => Affinity for enchantments [i](This spell costs {1} less to cast for each enchantment you control.)[/i]
+Counter target spell unless its controller pays {4}.
+
+Midnight Circus
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return target creature card from your graveyard to the battlefield. Exile it when Midnight Circus leaves the battlefield.
+II — Torment each player. [i](They lose 3 life unless they sacrifice a nonland permanent or discard a card.)[/i]
+III — Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return target creature card from your graveyard to the battlefield. Exile it when Midnight Circus leaves the battlefield.
+Torment each player. [i](They lose 3 life unless they sacrifice a nonland permanent or discard a card.)[/i]
+Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return target creature card from your graveyard to the battlefield. Exile it when Midnight Circus leaves the battlefield.
+II — Torment each player. [i](They lose 3 life unless they sacrifice a nonland permanent or discard a card.)[/i]
+III — Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return target creature card from your graveyard to the battlefield. Exile it when Midnight Circus leaves the battlefield.
+Torment each player. [i](They lose 3 life unless they sacrifice a nonland permanent or discard a card.)[/i]
+Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+
+Goodbye, Mother
+rules_text: If an opponent controls more creatures than you, create a 1/1 white Spirit creature token. 
+If an opponent has more life than you, you gain 4 life. 
+If an opponent has more cards in hand than you, draw a card.
+Load {1}{W} [i](You may cast this from your graveyard for its load cost by sacrificing a nonland, noncreature permanent in addition to its other costs. Exile it if it would be put into a graveyard.)[/i] => If an opponent controls more creatures than you, create a 1/1 black Spirit creature token. 
+If an opponent has more life than you, you gain 4 life. 
+If an opponent has more cards in hand than you, draw a card.
+Load {1}{W} [i](You may cast this from your graveyard for its load cost by sacrificing a nonland, noncreature permanent in addition to its other costs. Exile it if it would be put into a graveyard.)[/i]
+
+Rosen Glöckchen
+
+Haarbürste des Mondes
+
+Schnee Schere
+
+Messer und Gabel
+
+Aya's Chainsaw
+
+Eyeless Angels
+rules_text: Whenever you cast a noncreature spell or an enchantment you control enters, put a +1/+1 counter on Eyeless Angels.
+{4}: Eyeless Angels becomes a 0/0 white Angel creature with flying in addition to its other types. => Whenever you cast a noncreature spell or an enchantment you control enters, put a +1/+1 counter on Eyeless Angels.
+{3}: Eyeless Angels becomes a 0/0 white Angel creature with flying in addition to its other types.
+
+Fish Fountain
+
+Träumende Mädchen
+
+Snow Angel
+
+Regret
+
+Saotome, the Betrayed
+
+Hero, Talented Cook
+
+Goodbye, Aya
+
+Robin, Guardian Spirit
+
+Rozenmarine, Selenic Wanderer
+
+Acrophobia
+
+Snow White
+
+Fevered Visions
+
+Whale Whale Whale
+
+Monika Drevis
+
+Squizzard
+rules_text: Flying
+When Squizzard enters, each player mills five cards. Then you create a 1/1 blue Tentacle creature token for each five cards in your graveyard.
+Jumpscare {3}{U} [i](You may cast this spell from your graveyard for its jumpscare cost. If you do, exile it when it enters or if it would leave the battlefield.)[/i] => Flying
+When Squizzard enters, each player mills five cards. Then you create a 1/1 black Horror creature token for each five cards in your graveyard.
+Jumpscare {3}{U} [i](You may cast this spell from your graveyard for its jumpscare cost. If you do, exile it when it enters or if it would leave the battlefield.)[/i]
+
+Thalassophobia
+
+SOMETHING
+
+Elise's Sacrifice
+
+Awakening
+
+Shark Plane
+
+Sucre
+
+Porter Specter
+
+A Painting's Demise
+
+Letzte Prinzessin
+
+Sir Maximus
+rules_text: Haste
+When Sir Maximus dies, create a Sir Maximus II, a legendary 3/3 red Plant Knight creature token with menace and “When this creature dies, create Sir Maximus III, a legendary 5/5 red Plant Knight creature token with trample.” => Haste
+When Sir Maximus dies, create Sir Maximus II, a legendary 3/3 red Plant Knight creature token with menace and “When this creature dies, create Sir Maximus III, a legendary 5/5 red Plant Knight creature token with trample.”
+
+Alfred, Mad Father
+
+Kel, Energetic Baller
+
+Dedan, Cruel Ruler
+
+Blasphemous Carcass
+
+Renee Graves
+
+Freya, Evergreen Sweetheart
+
+Arachnophobia
+
+Rare Bear
+
+Grape Jewel
+
+Toriningen
+
+Proud Father
+
+Chimerical Presence
+type: Enchantment => Kindred Enchantment — Nightmare
+
+Lisette, Maiden of Horrors
+
+Liar's Room
+
+Charlotte, Infested
+
+Enjel, Cherubina of Shed Wings
+
+OMORI
+
+Frei, Weakened God
+
+Japhet, Glorious Parasite
+
+Kürbis Märchen
+
+The Pocket Mirror
+
+Egliette, Puppe Regina
+
+It Means Everything
+
+Sweetheart, Beloved Torturer
+
+The Tender Flesh
+rules_text: You may cast this spell only if you sacrificed two or more Foods this turn.
+If you would create one or more Food tokens, create that many additional 1/1 black Bird creature tokens with flying and “This creature can't be blocked.”
+{2}, {T}, Sacrifice this: You gain 3 life. => You may cast this spell only if you sacrificed two or more Foods this turn.
+If you would create one or more Food tokens, create that many additional 1/1 black Bird creature tokens with flying and “This creature can't block.”
+{2}, {T}, Sacrifice this: You gain 3 life.
+
+The Sweetest Nectar
+
+The Good Company
+
+Zacharie, Cheerful Merchant
+
+Mary, Lonesome Girl
+
+Lebkuchen, Sugary Devotee
+rules_text: As long as Lebkuchen is tapped, your opponents can't cast spells during your turn.
+You may exert Lebkuchen as she attacks. When you do, create a 1/1 white Citizen creature token, then put a +1/+1 counter on each creature you control that entered this turn. [i](An exerted creature won't untap during your next untap step.)[/i] => As long as Lebkuchen is tapped, your opponents can't cast spells during your turn.
+You may exert Lebkuchen as she attacks. When you do, create a 1/1 green Citizen creature token, then put a +1/+1 counter on each creature you control that entered this turn. [i](An exerted creature won't untap during your next untap step.)[/i]
+
+Harpae, Maiden of Pristine Eyes
+
+Das Ende
+
+Mari, Sisterly Embrace
+
+Scarlett Eyler
+
+Elise's Wish
+
+Mother's Power
+
+Yuri
+
+Andrew Graves
+
+Platinum
+
+Ruby Red Shoes
+
+Vader Eloha
+
+Perfectheart
+
+Witching Hour
+
+Milly, Hungry Eavesdrop
+
+Mandy, Hungry Eavesdrop
+
+Miffy, Hungry Eavesdrop
+
+Merry, Hungry Eavesdrop
+
+Mubby, Hungry Eavesdrop
+
+HIM
+
+Golden Maiden
+
+Forgetfulness
+
+Mary's Toybox
+
+Aya's Room
+
+Zone 0
+
+Huxley's Lab
+
+Lively Playground
+
+Secret Manor
+
+Distorted Entrance
+
+Rotting Apartment
+
+Elise's House
+
+Dream Hub
+
+Bird
+
+Spontaneous Combustion
+
+Teehee~
+
+World of Guertena
+
+Bells of Dawn
+
+Save
+
+Henri die Heilige
+rules_text: Ward {2}
+When Henri die Heilige enters or attacks, each player mills two cards. If a player milled two cards that share a card type, repeat this process.
+If you would draw a card while your library has no cards in it, create three 1/1 white Spirit creature tokens named Golden Maiden instead. => Ward {2}
+When Henri die Heilige enters or attacks, each player mills two cards. If a player milled two cards that share a card type, repeat this process.
+If you would draw a card while your library has no cards in it, create five 1/1 white Spirit creature tokens named Golden Maiden instead.
+
+Goldenertraum
+
+Kieferberg Village
+
+Rozen Garten
+
+Sketchbook World
+
+Bleak Infirmary
+
+Bloodied Laboratory
+
+Fancy Street
+
+Sunny Rooftop
+
+Madotsuki's Room
+
+Creepy Bathroom
+
+Underwater Lab
+
+Liminal Space
+
+Sweetheart's Mixtape
+
+Space Ex-Husband
+
+HAPPY
+
+SAD
+
+ANGRY
+
+Welcome to White Society
+
+Oyasumi
+
+Don't Need No Man
+
+Romantic Crepuscule
+
+Everblooming Coronation
+
+Big Strong Tree
+
+Girl's Midnight Secret
+
+Dim Dream
+
+The Royal Gallery
+
+Aubrey, Hard-Headed
+
+HAPPY END_2
+
+Final Duet
+
+Wild and Wandering Thistle
+
+Underwater Prom Queens
+
+Tag
+
+Enoch, the Glutton
+
+Misao, the Vengeful
+
+Kite Kid
+
+Depressed!
+
+Poniko
+
+Farewell, Fairmaiden
+
+Men Fear Me
+
+Bear Cage
+rules_text: {T}: Add {G}. Activate only if you control a token.
+{9}{G}{G}{G}, {T}, Sacrifice Bear Cage: Create ten 2/2 green Bear creature tokens. Activate only as a sorcery. => Whenever a token you control enters, surveil 1.
+{7}{G}{G}{G}, {T}, Sacrifice Bear Cage: Create ten 2/2 green Bear creature tokens. Activate only as a sorcery.
+
+Fateful Verdict
+
+Face the Screen
+
+Floor Wipe
+rules_text: Exile target creature and each creature its controller controls with the same name. Search that player's graveyard, hand, and library for all cards with the same name as that creature and exile them. That player shuffles, then draws a card for each card exiled from their hand this way. If a token was destroyed this way, draw a card. => Exile target creature and each creature its controller controls with the same name. Search that player's graveyard, hand, and library for all cards with the same name as that creature and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.
+
+Minuten
+
+Tulpa
+rules_text: Enchant creature
+As an additional cost to cast this spell, exile a creature card with mana value 3 or less from your graveyard.
+At the beginning of combat on your turn, if enchanted creature is tapped, create a token that's a copy of the creature exiled with Tulpa. It gains haste. Sacrifice it when enchanted creature becomes untapped. => Enchant creature you control
+When Tulpa enters, exile target creature card with mana value 3 or less from your graveyard.
+At the beginning of combat on your turn, if enchanted creature is tapped, if you don't control a token of a creature exiled with Tulpa, create a token that's a copy of a creature exiled with Tulpa. It gains haste. Sacrifice it when enchanted creature becomes untapped.
+
+Follow You Into Your Dreams
+
+Charles Eyler
+
+Chicken Frenzy!
+
+Night Prayer
+
+Wish
+
+Ib's Eternal Playdate
+
+Kitchen Mayhem
+
+Aubrey-Off
+
+Musical Chairs
+
+Kiss the Rat!
+rules_text: Gain the next level as a sorcery to add its ability.
+Objective — Attack with creatures. [i](At the beginning of your end step, trigger an ability according to the number of creatures you've attacked with this turn.)[/i]
+[b]F Grade[/b] 1 or less
+You gain 1 life and scry 1.
+[b]B Grade[/b] 2 or more
+Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+[b]S Grade[/b] 4 or more
+Return target creature card with mana value 3 or less from your graveyard to the battlefield. => Gain the next level as a sorcery to add its ability.
+Objective — Attack with creatures. [i](At the beginning of your end step, trigger an ability according to the number of creatures you've attacked with this turn.)[/i]
+[b]F Grade[/b] 1 or less
+You gain 1 life and scry 1.
+[b]B Grade[/b] 2 or more
+Return target creature card with mana value 3 or less from your graveyard to your hand.
+[b]S Grade[/b] 4 or more
+Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+special_text: Gain the next level as a sorcery to add its ability.
+Objective — Attack with creatures. [i](At the beginning of your end step, trigger an ability according to the number of creatures you've attacked with this turn.)[/i]
+[b]F Grade[/b] 1 or less
+You gain 1 life and scry 1.
+[b]B Grade[/b] 2 or more
+Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+[b]S Grade[/b] 4 or more
+Return target creature card with mana value 3 or less from your graveyard to the battlefield. => Gain the next level as a sorcery to add its ability.
+Objective — Attack with creatures. [i](At the beginning of your end step, trigger an ability according to the number of creatures you've attacked with this turn.)[/i]
+[b]F Grade[/b] 1 or less
+You gain 1 life and scry 1.
+[b]B Grade[/b] 2 or more
+Return target creature card with mana value 3 or less from your graveyard to your hand.
+[b]S Grade[/b] 4 or more
+Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+
+It's Raining Apples!
+
+Chop Chop Chop!
+rules_text: Gain the next level as a sorcery to add its ability.
+Objective — Mill cards. [i](At the beginning of your end step, trigger an ability according to the number of cards you've milled this turn.)[/i]
+[b]F Grade[/b] 4 or less
+Scry 1.
+[b]B Grade[/b] 7 or less
+Exile target instant or sorcery card with mana value 3 or less from your graveyard. You may play it until the end of your next turn.
+[b]S Grade[/b] 10 or more
+Exile target instant or sorcery card from your graveyard. You may cast it without paying its mana cost. => Gain the next level as a sorcery to add its ability.
+Objective — Mill cards. [i](At the beginning of your end step, trigger an ability according to the number of cards you've milled this turn.)[/i]
+[b]F Grade[/b] 4 or less
+Scry 1.
+[b]B Grade[/b] 7 or less
+Exile target instant or sorcery card with mana value 3 or less from your graveyard. You may play it until the end of your next turn.
+[b]S Grade[/b] 14 or more
+Exile target instant or sorcery card from your graveyard. You may cast it without paying its mana cost.
+special_text: Gain the next level as a sorcery to add its ability.
+Objective — Mill cards. [i](At the beginning of your end step, trigger an ability according to the number of cards you've milled this turn.)[/i]
+[b]F Grade[/b] 4 or less
+Scry 1.
+[b]B Grade[/b] 7 or less
+Exile target instant or sorcery card with mana value 3 or less from your graveyard. You may play it until the end of your next turn.
+[b]S Grade[/b] 10 or more
+Exile target instant or sorcery card from your graveyard. You may cast it without paying its mana cost. => Gain the next level as a sorcery to add its ability.
+Objective — Mill cards. [i](At the beginning of your end step, trigger an ability according to the number of cards you've milled this turn.)[/i]
+[b]F Grade[/b] 4 or less
+Scry 1.
+[b]B Grade[/b] 7 or less
+Exile target instant or sorcery card with mana value 3 or less from your graveyard. You may play it until the end of your next turn.
+[b]S Grade[/b] 14 or more
+Exile target instant or sorcery card from your graveyard. You may cast it without paying its mana cost.
+
+Widow's Scorn
+
+In Deep Red
+
+Sea of Dreams
+
+
+VERSION 3 CHANGELOG
 ====================
 
 1/2 MV Creature added.
