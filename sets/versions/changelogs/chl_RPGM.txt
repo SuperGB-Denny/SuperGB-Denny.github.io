@@ -1,4 +1,327 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Goodbye, Father
+rules_text: Exile target nonland permanent you control. Return it to the battlefield at the beginning of the next end step.
+Load {W} [i](You may cast this from your graveyard for its load cost by sacrificing a nonland, noncreature permanent in addition to its other costs. Exile it if it would be put into a graveyard.)[/i] => Exile target creature you control. Return it to the battlefield under its owner's control at the beginning of the next end step.
+Load {W} [i](You may cast this from your graveyard for its load cost by sacrificing a nonland, noncreature permanent in addition to its other costs. Exile it if it would be put into a graveyard.)[/i]
+
+Faithless
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Faithless gains “Creatures get -2/-0.” [i](This effect lasts indefinitely.)[/i]
+II — Draw three cards, then discard a card and put a card from your hand on the bottom of your library.
+III — Until end of turn, you may cast a copy of target instant or sorcery card in your graveyard by sacrificing an enchantment in addition to its other cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures get -2/-0 for as long as you control Faithless.
+II — Draw three cards, then discard a card and put a card from your hand on the bottom of your library.
+III — Until end of turn, you may cast a copy of target instant or sorcery card in your graveyard by sacrificing an enchantment in addition to its other cost.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Faithless gains “Creatures get -2/-0.” [i](This effect lasts indefinitely.)[/i]
+II — Draw three cards, then discard a card and put a card from your hand on the bottom of your library.
+III — Until end of turn, you may cast a copy of target instant or sorcery card in your graveyard by sacrificing an enchantment in addition to its other cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures get -2/-0 for as long as you control Faithless.
+II — Draw three cards, then discard a card and put a card from your hand on the bottom of your library.
+III — Until end of turn, you may cast a copy of target instant or sorcery card in your graveyard by sacrificing an enchantment in addition to its other cost.
+
+Music-Room Ghost
+rules_text: When Music-Room Ghost enters, each player mills three cards.
+Whenever you cast a spell from your graveyard, each opponent loses 1 life.
+Jumpscare {B} [i](You may cast this spell from your graveyard for its jumpscare cost. If you do, exile it when it enters or if it would leave the battlefield.)[/i] => When Music-Room Ghost enters and whenever you cast a spell from your graveyard, each opponent loses 1 life and you gain 1 life.
+Jumpscare {B} [i](You may cast this spell from your graveyard for its jumpscare cost. If you do, exile it when it enters or if it would leave the battlefield.)[/i]
+
+Foreboding Doll
+rules_text: Impending 3—{2}{R}{R}
+Whenever a counter is removed from Foreboding Doll, create a Save token. [i](It's an enchantment with “{1}, Sacrifice this, put a card from your hand on the bottom of your library: Draw a card.”)[/i] => Impending 3—{2}{R}{R} [i](If you cast this spell for its impending cost, it enters with three time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]
+Whenever a counter is removed from Foreboding Doll, create a Save token. [i](It's an enchantment with “{1}, Sacrifice this, put a card from your hand on the bottom of your library: Draw a card.”)[/i]
+
+Hero, Talented Cook
+rules_text: Whenever you attack, create a Food token.
+Whenever you gain life, put a +1/+1 counter on target creature you control. If Hero is SAD, it gains flying until end of turn.
+{4}{U}: Hero becomes SAD. Activate only as a sorcery. [i](Put a SAD role on him. It gives +2/+3 and ward {2}.)[/i] => Whenever you attack, create a Food token.
+Whenever you gain life, put a +1/+1 counter on target creature you control. If Hero is SAD, it gains flying until end of turn.
+{4}{U}: Hero becomes SAD. Activate only as a sorcery. [i](Put a SAD role on him. It gives +2/+3 and ward {2}. If you control another role on him, put that one into your graveyard.)[/i]
+
+Elise's Sacrifice
+rules_text: Forecast — {1}{B}, Reveal this card from your hand: Put a +1/+1 counter on target creature.
+As an additional cost to cast this spell, sacrifice a creature.
+You draw cards equal to the sacrificed creature's power. If it was legendary, create two Treasure tokens. => Forecast — {2}{B}, Reveal this card from your hand: Put a +1/+1 counter on target creature. [i](Activate only during your upkeep and only once each turn.)[/i]
+As an additional cost to cast this spell, sacrifice a creature.
+You draw cards equal to the sacrificed creature's power. If it was legendary, create two Treasure tokens.
+
+Kel, Energetic Baller
+rules_text: Haste
+Whenever an enchantment you control enters, double Kel's power until end of turn. If Kel is HAPPY, triple it instead.
+{5}{W}: Kel becomes HAPPY. Activate only as a sorcery. [i](Put a HAPPY role on him. It gives +4/+1 and first strike.)[/i] => Haste
+Whenever an enchantment you control enters, put a +1/+1 counter on Kel. Then if Kel is HAPPY, double the number of counters on him.
+{5}{W}: Kel becomes HAPPY. Activate only as a sorcery. [i](Put a HAPPY role on him. It gives +4/+1 and first strike. If you control another role on him, put that one into your graveyard.)[/i]
+pt: 1/2 => 1/1
+
+Japhet, Glorious Parasite
+cost: {2}{R}{R} => {3}{R}{R}
+rules_text: Mutate {3}{R}{R}
+Flying, haste
+When this creature enters or mutates, you may discard your hand. If you do, draw two cards.
+You may cast this card from your graveyard for its mutate cost. => Mutate {4}{R}{R} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+Flying, haste
+When this creature enters or mutates, you may discard your hand. If you do, draw two cards.
+You may cast this card from your graveyard for its mutate cost.
+special_text: Mutate {3}{R}{R}
+Flying, haste
+When this creature enters or mutates, you may discard your hand. If you do, draw two cards.
+You may cast this card from your graveyard for its mutate cost. => Mutate {4}{R}{R} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+Flying, haste
+When this creature enters or mutates, you may discard your hand. If you do, draw two cards.
+You may cast this card from your graveyard for its mutate cost.
+
+Das Ende
+rules_text: Create two Save tokens. Until end of turn, each Load cost in your graveyard becomes {0}. [i](It's an enchantment with “{1}, Sacrifice this, put a card from your hand on the bottom of your library: Draw a card.”)[/i]
+Exile Das Ende. => Search your library for up to two Ending cards and put them into your graveyard, then shuffle. Until end of turn, Load costs you pay cost {2} less.
+Exile Das Ende.
+
+Andrew Graves
+rules_text: Andrew Graves can't attack or block alone.
+Foods you control have “{1}{G}, {T}, Sacrifice this artifact: Draw a card. You may put a land card from your hand onto the battlefield tapped.” => Andrew Graves can't attack alone.
+Foods you control have “{1}{G}, {T}, Sacrifice this artifact: Draw a card. You may put a land card from your hand onto the battlefield tapped.”
+
+Witching Hour
+rules_text: Each player mills ten cards. When you do, for each card type milled this way, choose one. You may choose the same option more than once —
+• You draw a card then discard a card.
+• Each opponent loses 1 life and you gain 1 life.
+• Create a 1/1 white Toy artifact creature token.
+Load {4}{U}{B} [i](You may cast this from your graveyard for its load cost by sacrificing a nonland, noncreature permanent in addition to its other costs. Exile it if it would be put into a graveyard.)[/i] => Each player mills ten cards. When you do, for each card type milled this way, choose one. You may choose the same option more than once.
+• You draw a card then discard a card.
+• Each opponent loses 1 life and you gain 1 life.
+• Create a 1/1 white Toy artifact creature token.
+Load {4}{U}{B} [i](You may cast this from your graveyard for its load cost by sacrificing a nonland, noncreature permanent in addition to its other costs. Exile it if it would be put into a graveyard.)[/i]
+
+Henri die Heilige
+rules_text: Ward {2}
+When Henri die Heilige enters or attacks, each player mills two cards. If a player milled two cards that share a card type, repeat this process.
+If you would draw a card while your library has no cards in it, create five 1/1 white Spirit creature tokens named Golden Maiden instead. => Ward {2}
+When Henri die Heilige enters or attacks, each player mills two cards. If a player milled two cards that share a nonland card type, repeat this process.
+If you would draw a card while your library has no cards in it, create five 1/1 white Spirit creature tokens named Golden Maiden instead.
+
+Space Ex-Husband
+rules_text: This creature can't attack or block and has hexproof as long as he isn't enchanted.
+At the beginning of your upkeep, you may pay {W}. If you do, put a HAPPY role on this creature. The same is true for {U} and SAD and {R} and ANGRY. [i](They are Auras that grant +4/+1 and first strike while attacking, +2/+3 and ward {2} and +6/-1 and trample, respectively.)[/i] => This creature can't attack or block and has hexproof as long as he isn't enchanted.
+At the beginning of your upkeep, you may pay {W}. If you do, put a HAPPY role on this creature. The same is true for {U} and SAD and {R} and ANGRY. [i](They are Roles that grant +4/+1 and first strike while attacking, +2/+3 and ward {2} and +6/-1 and trample, respectively. If you control another role on him, put that one into your graveyard.)[/i]
+
+Oyasumi
+rules_text: Target player mills seven cards. When they do, exile a card from their graveyard. You may cast it for as long as it remains exiled and may pay mana of any color to cast it.
+Load {2}{U}{B} [i](You may cast this from your graveyard for its load cost by sacrificing a nonland, noncreature permanent in addition to its other costs. Exile it if it would be put into a graveyard.)[/i] => Target opponent mills seven cards. When they do, exile a card from their graveyard. You may cast it for as long as it remains exiled and may pay mana of any color to cast it.
+Load {2}{U}{B} [i](You may cast this from your graveyard for its load cost by sacrificing a nonland, noncreature permanent in addition to its other costs. Exile it if it would be put into a graveyard.)[/i]
+
+Girl's Midnight Secret
+rules_text: Hideaway 4
+Sacrifice three other enchantments: You may play the exiled card without paying its mana cost. If you do, return Girl's Midnight Secret to its owner's hand. => Hideaway 4 [i](When this enchantment enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)[/i]
+Sacrifice three other enchantments: You may play the exiled card without paying its mana cost. If you do, return Girl's Midnight Secret to its owner's hand.
+
+Aubrey, Hard-Headed
+rules_text: Whenever Aubrey deals combat damage to an opponent, create a 1/1 green Plant creature token. If she's ANGRY, put two +1/+1 counters on it.
+{5}{R}: Aubrey becomes ANGRY. Activate only as a sorcery. [i](Put an ANGRY role on her. It gives +6/-1 and trample.)[/i] => Whenever Aubrey deals combat damage to an opponent, create a 1/1 green Plant creature token. If she's ANGRY, put two +1/+1 counters on it.
+{5}{R}: Aubrey becomes ANGRY. Activate only as a sorcery. [i](Put an ANGRY role on her. It gives +6/-1 and trample. If you control another role on her, put that one into your graveyard.)[/i]
+
+Fateful Verdict
+rules_text: Choose one —
+• [i]Smash the TV — [/i]Exile target artifact or enchantment. You gain 2 life.
+• [i]Let Her Live [/i]— Create a token that's a copy of target creature you control, except it's a 1/1 Toy named Charlotte Wiltshire. => Choose one —
+• [i]Smash the TV — [/i]Exile target artifact or enchantment. You gain 2 life.
+• [i]Let Her Live [/i]— Create a tapped token that's a copy of target creature you control, except it's a 1/1 Toy named Charlotte Wiltshire.
+
+Charles Eyler
+rules_text: Charles Eyler can't attack or block.
+You may cast creature spells from your graveyard. When you cast a creature spell this way, that creature becomes a Saga enchantment in addition to their other types and gains “this creature can't block.” Put a finality counter on it. => Charles Eyler can't attack or block.
+You may cast creature spells from your graveyard. When you cast a creature spell this way, that creature becomes a Saga enchantment with three chapters in addition to their other types and gains “This creature can't block.” Put a finality counter on it.
+
+Chicken Frenzy!
+cost: {2}{R} => {1}{R}
+rules_text: Gain the next level as a sorcery to add its ability.
+Objective — Cast noncreature spells. [i](At the beginning of your end step, trigger an ability according to the number of noncreature spells you've cast this turn.)[/i]
+[b]F Grade[/b] 1 or less
+Create a 1/1 red Bird creature token.
+[b]B Grade[/b] 2 or more
+Create two 1/1 red Bird creature tokens.
+[b]S Grade[/b] 4 or more
+Create two 1/1 red Bird creature tokens. Put a +1/+1 counter on each creature you control. => Gain the next level as a sorcery to add its ability.
+[i](At the end of your turn, if this didn't enter this turn, trigger a Grade equal to the number of counters on this and sacrifice it.)[/i]
+Whenever you cast a noncreature spell, put an objective counter on this.
+[b]F Grade[/b] 2 or less
+Create two 1/1 red Bird creature tokens.
+[b]B Grade[/b] 3 — 4
+Create two 1/1 red Bird creature tokens. Put a +1/+1 counter on each of those creatures.
+[b]S Grade[/b] 5 or more
+Create three 1/1 red Bird creature tokens. Put a +1/+1 counter on each creature you control.
+special_text: Gain the next level as a sorcery to add its ability.
+Objective — Cast noncreature spells. [i](At the beginning of your end step, trigger an ability according to the number of noncreature spells you've cast this turn.)[/i]
+[b]F Grade[/b] 1 or less
+Create a 1/1 red Bird creature token.
+[b]B Grade[/b] 2 or more
+Create two 1/1 red Bird creature tokens.
+[b]S Grade[/b] 4 or more
+Create two 1/1 red Bird creature tokens. Put a +1/+1 counter on each creature you control. => Gain the next level as a sorcery to add its ability.
+[i](At the end of your turn, if this didn't enter this turn, trigger a Grade equal to the number of counters on this and sacrifice it.)[/i]
+Whenever you cast a noncreature spell, put an objective counter on this.
+[b]F Grade[/b] 2 or less
+Create two 1/1 red Bird creature tokens.
+[b]B Grade[/b] 3 — 4
+Create two 1/1 red Bird creature tokens. Put a +1/+1 counter on each of those creatures.
+[b]S Grade[/b] 5 or more
+Create three 1/1 red Bird creature tokens. Put a +1/+1 counter on each creature you control.
+
+Kitchen Mayhem
+rules_text: At the beginning of your end step, if an opponent lost 3 or more life this turn, create a Food token.
+Whenever you sacrifice a Food, create a 1/1 green Plant creature token. => At the beginning of your end step, if an opponent lost life this turn, create a Food token.
+Whenever you sacrifice a Food, create a 1/1 green Plant creature token.
+
+Musical Chairs
+cost: {3}{B} => {2}{B}
+rules_text: Gain the next level as a sorcery to add its ability.
+Objective — Sacrifice creatures. [i](At the beginning of your end step, trigger an ability according to the number of creatures you've sacrificed this turn.)[/i]
+[b]F Grade[/b] 1 or less
+You lose 1 life and draw a card.
+[b]B Grade[/b] 2 or more
+Each opponent loses 1 life and discards a card. You gain 1 life and draw a card.
+[b]S Grade[/b] 4 or more
+Draw a card for each creature that died this turn. Each opponent loses life equal to the number of cards drawn this way. => Gain the next level as a sorcery to add its ability.
+[i](At the end of your turn, if this didn't enter this turn, trigger a Grade equal to the number of counters on this and sacrifice it.)[/i]
+Whenever you sacrifice a creature, put an objective counter on this.
+[b]F Grade[/b] 2 or less
+You draw two card and lose 2 life.
+[b]B Grade[/b] 3 — 6
+You draw two cards and gain 2 life. Each opponent discards two cards and loses 2 life.
+[b]S Grade[/b] 7 or more
+You draw X cards and each opponent loses X life, where X is the number of counters on Musical Chairs.
+special_text: Gain the next level as a sorcery to add its ability.
+Objective — Sacrifice creatures. [i](At the beginning of your end step, trigger an ability according to the number of creatures you've sacrificed this turn.)[/i]
+[b]F Grade[/b] 1 or less
+You lose 1 life and draw a card.
+[b]B Grade[/b] 2 or more
+Each opponent loses 1 life and discards a card. You gain 1 life and draw a card.
+[b]S Grade[/b] 4 or more
+Draw a card for each creature that died this turn. Each opponent loses life equal to the number of cards drawn this way. => Gain the next level as a sorcery to add its ability.
+[i](At the end of your turn, if this didn't enter this turn, trigger a Grade equal to the number of counters on this and sacrifice it.)[/i]
+Whenever you sacrifice a creature, put an objective counter on this.
+[b]F Grade[/b] 2 or less
+You draw two card and lose 2 life.
+[b]B Grade[/b] 3 — 6
+You draw two cards and gain 2 life. Each opponent discards two cards and loses 2 life.
+[b]S Grade[/b] 7 or more
+You draw X cards and each opponent loses X life, where X is the number of counters on Musical Chairs.
+
+Kiss the Rat!
+cost: {W} => {1}{W}
+rules_text: Gain the next level as a sorcery to add its ability.
+Objective — Attack with creatures. [i](At the beginning of your end step, trigger an ability according to the number of creatures you've attacked with this turn.)[/i]
+[b]F Grade[/b] 1 or less
+You gain 1 life and scry 1.
+[b]B Grade[/b] 2 or more
+Return target creature card with mana value 3 or less from your graveyard to your hand.
+[b]S Grade[/b] 4 or more
+Return target creature card with mana value 3 or less from your graveyard to the battlefield. => Gain the next level as a sorcery to add its ability.
+[i](At the end of your turn, if this didn't enter this turn, trigger a Grade equal to the number of counters on this and sacrifice it.)[/i]
+Whenever a creature you control attacks, put an objective counter on this.
+[b]F Grade[/b] 2 or less
+Distribute two +1/+1 counters among creatures you control.
+[b]B Grade[/b] 3 — 5
+Put a +1/+1 counter on each creature you control.
+[b]S Grade[/b] 6 or more
+Return each creature card with mana value 3 or less from your graveyard to the battlefield tapped.
+special_text: Gain the next level as a sorcery to add its ability.
+Objective — Attack with creatures. [i](At the beginning of your end step, trigger an ability according to the number of creatures you've attacked with this turn.)[/i]
+[b]F Grade[/b] 1 or less
+You gain 1 life and scry 1.
+[b]B Grade[/b] 2 or more
+Return target creature card with mana value 3 or less from your graveyard to your hand.
+[b]S Grade[/b] 4 or more
+Return target creature card with mana value 3 or less from your graveyard to the battlefield. => Gain the next level as a sorcery to add its ability.
+[i](At the end of your turn, if this didn't enter this turn, trigger a Grade equal to the number of counters on this and sacrifice it.)[/i]
+Whenever a creature you control attacks, put an objective counter on this.
+[b]F Grade[/b] 2 or less
+Distribute two +1/+1 counters among creatures you control.
+[b]B Grade[/b] 3 — 5
+Put a +1/+1 counter on each creature you control.
+[b]S Grade[/b] 6 or more
+Return each creature card with mana value 3 or less from your graveyard to the battlefield tapped.
+
+It's Raining Apples!
+rules_text: Gain the next level as a sorcery to add its ability.
+Objective — Create tokens. [i](At the beginning of your end step, trigger an ability according to the number of tokens you've created this turn.)[/i]
+[b]F Grade[/b] 2 or less
+Reveal the top card of your library. If it's a permanent card, you may put it into your hand.
+[b]B Grade[/b] 4 or less
+You may put a permanent card from your hand onto the battlefield.
+[b]S Grade[/b] 6 or more
+Trigger the abilities of F grade, then B grade. => Gain the next level as a sorcery to add its ability.
+[i](At the end of your turn, if this didn't enter this turn, trigger a Grade equal to the number of counters on this and sacrifice it.)[/i]
+Whenever you create a token, put an objective counter on this.
+[b]F Grade[/b] 3 or less
+Return up to two target non-Minigame cards from your graveyard to your hand.
+[b]B Grade[/b] 5 — 7
+You may put a permanent card from your hand onto the battlefield.
+[b]S Grade[/b] 7 or more
+Trigger the abilities of F grade, then B grade.
+special_text: Gain the next level as a sorcery to add its ability.
+Objective — Create tokens. [i](At the beginning of your end step, trigger an ability according to the number of tokens you've created this turn.)[/i]
+[b]F Grade[/b] 2 or less
+Reveal the top card of your library. If it's a permanent card, you may put it into your hand.
+[b]B Grade[/b] 4 or less
+You may put a permanent card from your hand onto the battlefield.
+[b]S Grade[/b] 6 or more
+Trigger the abilities of F grade, then B grade. => Gain the next level as a sorcery to add its ability.
+[i](At the end of your turn, if this didn't enter this turn, trigger a Grade equal to the number of counters on this and sacrifice it.)[/i]
+Whenever you create a token, put an objective counter on this.
+[b]F Grade[/b] 3 or less
+Return up to two target non-Minigame cards from your graveyard to your hand.
+[b]B Grade[/b] 5 — 7
+You may put a permanent card from your hand onto the battlefield.
+[b]S Grade[/b] 7 or more
+Trigger the abilities of F grade, then B grade.
+
+Chop Chop Chop!
+rules_text: Gain the next level as a sorcery to add its ability.
+Objective — Mill cards. [i](At the beginning of your end step, trigger an ability according to the number of cards you've milled this turn.)[/i]
+[b]F Grade[/b] 4 or less
+Scry 1.
+[b]B Grade[/b] 7 or less
+Exile target instant or sorcery card with mana value 3 or less from your graveyard. You may play it until the end of your next turn.
+[b]S Grade[/b] 14 or more
+Exile target instant or sorcery card from your graveyard. You may cast it without paying its mana cost. => Gain the next level as a sorcery to add its ability.
+[i](At the end of your turn, if this didn't enter this turn, trigger a Grade equal to the number of counters on this and sacrifice it.)[/i]
+Whenever you mill a card, put an objective counter on this.
+[b]F Grade[/b] 6 or less
+Scry 2, then draw a card.
+[b]B Grade[/b] 7 — 13
+Exile target instant or sorcery card with mana value 3 or less from your graveyard. You may cast it without paying its mana cost.
+[b]S Grade[/b] 14 or more
+Exile target instant or sorcery card from your graveyard. You may cast it without paying its mana cost.
+special_text: Gain the next level as a sorcery to add its ability.
+Objective — Mill cards. [i](At the beginning of your end step, trigger an ability according to the number of cards you've milled this turn.)[/i]
+[b]F Grade[/b] 4 or less
+Scry 1.
+[b]B Grade[/b] 7 or less
+Exile target instant or sorcery card with mana value 3 or less from your graveyard. You may play it until the end of your next turn.
+[b]S Grade[/b] 14 or more
+Exile target instant or sorcery card from your graveyard. You may cast it without paying its mana cost. => Gain the next level as a sorcery to add its ability.
+[i](At the end of your turn, if this didn't enter this turn, trigger a Grade equal to the number of counters on this and sacrifice it.)[/i]
+Whenever you mill a card, put an objective counter on this.
+[b]F Grade[/b] 6 or less
+Scry 2, then draw a card.
+[b]B Grade[/b] 7 — 13
+Exile target instant or sorcery card with mana value 3 or less from your graveyard. You may cast it without paying its mana cost.
+[b]S Grade[/b] 14 or more
+Exile target instant or sorcery card from your graveyard. You may cast it without paying its mana cost.
+
+Fleta's Outburst
+cost: {1}{R} => {R}
+
+Faithless Leap
+rules_text: Target creature you control gets +3/+0 and gains flying until end of turn. Sacrifice it at the beginning of the next end step.
+Load {R} [i](You may cast this from your graveyard for its load cost by sacrificing a nonland, noncreature permanent in addition to its other costs. Exile it if it would be put into a graveyard.)[/i] => Target creature you control gets +2/+0 and gains flying until end of turn. Sacrifice it at the beginning of the next end step.
+Load {R} [i](You may cast this from your graveyard for its load cost by sacrificing a nonland, noncreature permanent in addition to its other costs. Exile it if it would be put into a graveyard.)[/i]
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Sunny, the Dreamer added.

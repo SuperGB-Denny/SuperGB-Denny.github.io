@@ -2194,7 +2194,7 @@
 		{
 			"name": "Japhet, Glorious Parasite",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}{R}",
+			"mana_cost": "{3}{R}{R}",
 			"type": "Legendary Creature — Phoenix Noble",
 			"collector_number": "169",
 			"image_uris": {
@@ -3228,7 +3228,7 @@
 		{
 			"name": "Chicken Frenzy!",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Minigame",
 			"collector_number": "151",
 			"image_uris": {
@@ -3288,7 +3288,7 @@
 		{
 			"name": "Musical Chairs",
 			"rarity": "rare",
-			"mana_cost": "{3}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Minigame",
 			"collector_number": "122",
 			"image_uris": {
@@ -3298,7 +3298,7 @@
 		{
 			"name": "Kiss the Rat!",
 			"rarity": "rare",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Minigame",
 			"collector_number": "19",
 			"image_uris": {
@@ -3368,7 +3368,7 @@
 		{
 			"name": "Fleta's Outburst",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "160",
 			"image_uris": {
