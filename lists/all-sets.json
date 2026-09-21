@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "AWA",
+            "set_name": "Anglodoor Awakened",
+            "formats": ""
+        },
+        {
             "set_code": "PBA",
             "set_name": "Phirback Academy",
             "formats": ""
