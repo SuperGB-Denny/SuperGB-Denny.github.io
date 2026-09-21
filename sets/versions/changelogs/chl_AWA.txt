@@ -1,4 +1,94 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Eulphanian Herbalist
+rules_text: When Eulphanian Herbalist or a creature with power 2 or less enters under your control, scry 1. => When Eulphanian Herbalist or a creature with base power 2 or less enters under your control, scry 1.
+
+Lanternlight Angel
+rules_text: Flying
+Pathlighter [i](When this creature attacks, choose another attacking creature. That creature can't be blocked unless this creature is also blocked.)[/i]
+When Lanternlight Angel enters the battlefield, scry 2. => Flying
+Pathlighter [i](When this creature attacks, choose another attacking creature. That creature can't be blocked unless this creature is also blocked.)[/i]
+When Lanternlight Angel enters, scry 2.
+
+Bringer of Life
+rules_text: Unity [i](This spell costs {1} less to cast for each kind of counter among permanents you control.)[/i]
+Flying
+When Bringer of Life enters the battlefield, you gain 2 life for each creature you control. => Unity [i](This spell costs {1} less to cast for each kind of counter among permanents you control.)[/i]
+Flying
+When Bringer of Life enters, you gain 2 life for each creature you control.
+
+Deep-Sea Behemoth
+rules_text: Ward {2}
+When Deep-Sea Behemoth enters the battlefield, return up to one target creature to its owner's hand. => Ward {2}
+When Deep-Sea Behemoth enters, return up to one target creature to its owner's hand.
+
+Crow Whisperer
+rules_text: When Crow Whisperer enters the battlefield or dies, create a 1/1 black Bird creature token with flying and “This creature can't block.” => When Crow Whisperer enters or dies, create a 1/1 black Bird creature token with flying and “This creature can't block.”
+
+Dreambringer Angel
+rules_text: Flying
+When Dreambringer Angel enters the battlefield, target opponent loses 2 life and you gain 2 life.
+Cycling {1}{B} [i]({1}{B}, Discard this card: Draw a card.)[/i] => Flying
+When Dreambringer Angel enters, target opponent loses 2 life and you gain 2 life.
+Cycling {1}{B} [i]({1}{B}, Discard this card: Draw a card.)[/i]
+
+Deeproot Sentinel
+rules_text: When Deeproot Sentinel enters the battlefield, mill two cards.
+Whenever a creature card is put into your graveyard from anywhere, put your choice of a +1/+1 or trample counter on Deeproot Sentinel. This ability triggers only once each turn. => When Deeproot Sentinel enters, mill two cards.
+Whenever a creature card is put into your graveyard from anywhere, put your choice of a +1/+1 or trample counter on Deeproot Sentinel. This ability triggers only once each turn.
+
+Elven Soothe Singer
+rules_text: Whenever a creature with power 2 or less enters under your control, Elven Soothe Singer gains +1/+1 until end of turn. => Whenever another creature with base power 2 or less enters under your control, Elven Soothe Singer gains +1/+1 until end of turn.
+
+Manvra's Concealment
+rules_text: Unity [i](This spell costs {1} less to cast for each kind of counter among permanents you control.)[/i]
+When Manvra's Concealment enters the battlefield, exile target nonland permanent until Manvra's Concealment leaves the battlefield. => Unity [i](This spell costs {1} less to cast for each kind of counter among permanents you control.)[/i]
+When Manvra's Concealment enters, exile target nonland permanent until Manvra's Concealment leaves the battlefield.
+
+Undying Hope
+rules_text: When Undying Hope enters the battlefield, pray. [i](Create a white Prayer enchantment token with “Sacrifice three Prayers: Create a 3/3 white Angel creature token with flying. Activate only as a sorcery.”)[/i]
+Whenever one or more nontoken creatures you control attack, create a copy of target token you control not named Undying Hope. => When Undying Hope enters, pray. [i](Create a white Prayer enchantment token with “Sacrifice three Prayers: Create a 3/3 white Angel creature token with flying. Activate only as a sorcery.”)[/i]
+Whenever one or more nontoken creatures you control attack, create a copy of target token you control not named Undying Hope.
+
+Cheerful Shepherd
+rules_text: Whenever a creature enters the battlefield under your control, you gain 1 life.
+{1}{W}: Exile Cheerful Shepherd, then return her to the battlefield transformed. Activate only if you gained 4 or more life this turn and only as a sorcery. => Whenever another creature you control enters, you gain 1 life.
+{1}{W}: Exile Cheerful Shepherd, then return her to the battlefield transformed. Activate only if you gained 4 or more life this turn and only as a sorcery.
+
+Court Overseer
+rules_text: Whenever Court Overseer or another creature with power 2 or less enters under your control, you gain 1 life and draw a card. This ability triggers only once each turn. => Whenever Court Overseer or another creature with base power 2 or less enters under your control, you gain 1 life and draw a card. This ability triggers only once each turn.
+
+Manvra, the Hidden Haven
+rules_text: Manvra, the Hidden Haven enters the battlefield tapped unless you control a blue permanent.
+{T}: Add {U}.
+{1}{U}{U}, {T}: Draw a card, then discard a card. => Manvra, the Hidden Haven enters tapped unless you control a blue permanent.
+{T}: Add {U}.
+{1}{U}{U}, {T}: Draw a card, then discard a card.
+
+Keeper of the Hidden Haven
+rules_text: Whenever a nontoken creature with power 2 or less enters under your control, create a 1/1 blue Elf creature token.
+{1}{U}: Return another target creature you control to its owner's hand. => Whenever a nontoken creature with base power 2 or less enters under your control, create a 1/1 blue Elf creature token.
+{1}{U}: Return another target creature you control to its owner's hand.
+
+Angel of the Last Breath
+rules_text: Flash
+Flying
+When Angel of the Last Breath enters the battlefield, you can't lose the game this turn and your opponents can't win the game this turn. Until end of turn, your life total can't change. => Flash
+Flying
+When Angel of the Last Breath enters, you can't lose the game this turn and your opponents can't win the game this turn. Until end of turn, your life total can't change.
+
+Hila, Servant of Miriam
+rules_text: When Hila enters the battlefield, create a 3/3 white Angel creature token with flying.
+Angels you control get +1/+1 and have vigilance.
+If Hila would die, exile her instead. When you do, she gains “You may cast this spell transformed from exile by paying {2}{W}{W}.” => When Hila enters, create a 3/3 white Angel creature token with flying.
+Angels you control get +1/+1 and have vigilance.
+If Hila would die, exile her instead. When you do, she gains “You may cast this spell transformed from exile by paying {2}{W}{W}.”
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
