@@ -1,4 +1,20 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Divine Judgement
+rules_text: Stutter {2}{W} [i](If you cast this spell for its stutter cost, exile it as it resolves. At the beginning of your next upkeep, you may cast it from exile without paying its mana cost.)[/i]
+Put a +1/+1 counter on up to X creatures. If this spell was cast for its stutter cost, put a +1/+1 counter on target creature instead. Each creature targeted this way gains protection from everything until end of turn. => Stutter {2}{W} [i](If you cast this spell for its stutter cost, exile it as it resolves. At the beginning of your next upkeep, you may cast it from exile without paying its mana cost.)[/i]
+Put a +1/+1 counter on up to X creatures. If this stuttered, put a +1/+1 counter on target creature instead. Each creature targeted this way gains protection from everything until end of turn.
+
+Flames of the Forgotten
+rules_text: Stutter {3}{R} [i](If you cast this spell for its stutter cost, exile it as it resolves. At the beginning of your next upkeep, you may cast it from exile without paying its mana cost.)[/i]
+Up to X target creatures get +1/+1 until end of turn. If this spell was cast for its stutter cost, target creature gets +1/+1 until end of turn instead. Creatures targeted this way gain double strike and trample until end of turn. => Stutter {3}{R} [i](If you cast this spell for its stutter cost, exile it as it resolves. At the beginning of your next upkeep, you may cast it from exile without paying its mana cost.)[/i]
+Up to X target creatures get +1/+1 until end of turn. If this spell was stuttered, target creature gets +1/+1 until end of turn instead. Creatures targeted this way gain double strike and trample until end of turn.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
